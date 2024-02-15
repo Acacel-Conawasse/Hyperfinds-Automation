@@ -80,8 +80,37 @@ def employment_status_steps():
     time.sleep(0.72)
     move_and_click(1147, 381)
     time.sleep(0.72)
-    #move_and_click(1419, 789)
-    #time.sleep(0.72)
+    move_and_click(1419, 789)
+    time.sleep(0.72)
+
+def schedule_group_steps():
+    """Performs additional steps if Schedule Group is 'Y"""
+    #Add already selected from current screen 
+    move_and_click(1425,778)
+    time.sleep(0.72)
+    #Click and Close Drop down 
+    move_and_click(1011,258)
+    time.sleep(0.72)
+    #Open Scheduling Drop down 
+    move_and_click(1016,258)
+    time.sleep(0.72)
+    #Select Scheduling group 
+    move_and_click(1075,499)
+    time.sleep(0.72)
+    #click Text Entry Field 
+    move_and_click(1334,344)
+    time.sleep(0.72)
+    #Click Search 
+    move_and_click(1529,340)
+    time.sleep(0.72)
+    #Select and Move Schedule group
+    move_and_click(1415,373)
+    time.sleep(0.72)
+    move_and_click(1539,379)
+    time.sleep(0.72)
+    #Add Conditions 
+    move_and_click(1425,782)
+    time.sleep(0.72)
 
 def finalize_hyperfind_creation():
     """Finalizes and saves the Hyperfind."""
@@ -108,6 +137,10 @@ def process_hyperfind(hyperfind_name, description, cost_centers, orgunit, employ
     # Check employment status and perform additional steps if 'Y'
     if employment_status == "Y":
         employment_status_steps()
+
+    # Check Schedule group and perform additional steps if 'Y'
+    if schedule_group == "String":
+        schedule_group_steps()
 
     finalize_hyperfind_creation()
 

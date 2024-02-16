@@ -6755,4 +6755,3 @@
 2024-02-16 01:48:14 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
 2024-02-16 01:48:14 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
 2024-02-16 01:48:18 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-02-16 01:48:21 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval

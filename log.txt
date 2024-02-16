@@ -47,3 +47,591 @@
 2024-02-14 11:30:41 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
 2024-02-14 11:30:44 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
 2024-02-14 11:30:47 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:07:03 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:07:04 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:07:05 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:07:05 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:07:07 - Entered text: AdmReg-60012069-Rev Cycle V JHH
+2024-02-15 21:07:07 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:07:08 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:07:09 - Entered text: Org Unit 60012069
+2024-02-15 21:07:09 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:07:12 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:07:15 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:07:15 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:07:17 - Entered text: 60012069
+2024-02-15 21:07:17 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:07:18 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:07:19 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:07:20 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:07:21 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:07:22 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:07:23 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:08:42 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:08:43 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:08:44 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:08:44 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:08:45 - Entered text: AdmReg-60012069-Rev Cycle V JHH
+2024-02-15 21:08:45 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:08:46 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:08:46 - Entered text: Org Unit 60012069
+2024-02-15 21:08:46 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:08:51 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:08:55 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:08:55 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:08:57 - Entered text: 60012069
+2024-02-15 21:08:57 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:08:58 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:09:00 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:09:01 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:09:02 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:09:02 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:09:03 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:09:07 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:09:10 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:10:20 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:10:21 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:10:22 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:10:23 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:10:23 - Entered text: AdmReg-60012069-Rev Cycle V JHH
+2024-02-15 21:10:24 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:10:24 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:10:24 - Entered text: Org Unit 60012069
+2024-02-15 21:10:25 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:10:29 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:10:33 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:10:34 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:10:35 - Entered text: 60012069
+2024-02-15 21:10:36 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:10:37 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:10:38 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:10:39 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:10:40 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:10:41 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:10:45 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:10:48 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:10:51 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:10:52 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:10:53 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:10:53 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:10:54 - Entered text: AdmReg-60012070-Rev Cycle IV JHH
+2024-02-15 21:10:55 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:10:55 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:10:55 - Entered text: Org Unit 60012070
+2024-02-15 21:10:55 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:11:00 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:11:04 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:11:04 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:11:06 - Entered text: 60012070
+2024-02-15 21:11:07 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:11:07 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:11:09 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:11:10 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:11:11 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:11:12 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:11:16 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:11:19 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:11:22 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:11:23 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:11:24 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:11:24 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:11:25 - Entered text: AdmReg-60012071-Rev Cycle III JHH
+2024-02-15 21:11:25 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:11:26 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:11:26 - Entered text: Org Unit 60012071
+2024-02-15 21:11:26 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:11:31 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:11:35 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:11:35 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:11:37 - Entered text: 60012071
+2024-02-15 21:11:37 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:11:38 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:11:40 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:11:41 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:11:42 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:11:43 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:11:46 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:11:50 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:11:53 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:11:54 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:11:55 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:11:55 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:11:56 - Entered text: AdmReg-60012101-Mgmt Svcs IV
+2024-02-15 21:11:56 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:11:57 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:11:57 - Entered text: Org Unit 60012101
+2024-02-15 21:11:57 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:12:01 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:12:06 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-02-15 21:12:06 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:12:08 - Entered text: 60012101
+2024-02-15 21:12:08 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:12:09 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:12:10 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:12:11 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:12:12 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:12:14 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:12:17 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:12:21 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:12:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:12:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:12:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:12:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:12:27 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:12:27 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:12:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:12:28 - Entered text: Cost center 4680020010 
+2024-02-15 21:12:28 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:12:32 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:12:37 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:12:37 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:12:39 - Entered text: 4680020010
+2024-02-15 21:12:39 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:12:40 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:12:41 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:12:42 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:12:43 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:12:45 - Mouse moved and clicked at (1425, 778), with a 0.20 second interval
+2024-02-15 21:12:46 - Mouse moved and clicked at (1011, 258), with a 0.20 second interval
+2024-02-15 21:12:47 - Mouse moved and clicked at (1016, 258), with a 0.20 second interval
+2024-02-15 21:12:48 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:12:49 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:12:50 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:12:51 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:12:51 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:12:52 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:12:53 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:12:54 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:12:57 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:13:01 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:13:04 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:13:05 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:13:05 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:13:06 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:13:07 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 21:13:07 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:13:08 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:13:08 - Entered text: Cost center 4680020010 
+2024-02-15 21:13:09 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:13:13 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:15:55 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:15:55 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:15:56 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:15:57 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:15:58 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:15:58 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:15:58 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:15:59 - Entered text: Cost center 4680020010 
+2024-02-15 21:15:59 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:16:03 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:16:07 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:16:08 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:16:10 - Entered text: 4680020010
+2024-02-15 21:16:10 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:16:11 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:16:12 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:16:13 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:16:14 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:16:17 - Mouse moved and clicked at (1011, 258), with a 0.20 second interval
+2024-02-15 21:16:18 - Mouse moved and clicked at (1016, 258), with a 0.20 second interval
+2024-02-15 21:16:18 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:16:19 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:16:20 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:16:22 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:16:22 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:16:23 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:16:24 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:16:25 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:16:28 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:16:31 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:16:35 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:16:35 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:16:36 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:16:37 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:16:38 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 21:16:38 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:16:38 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:16:39 - Entered text: Cost center 4680020010 
+2024-02-15 21:16:39 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:44:13 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:44:14 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:44:15 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:44:15 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:44:17 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:44:17 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:44:18 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:44:19 - Entered text: Cost center 4680020010 
+2024-02-15 21:44:19 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:44:22 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:44:25 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:44:25 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:44:27 - Entered text: 4680020010
+2024-02-15 21:44:27 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:44:28 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:44:29 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:44:30 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:44:31 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:44:32 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:44:33 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:44:33 - Mouse moved and clicked at (1101, 707), with a 0.20 second interval
+2024-02-15 21:44:34 - Mouse moved and clicked at (1022, 462), with a 0.20 second interval
+2024-02-15 21:44:35 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:44:36 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:44:37 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:44:38 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:44:38 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:44:39 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:44:40 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:44:41 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:45:29 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:45:29 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:45:30 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:45:31 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:45:32 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:45:33 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:45:33 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:45:34 - Entered text: Cost center 4680020010 
+2024-02-15 21:45:34 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:45:37 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:45:40 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:45:41 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:45:43 - Entered text: 4680020010
+2024-02-15 21:45:43 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:45:44 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:45:45 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:45:45 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:45:46 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:45:47 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:45:48 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:45:49 - Mouse moved and clicked at (1101, 707), with a 0.20 second interval
+2024-02-15 21:45:49 - Mouse moved and clicked at (1022, 462), with a 0.20 second interval
+2024-02-15 21:45:50 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:45:51 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:45:52 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:45:54 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:45:54 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:45:55 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:45:56 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:45:57 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:46:28 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:46:29 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:46:30 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:46:30 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:46:32 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:46:32 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:46:33 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:46:34 - Entered text: Cost center 4680020010 
+2024-02-15 21:46:34 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:46:37 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:46:40 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:46:40 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:46:42 - Entered text: 4680020010
+2024-02-15 21:46:42 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:46:43 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:46:45 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:46:45 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:46:46 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:46:47 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:46:48 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:46:49 - Mouse moved and clicked at (1101, 707), with a 0.20 second interval
+2024-02-15 21:46:49 - Mouse moved and clicked at (1022, 462), with a 0.20 second interval
+2024-02-15 21:46:50 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:46:51 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:46:52 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:46:53 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:46:53 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:46:54 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:46:55 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:46:56 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:46:59 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:47:45 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:47:46 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:47:46 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:47:47 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:47:49 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:47:49 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:47:50 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:47:50 - Entered text: Cost center 4680020010 
+2024-02-15 21:47:51 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:47:55 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:47:59 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:48:00 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:48:01 - Entered text: 4680020010
+2024-02-15 21:48:02 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:48:03 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:48:04 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:48:04 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:48:05 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:48:06 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:48:07 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 21:48:08 - Mouse moved and clicked at (1101, 707), with a 0.20 second interval
+2024-02-15 21:48:08 - Mouse moved and clicked at (1022, 462), with a 0.20 second interval
+2024-02-15 21:48:09 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:48:10 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:48:11 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:48:12 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:48:13 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:48:14 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:48:14 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:48:15 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:48:19 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:48:22 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:48:25 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:48:26 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:48:27 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:48:27 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:48:29 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 21:48:29 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:48:30 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:48:31 - Entered text: Cost center 4680020010 
+2024-02-15 21:48:31 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:57:15 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:57:16 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:57:16 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:57:17 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:57:18 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 21:57:18 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:57:18 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:57:19 - Entered text: Cost center 4680020010 
+2024-02-15 21:57:19 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:57:23 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:57:28 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:57:28 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:57:28 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:57:30 - Entered text: 4680020010
+2024-02-15 21:57:31 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:57:32 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:57:33 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:57:34 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:57:35 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:57:37 - Mouse moved and clicked at (1011, 258), with a 0.20 second interval
+2024-02-15 21:57:38 - Mouse moved and clicked at (1016, 258), with a 0.20 second interval
+2024-02-15 21:57:39 - Mouse moved and clicked at (1075, 499), with a 0.20 second interval
+2024-02-15 21:57:40 - Mouse moved and clicked at (1334, 344), with a 0.20 second interval
+2024-02-15 21:57:41 - Mouse moved and clicked at (1529, 340), with a 0.20 second interval
+2024-02-15 21:57:42 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 21:57:42 - Mouse moved and clicked at (1415, 373), with a 0.20 second interval
+2024-02-15 21:57:43 - Mouse moved and clicked at (1539, 379), with a 0.20 second interval
+2024-02-15 21:57:44 - Mouse moved and clicked at (1425, 782), with a 0.20 second interval
+2024-02-15 21:57:45 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 21:57:48 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 21:57:52 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 21:57:55 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 21:57:56 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:57:57 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 21:57:57 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 21:57:58 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 21:57:58 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 21:57:59 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 21:57:59 - Entered text: Cost center 4680020010 
+2024-02-15 21:58:00 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 21:58:04 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 21:58:08 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 21:58:08 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 21:58:09 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 21:58:11 - Entered text: 4680020010
+2024-02-15 21:58:11 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 21:58:12 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 21:58:13 - Mouse moved and clicked at (1431, 776), with a 0.20 second interval
+2024-02-15 21:58:14 - Mouse moved and clicked at (1077, 662), with a 0.20 second interval
+2024-02-15 21:58:15 - Mouse moved and clicked at (1147, 381), with a 0.20 second interval
+2024-02-15 21:58:17 - Mouse moved and clicked at (1011, 258), with a 0.20 second interval
+2024-02-15 22:33:18 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:33:19 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:33:19 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:33:20 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:33:21 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 22:33:21 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:33:21 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:33:22 - Entered text: Cost center 4680020010 
+2024-02-15 22:33:22 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:33:27 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:33:31 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:33:31 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:33:31 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:33:33 - Entered text: 4680020010
+2024-02-15 22:33:34 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:33:35 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:33:36 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:33:37 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:33:38 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:33:39 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:33:40 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:33:41 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:33:42 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:33:43 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 22:33:44 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:33:45 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-02-15 22:33:46 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:33:47 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:33:47 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:33:48 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:33:49 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:33:50 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 22:33:50 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:33:50 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:33:51 - Entered text: Cost center 4680020010 
+2024-02-15 22:33:51 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:33:55 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:34:00 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:34:00 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:34:00 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:34:02 - Entered text: 4680020010
+2024-02-15 22:34:03 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:34:03 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:34:05 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:34:06 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:34:07 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:34:08 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:34:08 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:34:09 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:34:10 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:34:12 - Entered text: ASC GS OR - Group B - BROWN
+2024-02-15 22:34:13 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:35:54 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:35:55 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:35:55 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:35:56 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:35:57 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 22:35:57 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:35:57 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:35:58 - Entered text: Cost center 4680020010 
+2024-02-15 22:35:58 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:36:02 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:36:07 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:36:07 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:36:07 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:36:09 - Entered text: 4680020010
+2024-02-15 22:36:10 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:36:11 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:36:12 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:36:13 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:36:14 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:36:15 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:36:16 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:36:17 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:36:17 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:36:18 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:36:20 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 22:36:21 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:36:22 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-02-15 22:36:23 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:36:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:36:24 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:36:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:36:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:36:27 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 22:36:27 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:36:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:36:28 - Entered text: Cost center 4680020010 
+2024-02-15 22:36:28 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:36:32 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:36:36 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:36:37 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:36:37 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:36:39 - Entered text: 4680020010
+2024-02-15 22:36:39 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:36:40 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:36:42 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:36:42 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:36:43 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:36:44 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:36:45 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:36:46 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:36:47 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:36:48 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:36:50 - Entered text: ASC GS OR - Group B - BROWN
+2024-02-15 22:36:51 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:38:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:38:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:38:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:38:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:38:27 - Entered text: (Needs Job)ASC GS-OR-GROUP A 
+2024-02-15 22:38:27 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:38:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:38:28 - Entered text: Cost center 4680020010 
+2024-02-15 22:38:28 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:38:33 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:38:37 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:38:37 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:38:37 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:38:39 - Entered text: 4680020010
+2024-02-15 22:38:40 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:38:41 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:38:42 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:38:43 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:38:44 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:38:45 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:38:46 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:38:47 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:38:48 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:38:49 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:38:50 - Entered text: ASC GS OR - Group A - PINK
+2024-02-15 22:38:51 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:38:52 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-02-15 22:38:53 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:38:54 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 22:38:57 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 22:39:00 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 22:39:04 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:39:04 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:39:05 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:39:06 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:39:07 - Entered text: (Needs Job)ASC GS-OR-GROUP B - Brown 
+2024-02-15 22:39:07 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:39:07 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:39:08 - Entered text: Cost center 4680020010 
+2024-02-15 22:39:08 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:39:12 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:39:17 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:39:17 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:39:17 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:39:19 - Entered text: 4680020010
+2024-02-15 22:39:19 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:39:20 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:39:22 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:39:23 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:39:24 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:39:24 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:39:25 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:39:26 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:39:27 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:39:28 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:39:30 - Entered text: ASC GS OR - Group B - BROWN
+2024-02-15 22:39:31 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:39:32 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-02-15 22:39:33 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:39:33 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 22:39:37 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 22:39:40 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-02-15 22:39:43 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-02-15 22:39:44 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:39:45 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-02-15 22:39:46 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-02-15 22:39:46 - Entered text: (Needs Job)ASC GS-OR-GROUP C - Yellow 
+2024-02-15 22:39:47 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-02-15 22:39:47 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-02-15 22:39:48 - Entered text: Cost center 4680020010 
+2024-02-15 22:39:48 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-02-15 22:39:52 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-02-15 22:39:56 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-02-15 22:39:57 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-02-15 22:39:57 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-02-15 22:39:59 - Entered text: 4680020010
+2024-02-15 22:39:59 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-02-15 22:40:00 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-02-15 22:40:01 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:40:02 - Mouse moved and clicked at (1041, 701), with a 0.20 second interval
+2024-02-15 22:40:03 - Mouse moved and clicked at (1046, 783), with a 0.20 second interval
+2024-02-15 22:40:04 - Mouse moved and clicked at (1419, 789), with a 0.20 second interval
+2024-02-15 22:40:05 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-02-15 22:40:06 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-02-15 22:40:07 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-02-15 22:40:08 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-02-15 22:40:09 - Entered text: ASC GS OR - Group C - YELLOW
+2024-02-15 22:40:10 - Mouse moved and clicked at (1335, 336), with a 0.20 second interval
+2024-02-15 22:40:11 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-02-15 22:40:12 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-02-15 22:40:13 - Mouse moved and clicked at (1417, 777), with a 0.20 second interval
+2024-02-15 22:40:16 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-02-15 22:40:20 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval

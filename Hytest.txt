@@ -1,3 +1,4 @@
-Hyperfind Name,Description,Cost Center,Org Unit,Employment Status
-AdmReg-60012051-Rev Cycle I JHH,Org Unit 60012051,Null,60012051,Y
-AdmReg-60012052-Rev Cycle I JHBMC,Org Unit 60012052,Null,60012052,N
+Hyperfind Name,Description ,Cost Center,Org Unit,Employment Status ,Schedule Group 
+(Needs Job)ASC GS-OR-GROUP A ,Cost center 4680020010 ,4680020010,Null,Y,ASC GS OR - Group A - PINK
+(Needs Job)ASC GS-OR-GROUP B - Brown ,Cost center 4680020010 ,4680020010,Null,Y,ASC GS OR - Group B - BROWN
+(Needs Job)ASC GS-OR-GROUP C - Yellow ,Cost center 4680020010 ,4680020010,Null,Y,ASC GS OR - Group C - YELLOW

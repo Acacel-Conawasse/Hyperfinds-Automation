@@ -79,12 +79,15 @@ def add_plc_items(plc_items):
 
 def employment_status_steps():
     """Performs additional steps if employment status is 'Y'."""
-    move_and_click(1041, 701)
+    move_and_click(1047, 299)
     time.sleep(0.5)
-    move_and_click(1046, 783)
+    move_and_click(1056, 376)
     time.sleep(0.5)
-    move_and_click(1419, 789)
+    move_and_click(1047, 299)
     time.sleep(0.5)
+    move_and_click(1424,779)
+    time.sleep(0.5)
+
 
 def schedule_group_steps(schedule_group_text):
     """Performs additional steps if Schedule Group is not 'Null'."""
@@ -100,7 +103,9 @@ def schedule_group_steps(schedule_group_text):
         # Enter Schedule group keystrokes
         enter_text(schedule_group_text)
         time.sleep(0.5)
-        move_and_click(1335,336)
+        move_and_click(1524,344)
+        time.sleep(0.5)
+        move_and_click(1335,366)
         time.sleep(0.5)
         move_and_click(1591,381)
         time.sleep(0.5)
@@ -110,7 +115,7 @@ def schedule_group_steps(schedule_group_text):
 
 def finalize_hyperfind_creation():
     """Finalizes and saves the Hyperfind."""
-    move_and_click(1417, 777)
+    #move_and_click(1417, 777)
     time.sleep(3)
     move_and_click(1856, 996)
     time.sleep(3.2)
@@ -139,7 +144,7 @@ def process_hyperfind(hyperfind_name, description, cost_centers, orgunit, employ
 
     finalize_hyperfind_creation()
 
-def read_and_process_hyperfinds(filename="Hytest.txt"):
+def read_and_process_hyperfinds(filename="Hyperfinds.txt"):
     """Reads hyperfind details from a file and processes each entry."""
     with open(filename, "r") as file:
         next(file)  # Skip the header line

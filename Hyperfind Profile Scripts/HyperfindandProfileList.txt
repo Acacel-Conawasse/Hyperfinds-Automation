@@ -1,0 +1,228 @@
+Hyperfind 	Profile
+JHHS Casemix                                        	JHHS
+JHHS HIM-Active Users                               	JHHS
+JHHS HIM Operations                                 	JHHS
+JHHS-Finance                                        	JHHS
+JHHS-4500080027-Supply Chain NCR                    	JHHS
+JHHS-4500310304-Clinical Engr                       	JHHS
+JHHS-Financial Clearance                            	JHHS
+JHHS-Mkt                                            	JHHS
+JHHR-CT Body                                        	JHHR
+JHHR-Customer Service                               	JHHR
+JHHR-CVC                                            	JHHR
+JHHR-Diagnostics                                    	JHHR
+JHHR-eRadiology                                     	JHHR
+JHHR-Imaging Bethesda                               	JHHR
+JHHR-Imaging Call Center                            	JHHR
+JHHR-Imaging Columbia                               	JHHR
+JHHR-Imaging Greenspring                            	JHHR
+JHHR-Imaging White Marsh                            	JHHR
+JHHR-Intervent Neurorad                             	JHHR
+JHHR-Interventional RAD                             	JHHR
+JHHR-JHI Admin                                      	JHHR
+JHHR-Mammography                                    	JHHR
+JHHR-MIIT                                           	JHHR
+JHHR-MRI                                            	JHHR
+JHHR-Nuclear Medicine                               	JHHR
+JHHR-Oncall Units                                   	JHHR
+JHHR-Physics and Engineering                        	JHHR
+JHHR-Radiology Admin                                	JHHR
+JHHR-School of RADTECH                              	JHHR
+JHHR-Transport                                      	JHHR
+JHHR-Ultrasound                                     	JHHR
+JHHR-US-CLL-GR1 (Group A w/CC)                      	JHHR
+JHHR-US-CLL-GR2 (Group B w/CC)                      	JHHR
+JHHR-US-CLL-GR3 (Group C w/CC)                      	JHHR
+JHCP_for_Req_Period                                 	JHCP
+JHCP-4404012201-Remington Admin                     	JHCP
+JHCP-4404012234-Wyman Lab                           	JHCP
+JHCP-4404012252-Remington IM Phys                   	JHCP
+JHCP-4404012272-Remington Peds Phys                 	JHCP
+JHCP-4404012291-Remington Ob-Gyn                    	JHCP
+JHCP-4404012292-Remington Ob-Gyn Phy                	JHCP
+JHCP-4404022401-East Balto Med Ctr                  	JHCP
+JHCP-4404022431-AIC Staff                           	JHCP
+JHCP-4404022432-AIC Phys                            	JHCP
+JHCP-4404022444-EBMC Radiology                      	JHCP
+JHCP-4404022451-EBMC Adult Medicine                 	JHCP
+JHCP-4404022452-EBMC IM Physicians                  	JHCP
+JHCP-4404022463-EBMC Podiatry                       	JHCP
+JHCP-4404022471-EBMC Pediatrics                     	JHCP
+JHCP-4404022472-EBMC Peds Physicians                	JHCP
+JHCP-4404022491-EBMC Gyn-Ob                         	JHCP
+JHCP-4404022492-EBMC Gyn-Ob Phys                    	JHCP
+JHCP-4404052301-JHCP At Canton                      	JHCP
+JHCP-4404052304-Canton Neurology                    	JHCP
+JHCP-4404052352-Canton Adult Phys                   	JHCP
+JHCP-4404052372-Canton Pediatricians                	JHCP
+JHCP-4404052392-Canton Ob-Gyn Phys                  	JHCP
+JHCP-4404113001-JHCP At Greater Dund                	JHCP
+JHCP-4404113052-GDMC Im Physicians                  	JHCP
+JHCP-4404113063-GDMC Podiatry                       	JHCP
+JHCP-4404123531-WM Chiropractic                     	JHCP
+JHCP-4404123532-WM Chiro Phys                       	JHCP
+JHCP-4404123551-WM Adult Medicine                   	JHCP
+JHCP-4404123552-WM FP Physicians                    	JHCP
+JHCP-4404123571-WM Pediatrics                       	JHCP
+JHCP-4404123572-WM Peds Physicians                  	JHCP
+JHCP-4404134001-JHCP At Greenspring                 	JHCP
+JHCP-4404134052-GSS IM Physicians                   	JHCP
+JHCP-4404145001-Glen Burnie                         	JHCP
+JHCP-4404145052-Glen Burnie Phys                    	JHCP
+JHCP-4404150001-Bowie                               	JHCP
+JHCP-4404150052-Bowie Phys                          	JHCP
+JHCP-4404160001-Germantown                          	JHCP
+JHCP-4404160052-Germantown Phys                     	JHCP
+JHCP-4404170001-Bayview IM                          	JHCP
+JHCP-4404170052-Bayview IM Phys                     	JHCP
+JHCP-4404172052-Bayview Hosp Phys                   	JHCP
+JHCP-4404200001-Heart Care-Bethesda                 	JHCP
+JHCP-4404200052-Heart Care-Bethes Ph                	JHCP
+JHCP-4404200201-Heart Care-SS Admin                 	JHCP
+JHCP-4404200252-Heart Care-SS Phys                  	JHCP
+JHCP-4404200301-Heart Care-Rockville                	JHCP
+JHCP-4404200352-Heart Care-Rockvl Ph                	JHCP
+JHCP-4404200401-Heart Care-Chevy Ch                 	JHCP
+JHCP-4404200452-Heart Care-CC Phys                  	JHCP
+JHCP-4404214501-Waters Edge                         	JHCP
+JHCP-4404214552-Waters Edge IM Phys                 	JHCP
+JHCP-4404214572-Waters Edge Peds Phy                	JHCP
+JHCP-4404220001-HCGH Pulmonology                    	JHCP
+JHCP-4404220052-HCGH Pulmon Phys                    	JHCP
+JHCP-4404315001-JHCP At Annapolis                   	JHCP
+JHCP-4404315052-Annapolis FP Phys                   	JHCP
+JHCP-4404325551-Odenton FP Staff                    	JHCP
+JHCP-4404325552-Odenton FP Physician                	JHCP
+JHCP-4404325562-Odenton IM Phys                     	JHCP
+JHCP-4404325571-Odenton Peds Staff                  	JHCP
+JHCP-4404325572-Odenton Peds Phys                   	JHCP
+JHCP-4404325589-Bayview Ob @ Odenton                	JHCP
+JHCP-4404426301-JHCP At Charles Cty                 	JHCP
+JHCP-4404426352-Charles County Phys                 	JHCP
+JHCP-4404516501-JHCP At Howard                      	JHCP
+JHCP-4404516552-Howard FP Physicians                	JHCP
+JHCP-4404516571-Howard Peds Staff                   	JHCP
+JHCP-4404516572-Howard Peds Phy                     	JHCP
+JHCP-4404516591-Howard Ob-Gyn                       	JHCP
+JHCP-4404516592-Howard Ob-Gyn Phys                  	JHCP
+JHCP-4404526601-Fulton Admin                        	JHCP
+JHCP-4404526652-Fulton Physicians                   	JHCP
+JHCP-4404536701-HCGH General Surgery                	JHCP
+JHCP-4404617001-JHCP At Montgomery                  	JHCP
+JHCP-4404617052-Montgomery FP Phys                  	JHCP
+JHCP-4404717501-JHCP At Westminster                 	JHCP
+JHCP-4404717552-Westminster FP Phys                 	JHCP
+JHCP-4404818001-JHCP At Frederick                   	JHCP
+JHCP-4404818052-Frederick FP Phys                   	JHCP
+JHCP-4404918501-JHCP At Hagerstown                  	JHCP
+JHCP-4404918552-Hager FP Physicians                 	JHCP
+JHCP-4405001001-Cardiac Surgery Adm                 	JHCP
+JHCP-4405001052-Cardiac Surgery Phys                	JHCP
+JHCP-4405002001-SOMC Admin                          	JHCP
+JHCP-4405002053-Colo-Rectal Surgery                 	JHCP
+JHCP-4405003001-Ortho Surgery                       	JHCP
+JHCP-4405004001-N Bethesda                          	JHCP
+JHCP-4405004052-N Bethesda Phys                     	JHCP
+JHCP-4405007052-JHCP Palliative Care                	JHCP
+JHCP-4405009001-NCR Neurology                       	JHCP
+JHCP-4405009052-NCR Neurology Phys                  	JHCP
+JHCP-4405009152-Sibley Neuro                        	JHCP
+JHCP-4405010001-Dtwn Bethesda                       	JHCP
+JHCP-4405010052-Dtwn Bethesda Phys                  	JHCP
+JHCP-4405010053-Dt Bethesda Rheum                   	JHCP
+JHCP-4405010054-Dtwn Bethesda Endo                  	JHCP
+JHCP-4405011201-SOMC Breast Surgery                 	JHCP
+JHCP-4405011252-SOMC Breast Surg Phy                	JHCP
+JHCP-4405012001-Foxhall Surg                        	JHCP
+JHCP-4405012052-Foxhall Surg Phys                   	JHCP
+JHCP-4405013001-Sibley Mob                          	JHCP
+JHCP-4405014001-DC @ I Street                       	JHCP
+JHCP-4405014052-DC @ I Street Physic                	JHCP
+JHCP-4405015001-Urbana                              	JHCP
+JHCP-4405015052-Urbana Phys                         	JHCP
+JHCP-4405016052-Suburban Urology Phy                	JHCP
+JHCP-4405019001-Sibley SPG                          	JHCP
+JHCP-4405019052-Sibley SPG PHYS                     	JHCP
+JHCP-4405032001-McLean Fam Staff                    	JHCP
+JHCP-4405032052-McLean Fam Provider                 	JHCP
+JHCP-4405052000-Rockville Peds                      	JHCP
+JHCP-4405052052-Rockville Peds Provider             	JHCP
+JHCP-5502002012-Odtn Shared Suite                   	JHCP
+AdmReg-60012051-Rev Cycle I JHH                     	JHADMREG
+AdmReg-60012052-Rev Cycle I JHBMC                   	JHADMREG
+AdmReg-60012062-Rev Cycle II JHH                    	JHADMREG
+AdmReg-60012063-Mgmt Svcs III                       	JHADMREG
+AdmReg-60012064-Mgmt Svcs II                        	JHADMREG
+AdmReg-60012065-Rev Cycle VII JHH                   	JHADMREG
+AdmReg-60012066-Rev Cycle IX JHH                    	JHADMREG
+AdmReg-60012067-Rev Cycle VIII JHH                  	JHADMREG
+AdmReg-60012068-Rev Cycle VI JHH                    	JHADMREG
+AdmReg-60012069-Rev Cycle V JHH                     	JHADMREG
+AdmReg-60012070-Rev Cycle IV JHH                    	JHADMREG
+AdmReg-60012071-Rev Cycle III JHH                   	JHADMREG
+AdmReg-60012101-Mgmt Svcs IV                        	JHADMREG
+(Needs Job)ASC GS-OR-GROUP A                        	JHACS-GSS
+(Needs Job)ASC GS-OR-GROUP B - Brown                	JHACS-GSS
+(Needs Job)ASC GS-OR-GROUP C - Yellow               	JHACS-GSS
+(Needs Job)ASC GS-PACU-GROUP A                      	JHACS-GSS
+(Needs Job)ASC GS-PACU-GROUP B                      	JHACS-GSS
+(Needs Job)ASC GS-PACU-GROUP C                      	JHACS-GSS
+(Needs Job)ASC GS-PACU-GROUP D                      	JHACS-GSS
+(Needs Job)ASC GS-PACU CHRG-GROUP A                 	JHACS-GSS
+(Needs Job)ASC GS-PACU CHRG-GROUP B                 	JHACS-GSS
+(Needs Job)ASC GS-PACU CHRG-GROUP C                 	JHACS-GSS
+(Needs Job)ASC GS-PACU CHRG-GROUP D                 	JHACS-GSS
+ASC GS-FERTILITY ASC A                              	JHACS-GSS
+ASC GS-FERTILITY ASC B                              	JHACS-GSS
+JHSC-4680020010-GS Pavillion II                     	JHACS-GSS
+JHSC-4680020020-Knoll North                         	JHACS-GSS
+JHSC-4680020030-White Marsh                         	JHACS-GSS
+JHSC-4680020040-Lutherville                         	JHACS-GSS
+JHSC-4680020050-Bethesda                            	JHACS-GSS
+JHSC-4680020060-Bel Air                             	JHACS-GSS
+JHSC-4680020070-Howard County                       	JHACS-GSS
+JHSC-4680020080-Fertility Ctr ASC                   	JHACS-GSS
+PTO Balance < 0	ALL
+Terminated Employees - Global	ALL
+Terminated Employees - Global with Hrs	ALL
+Total Add'l Straight Time Hrs	ALL
+Total Callback Hours	ALL
+Total FMLA Hours	ALL
+Total Holiday Hours	ALL
+Total Oncall Hours	ALL
+Total Overtime Hours	ALL
+JHHR OR-WB OnCall Eligible	JHHR
+JHHR-Diagnostics-ED	JHHR
+JHHR-Diagnostics-JHHR Diag.	JHHR
+JHHR-Diagnostics-JHOC	JHHR
+JHHR-Diagnostics-OR-WB	JHHR
+JHHR-Diagnostics-PEDS	JHHR
+JHHR-Diagnostics-Tower	JHHR
+JHHR-Inpatient MRI-Blalock MRI	JHHR
+JHHR-Inpatient MRI-JHHR MRI	JHHR
+JHHR-Inpatient MRI-JHOC 3FL	JHHR
+JHHR-Inpatient MRI-MRI Build	JHHR
+JHHR-Inpatient MRI-Zayed 1FL	JHHR
+JHHR-Inpatient MRI-Zayed 3FL	JHHR
+JHHR-Inpatient MRI-Zayed 4FL	JHHR
+JHHR-Inpatient MRI-Zayed 5th	JHHR
+JHHR-Nuc.Med-JHOC AN02	JHHR
+JHHR-Nuc.Med-JHOC AN03	JHHR
+JHHR-Nuc.Med-JHOC AN04	JHHR
+JHHR-Nuc.Med-JHOC AN05	JHHR
+JHHR-Nuc.Med-JHOC Cardiac	JHHR
+JHHR-Nuc.Med-JHOC Charge	JHHR
+JHHR-Nuc.Med-JHOC DEXA	JHHR
+JHHR-Nuc.Med-Nel. Bsmt Charge	JHHR
+JHHR-Nuc.Med-Nel. Bsmt NightQC	JHHR
+JHHR-Nuc.Med-Nel. Bsmt NM01	JHHR
+JHHR-Nuc.Med-Nel. Bsmt NM02	JHHR
+JHHR-Nuc.Med-Nel. Bsmt NM03	JHHR
+JHHR-Nuc.Med-Nuclear Med	JHHR
+JHHR-Nuc.Med-PEDS	JHHR
+JHHR-OnCall Hrs	JHHR
+JHHR-Called Back Hrs	JHHR
+(TBD Exceptions)Exceptions-Cancelled Deductions	ALL
+(TBD Exceptions)Exceptions-LateIn and EarlyOut	ALL
+(TBD Exceptions)Exceptions-Missed Punches	ALL
+(TBD Exceptions)Exceptions-Unexcused Absences	ALL

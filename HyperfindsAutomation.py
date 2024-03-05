@@ -1,7 +1,7 @@
 import pyautogui
 import time
 import logging
-
+##Script starts from the Hyperfinds Main Screen 
 # Setup logging to keep track of actions
 logging.basicConfig(filename="log.txt", level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 

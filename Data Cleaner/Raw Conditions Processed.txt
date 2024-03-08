@@ -1,0 +1,8 @@
+!Select Query: 1^|||^$now^|||^EmploymentStatus^|||^2^|||^$now^|||^EmploymentStatus^|||^3^|||^$now^|||^EmploymentStatus^|||^1^|||^$now^|||^UserStatus^|||^2^|||^$now^|||^UserStatus^|||^3^|||^$now^|||^UserStatus^|||^*^|||^*^|||^HomeAcct^|||^1^|||^*^|||^*^|||^4803117414^|||^*^|||^*
+&All_Home_And_Scheduled_In_Optimized: com.kronos.wfc.commonapp.hyperfind.shared.ExtSingleColumnConstraintNumberBean.ItemType.ScheduledJobHomeOrTransferIn_IncludeChildrenNodes^|||^-1^|||^=
+&All_Home_And_Transferred_In: *^|||^*^|||^HomeAcct^|||^1^|||^*^|||^*^|||^*^|||^TL1#TL2#TL3#TL4#TL5#TL6#TL7#TL8#TL9^|||^*
+]BMCN Med D: 3^|||^$now^|||^EmploymentStatus^|||^IN^|||^com.kronos.wfc.commonapp.hyperfind.shared.ExtSingleColumnConstraintNumberBean.ItemType.ScheduledJobHomeOrTransferIn
+0 - All Home - Non Float Units: 1^|||^$now^|||^UserStatus
+0 - COVID Cost Centers: *^|||^*^|||^4001050305#4400019300#4500150022#4800010317#5300010250#5850029910#6001208682#6301020285#6405413000#6500002747^|||^*^|||^*^|||^*^|||^*^|||^WorkedAcct
+0 - JHH EVC Global: 1^|||^$now^|||^EmploymentStatus^|||^*^|||^*^|||^HomeAcct^|||^1^|||^*^|||^*^|||^4000350301#4000350303#4500310301#4500310303#4500310305#4500310310#4500310311#4800010022#4800310300#4800310302#4800310304#4800310305#4800310314#4800310315^|||^*^|||^*
+0 - JHH Global: *^|||^*^|||^480*^|||^*^|||^*^|||^*^|||^*^|||^WorkedAcct

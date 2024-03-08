@@ -23,9 +23,10 @@ with open(input_file_path, 'r') as file:
 
 # Open the output file in write mode
 with open(output_file_path, 'w') as outfile:
+    outfile.write("SHORTNM,VALUETXT\n")
     # Iterate through the dictionary and concatenate VALUETXT values for each SHORTNM
     for shortnm, valuetxts in shortnm_dict.items():
         concatenated_valuetxt = '^----^'.join(valuetxts)
-        outfile.write(f"{shortnm}: {concatenated_valuetxt}\n")
+        outfile.write(f"{shortnm}, {concatenated_valuetxt}\n")
 
 print(f"Output written to {output_file_path}")

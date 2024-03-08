@@ -1,0 +1,1313 @@
+SHORTNM
+0 - All Home - Non Float Units
+0 - JHH EVC Global
+0 - JHH Global
+1 RESP Adult
+ACH Part Time
+ACH-60005822-6550087517
+ACH-60005929-6550087517
+ACH-60005958-6500002402
+ACH-6500000100 Nurse Adm
+ACH-6500001004 Advanced org
+ACH-6500001004 Basic Org Unit
+ACH-6500002003 Plant Opr Engin
+ACH-Agency and Non-employees
+ACH-All Active Employees
+ACH-All Home-Active and Terms
+ACH-All Worked Active and Term
+ACH-Call Back or On Call Hours
+ACH-Call Back w/no On-Call Hrs
+ACH-Exempt 8
+ACH-Exempt Employees
+ACH-FMLA/STD/EIB Hours
+ACH-MDs
+ACH-MRI-6500001404
+ACH-Non-Exempt Employees
+ACH-Non-Productive Hours
+ACH-Transferred-In Employees
+ACH-Unpaid Time
+BCC Chronic Plaza
+BCC except RT
+BCC RT
+BCC Terrace
+BCC Wound Team
+BMC - Agency Worked Hrs
+BMC Ambulatory
+BMC Radiology
+BMC RN CC - Temp Global Worked
+BMCN AMU
+BMCN AMU - INTAKE
+BMCN AMU All Programs
+BMCN APU
+BMCN APU/PES
+BMCN ASU
+BMCN ATS - Group 1
+BMCN ATS - Group 2
+BMCN BCC Global
+BMCN BCC Global exc RT and JHHSED
+BMCN BCC Global excludes RespTher
+BMCN Berman Epic Super Users
+BMCN BICU
+BMCN BWU
+BMCN CAP - Group 1
+BMCN CAP - Group 2
+BMCN CAROL BALL MED UNIT
+BMCN CDU - Outpatient
+BMCN Central Sterile
+BMCN CICU
+BMCN ED
+BMCN ED + JHHS ED RN
+BMCN ED Pediatrics
+BMCN ED PEDS + INPT PEDS
+BMCN ED PEDS + INPT PEDS Scheduled
+BMCN EDUCATION
+BMCN FCC
+BMCN FLOAT CA
+BMCN Float Pool
+BMCN Float Pool - Not Termed
+BMCN Float Pool Scheduled
+BMCN Global
+BMCN Hemodialysis
+BMCN INT Traveler
+BMCN LD
+BMCN Med A
+BMCN MED B
+BMCN MED B Scheduled
+BMCN Med Burton 4
+BMCN Med D
+BMCN Med NP4
+BMCN MICU
+BMCN NBN
+BMCN NCCU
+BMCN NCCU/NSU
+BMCN NCCU/NSU Scheduled
+BMCN NICU
+BMCN NNP
+BMCN NSU
+BMCN Nursing Administration
+BMCN Nursing Practice IP EDU
+BMCN Nursing Recruitment
+BMCN OBGYN
+BMCN Oncall Hours
+BMCN OR
+BMCN PACU
+BMCN Patient Safety
+BMCN PCMs
+BMCN PCU
+BMCN PEDS
+BMCN Periop
+BMCN PES
+BMCN Scheduled / Worked @ MEDB
+BMCN SICU
+BMCN SICU Scheduled
+BMCN Staffing Office
+BMCN SURG
+BMCN Trauma Coordinator
+BMCN WENZ
+BMCN WENZ Overflow
+BMCN-Agency Working in ENDO
+BMCN-Nursing Admin Mgmt
+BMC-Patient Safety Ctr
+CDU All Programs
+FM-3rd Shift Campus
+FM-Admin - JE5
+FM-Admin Sup/Engineering/Eng-Bus Svcs
+FM-All Engineering
+FM-Art/Furniture 3rd Sh + Weekend
+FM-Bloomberg
+FM-Bloomberg 1st Sh
+FM-Bloomberg 2nd Sh
+FM-Bloomberg 3Sh - JF7
+FM-BMC CE - BY6
+FM-BMC Maint - BY7
+FM-BMC Maint/Utilities
+FM-BMC Utilities - BY8
+FM-Build Grounds - JE8
+FM-Cust Svc - JEN
+FM-DC - JE3
+FM-ED/Mezz/Ground/1Impressions/Trash/Laundry/ZB-NC
+FM-ED1 + Weekend
+FM-ED3 - JF2
+FM-Electrical - JE1
+FM-Electrical/Clin Engineering
+FM-Electrical/EL3
+FM-ELS ICST - JEF
+FM-Energy - JEL
+FM-Eng Bus - JE7
+FM-Engineer - JE6
+FM-Engineering - JE6
+FM-Engineering/Customer Svc
+FM-ENGINEERING/ENG-BUS SVCS
+FM-Engineering/Eng-Bus Svcs/Bloomberg 1 Sh
+FM-EOP CPP - JEM
+FM-EVS Supervisors and Managers
+FM-EVS Techs and Associates
+FM-Fac EL2- JEC
+FM-Fac EL3- JED
+FM-Fac Mech - JE9
+FM-Floorcare 3Sh - JWC
+FM-Furniture 3Sh - JF6
+FM-Global
+FM-Grounds - JEP
+FM-Historic - Zones 3Sh - JWB
+FM-Historic 1Sh/Weekend
+FM-Historic 2Sh/Weekend1-2
+FM-Historic 3Sh - JWA
+FM-Historic 3Sh + Weekend
+FM-Historic Clinical 2Sh - JWF
+FM-Historic C-N 2nd Sh/ED2
+FM-Historic Meyer Halsted Osler 1Sh - JWD
+FM-Historic Meyer Halsted Osler 1Sh + Weekend
+FM-Historic Nelson Marburg 1Sh - JWE
+FM-Historic Nelson Marburg 1Sh + Weekend
+FM-Historic xClinical 1 2Sh - JWG
+FM-Historic xClinical 1Sh - JWJ
+FM-Historic xClinical 2 2Sh + Weekend
+FM-Historic xClinical 2 2Sh- JWH
+FM-Historic xClinical 3 2Sh  + Weekend
+FM-Historic xClinical 3 2Sh - JWI
+FM-HVACR2 - JEH
+FM-JHH CE - JEE
+FM-JHHS Commissioning/MES
+FM-JHOPC 1Sh - JW8
+FM-JHOPC 2Sh - JW6
+FM-JHOPC 3Sh - JW7
+FM-JHOPC/Billings/Smith
+FM-Leasehold - JEB
+FM-LS - JER
+FM-LS Wall - JEQ
+FM-Main Campus Environmental Care
+FM-MES HVS - JEG
+FM-North Campus Historic
+FM-North Campus Historic 3rd Sh
+FM-OR + Weekend
+FM-OR 1Sh Z4 Z5 - JFG
+FM-OR 3Sh Z4 Z5 W3 - JFA
+FM-OR Sh3 Z3 - JFB
+FM-OR Z3 Z4 2nd Sh/Carpentry + Weekend
+FM-OR/Weinberg 3/Endo 1st Sh + Weekend
+FM-Paint - JES
+FM-Pharm Radiology - JW9
+FM-Pharm Radiology/ED 2nd Sh + Weekend
+FM-Plumbing - JEJ
+FM-South Camp 3rd Sh Bloomberg
+FM-Trash-Micro2 - JFQ
+FM-Trash-Micro2 + Weekend
+FM-Weekend - JP9
+FM-Weekend Bloomberg
+FM-Weekend Floors
+FM-Weekend Historic
+FM-Weekend OR
+FM-Weekend Weinberg
+FM-Weekend Zayed
+FM-Weinberg 2nd Sh + Weekend
+FM-Weinberg 3Sh - JW1
+FM-Weinberg Clinical 1Sh - JW3
+FM-Weinberg Clinical 1Sh + Weekend
+FM-Weinberg Clinical 2Sh - JW5
+FM-Weinberg xClinical 1Sh  - JW4
+FM-Weinberg xClinical 2Sh - JW2
+FM-Weinberg/Rubenstein
+FM-Weinberg/Rubenstein 1st Sh
+FM-Zayed
+FM-Zayed 1Sh 3 12 - JFW
+FM-Zayed 1Sh 5 11 - JFU
+FM-Zayed 1st Sh + Weekend
+FM-Zayed 1st Shift
+FM-Zayed 1stSh B1 9 10  - JFV
+FM-Zayed 2nd Sh
+FM-Zayed 2Sh 3 10 12 - JFT
+FM-Zayed 2Sh 5 9 11 - JFX
+FM-Zayed 3Sh - JF8
+FM-Zayed 8 1Sh/Bloomberg 8 + Weekend
+FM-Zayed 8/Bloomberg 8/Endo 2nd Sh + Weekend
+FM-Zayed South Campus 3rd Sh
+FM-Zone 1 - JET
+FM-Zone 2 - JEU
+FM-Zone 3 - JEV
+FM-Zone 4 - JEX
+HCGH All Home NonNursing
+HCGH-4608*-We/Alt Rad Dept
+HCGH-461*-CAS
+HCGH-461*-Tcas Employees
+HCGH-4617517000-Docum. Central
+HCGH-4617525000-Tcas
+HCGH-4617555000-Tcas
+HCGH-640*-Charge RN'S Worked
+HCGH-640*-RN's
+HCGH-6405410000-Innov+Continou
+HCGH-6405610000-Wellness Cente
+HCGH-6405700000-Gift Shop
+HCGH-6405800000-CMTBCRC
+HCGH-6406010000-Administration
+HCGH-6406110000-Public Relatio
+HCGH-6406115000-Medical Librar
+HCGH-6406120000-Case Mgmt.
+HCGH-6406121000-Utilization
+HCGH-6406122000-SOCIAL WORK
+HCGH-6406130000-ARM INS PAT SAF
+HCGH-6406140000-Patient Relations
+HCGH-6406141000 PASTORAL
+HCGH-6406141000-Pastoral Care
+HCGH-6406142000-Envir Services
+HCGH-6406142000-Volunteers
+HCGH-6406210000-Admitting
+HCGH-6406210000-HOS Admitting
+HCGH-6406215000-Revenue Cycle
+HCGH-6406250000-Finance Decisi
+HCGH-6406270000-Regulatory Com
+HCGH-6406310000-Info. Systems
+HCGH-64063150000-Clinical Info
+HCGH-6406350000-Communications
+HCGH-6406375000-EPIC
+HCGH-6406375000-EPIC Install
+HCGH-6406410000-Human Resource
+HCGH-6406430000-Emp. Health
+HCGH-6406450000-Light Duty WC
+HCGH-6406510000-Health Info. M
+HCGH-6406710000-Medical Staff
+HCGH-6406810000-Material Mgmt.
+HCGH-6406820000-General Stores
+HCGH-6406930000-Safety+Securit
+HCGH-6406940000-Biomed
+HCGH-6406950000-Plant Ops.
+HCGH-6406955000-Maint Bldng 1
+HCGH-6407000000-Patient Care A
+HCGH-6407010000-Nursing
+HCGH-6407020000-Nursing Orient
+HCGH-6407030000-Externs
+HCGH-6407040000-Floats-worked
+HCGH-6407040000-Nurse Floats
+HCGH-6407041000-Med Surg Float Pool
+HCGH-6407042000-Critical Care Float Pool
+HCGH-6407043000-Maternal Child Float Pool
+HCGH-6407044000-Emergency ADulT Float Pool
+HCGH-6407045000-BH Float Pool
+HCGH-6407050000-Continuing Edu
+HCGH-6407070000--Central Monitoing Nurs
+HCGH-6407071000-Constant Observer
+HCGH-6407071000-Constant Observers
+HCGH-6407120000-2 P Surg
+HCGH-6407120000-Worked In
+HCGH-6407125000-Flr 2 South
+HCGH-6407125000-Worked In
+HCGH-6407130000-3 P Tele
+HCGH-6407130000-Worked In
+HCGH-6407140000-Flr 4 Pavilion
+HCGH-6407140000-Worked
+HCGH-6407210000-Psych
+HCGH-6407215000-Psych Social W
+HCGH-6407230000-Flr 3 South
+HCGH-6407230000-Worked In
+HCGH-64072350000-CCU
+HCGH-6407240000-4 South
+HCGH-6407310000-Pediatrics
+HCGH-6407320000-MCU
+HCGH-6407330000-Nursery
+HCGH-6407340000-NICU
+HCGH-6407350000-Lactation
+HCGH-6407360000-Labor+Delivery
+HCGH-6407370000-CMFM
+HCGH-6407380000-Audiology
+HCGH-6407410000-Emergency Dept
+HCGH-6407420000-Pediatric Emer
+HCGH-6407430000-CX ED Stroke
+HCGH-6407440000-Short Stay
+HCGH-6407440000-Worked In
+HCGH-6407520000-Operating Room
+HCGH-6407530000-Same Day Surg
+HCGH-6407540000-Endoscopy Hosp
+HCGH-6407550000-100 PACU
+HCGH-6407550000-400 PACU
+HCGH-6407550000-PACU
+HCGH-6407560000-Aneshesiology
+HCGH-6407570000-Sterile Supply
+HCGH-6408*-Pulmonary Group
+HCGH-6408200000-Outpatient Adm
+HCGH-6408210000-Respir Therapy
+HCGH-6408215000-EEG
+HCGH-6408220000-Pulmonary Func
+HCGH-6408225000-EKG
+HCGH-6408230000-EECP
+HCGH-6408235000-Echo
+HCGH-6408240000-Cardiac Diagno
+HCGH-6408245000-Cardiac Rehab
+HCGH-6408250000-Physical Ther Inp
+HCGH-6408250200-Outpatient PT
+HCGH-6408255000- Occ Therapy
+HCGH-6408255200-Outpatient OT
+HCGH-6408260000-Occ Ther Psych
+HCGH-6408265000-Speech Therapy
+HCGH-6408265200-Outpatient ST
+HCGH-6408310000-Phys+Surg Asst
+HCGH-6408340000-Central Transp
+HCGH-6408400000-Imaging Admin
+HCGH-6408410000-Diagnostic Img
+HCGH-6408415000-Radiation Onco
+HCGH-6408420000-Cat Scan
+HCGH-6408430000-Nuclear Med
+HCGH-6408450000-MRI Hospital
+HCGH-6408460000-Mammography
+HCGH-6408470000-Breast Health
+HCGH-6408475000-Cardiac Cath
+HCGH-6408490000-Ultrasound
+HCGH-6408493000-Perinatology
+HCGH-6408495000-Vascular Lab
+HCGH-6408520000-Anbulatory BGS
+HCGH-6408710000-Pharmacy
+HCGH-6408805000-Clinic
+HCGH-6408810000-ClinicInfusion
+HCGH-6408815000-Diabetes
+HCGH-6408820000-Wound Care
+HCGH-6408830000-AC Clinic
+HCGH-6408845000-Breast Health
+HCGH-6408910000-Dietary
+HCGH-6408920000-Cafeteria
+HCGH-6408930000-Catering
+HCGH-6408940000-Vending
+HCGH-6419110000-HHF
+HCGH-Active Employees Payroll
+HCGH-Active Kronos WF Managers
+HCGH-All Home excl. Main OR
+HCGH-All Home excludes A.McQueen emps
+HCGH-EILO Except
+HCGH-Inactive EES
+HCGH-Nursing Units
+HCGH-PACU
+HCGH-Rehab Group
+HCGH-Rehab Group(INCL Woulnd)
+HCGH-TCAS OR
+HCGH-Terminated Employees All
+HCGH-Total FMLA Hours
+HCGH-Transfers
+ISTAFF - BMC
+JHH Exempt AST OTP Staff
+JHHS ED Float Pool
+JHHS JR2 excludes NEP group
+JHHS NEP Group
+JHHS SSU
+Leave Cases
+List for RN  retention
+NCR-4500150300-Office of the CNE
+Pharm ACT Clinical Specialists
+Pharm AIP Clinical Specialists
+Pharm AIP Pharmacists
+Pharm AIP Technicians
+Pharm ALL Clinical Specialists
+Pharm AMES Pharmacists
+Pharm AMES Technicians
+Pharm CCS Clinical Specialists
+Pharm CCS Pharmacists
+Pharm CCS Technicians
+Pharm Central
+Pharm Central Pharmacists
+Pharm Central Technicians
+Pharm Edu
+Pharm IS
+Pharm Onc IDS Clinical Specialists
+Pharm OncW Technicians
+Pharm Peds Clinical Specialists
+Pharm Peds Pharmacists
+Pharm Peds Technicians
+Pharm Storeroom
+Pharmacy ACT
+Pharmacy IDS
+Pharmacy IS
+Pharmacy Onc IDS
+PNW-WNP Hours
+Rehab Unit Burton 01
+SEC Bayview - 10001793
+Sec BSI
+SEC EBMC - 60007454
+SEC External - 60007452
+SEC Global
+SEC HCGH - 60007453
+SEC Internal - 60007451
+SEC Internal/External
+SEC Parking - 10003429
+SEC payroll issue - BSI w JHMI Pay Codes
+SEC payroll issue - Detail 0000
+SEC payroll issue - JHMI w BSI Pay Codes
+SEC Protection - 10001792
+SEC Transportation - 10001794
+SH - 6005408626
+SH - Hrs in Float Tier II-III
+SH  HS20 HS21
+SH - Leave Hours but No Hours Worked
+SH - OTP > 20 hours
+SH - Pat Care Techs - ED Techs
+SH - STA RNs
+SH > 100hrs Worked
+SH > 15hrs Wrk
+SH > 16hrs Wrk
+SH > 24 hours worked, unsched shift
+SH > 24hrs Wrk + Unsch Shift
+SH > 256hrs OTP
+SH > 32hrs Wrk + Unsch Shift
+SH > 40hrs Paid + PTO
+sh > 4hrs OTP + Unsch Shift
+SH > 80hrs Paid + PTO/HOL
+SH > 80hrs Wrk + Paid HOL
+SH 6005408670
+SH 80hrs Wrk, 8+ Hrs PAL
+SH 80hrs Wrk, PTO, < 240hrsPAL
+SH All Employees except PPG
+SH At least 32 Hours Worked
+SH Baylor
+SH Ees w/ Total Worked < 15hrs
+SH Exempt Schedule Group
+SH Exempt Staff
+SH Family-Medical Leave
+SH Holiday Check FT
+SH Holiday Premium
+SH Holidays Used
+SH Human Resources Group
+SH Inpatient Nursing Units
+SH McKesson Training
+SH Nursing > 80hrs Paid + PTO
+SH Orientation Pay Code Hours
+SH OTP + Unsch Shift
+SH OTP Ees
+SH OTP Ees < 16 hrs
+SH OTP+Unsch Shift - Inpat Nsg
+SH PILOB Holiday Check
+SH RNs Unit Float
+SH RNs w/ Eve-Nite Retent Hrs
+SH Service Training
+SH Total Hrs Wrk at least 1250
+SH Trn Ees Inpat Nursing
+SH Unsch Shifts Nursing Div
+SH Unsheduled Shifts
+SH WEA Education Hrs Check
+SH WEA Misc Hours Audit
+SH WEA PAL - Holiday Check
+SH WEA RNs
+SH WEA Weekday Hours Check
+SH Workers Comp
+SH-6001116012-SH 5200
+SH-6001116015-ADULT SURGICAL
+SH-6001116016-ORHTO-NEURO
+SH-6001116018-ONCOLOGY
+SH-6001116019-6400-MS2
+SH-6001116020-MED SURG
+SH-6001116021-ACUTE MED SURG
+SH-6001116022-SH 4800
+SH-6001116023-SH 4700
+SH-6001116024-SH 3700
+SH-6001116025-SH 3800
+SH-6001116026-SH 4300
+SH-6001116029-SH 3200
+SH-6001126340-ICU
+SH-6001126341-STEPDOWN
+SH-6001136381-PEDIATRICS
+SH-6001146280-CARDIOLOGY
+SH-6001156013-ADT-REHAB
+SH-6001156343-BHU
+SH-6001206375-TRAUMA
+SH-6001206377-CDU
+SH-6001206378-ER-TRAUMA
+SH-6001208683-SH ER SPECIALTY CARE UNIT
+SH-6001316357-OR-OPHTH
+SH-6001316358-OR-NEURO
+SH-6001316360-OR ADMIN
+SH-6001316363-CV OR
+SH-6001326362-OR MINOR
+SH-6001326372-IVF
+SH-6001336361-PRESURGICAL TST
+SH-6001336365-PACU
+SH-6001337435-ANESTHESIA
+SH-6001338465-STERILE PROCESS
+SH-6001338718-RNFA
+SH-6001406022-FLOATS HOME
+SH-6001406373-NOT USED
+SH-6001408750-NURSING ADMIN
+SH-6001408751-NURSING ED
+SH-6001508350-CARE COORDINATIO
+SH-6001508620-EMPLOYEE HEALTH
+SH-6001508652-ELDERWELL
+SH-6001606025-OUTPATIENT INF
+SH-6001606030-DIALYSIS
+SH-6001606345-DAY TREATMENT
+SH-6001606346-CRISIS INTERVENT
+SH-6001606347-RAP RESP TEAM
+SH-6001607436-RESPIRATORY THER
+SH-6001608674-ATC CO YOUNG AD
+SH-6001608675-ATC MONTROSE
+SH-6002107402-ROUTINE CORELAB
+SH-6002107404-MICROBIOLOGY
+SH-6002107405-PATHOLOGY
+SH-6002107406-OUTREACH LAB
+SH-6002107408 -PHLEBOTOMY
+SH-6002107409-LAB ADMIN
+SH-6002107410-BLOOD BANK
+SH-6002107503-LAB OPMC
+SH-6002207420-RADIOLOGY ADMIN
+SH-6002207421-RADIOLOGY
+SH-6002207422-CT SCAN
+SH-6002207424-NUCLEAR MED
+SH-6002207426-INTERVENT ANGIO
+SH-6002207428-MRI
+SH-6002207430-ULTRASOUND
+SH-6002307437-PHYSICAL THERAPY
+SH-6002307438-OCC THERAPY
+SH-6002307439-ORTHO SERVICES
+SH-6002307442-SPEECH THERAPY
+SH-6002407414-CARDIAC REHAB
+SH-6002407415-EKG
+SH-6002407416-EEG
+SH-6002407417-CV ADMIN
+SH-6002407450-CV SHORT STAY
+SH-6002407456-CATH LAB 3300
+SH-6002407474-VEIN-VASC CTR
+SH-6002506026-STROKE
+SH-6002506285-CANCER CENTER
+SH-6002507502-RAD THERAP-ACC
+SH-6002508470-PHARMACY
+SH-6002508752-CLIN SUPP SVCS
+SH-6003107448-LIPID LAB
+SH-6003107477-NIH STROKE
+SH-6003507481-ISCHEMIC
+SH-6003507484-ODYSSEY
+SH-6003507486-AMGEN RES
+SH-6003507489-PUMA
+SH-6003507493-CSA-AKI
+SH-6003507494-EVARREST
+SH-6003508688-CAPRES
+SH-6004008102-DIV-SUP CH MGMT
+SH-6004008310-PAT FOOD SVCS
+SH-6004008311-CAFETER-PANTRY
+SH-6004008318 -MEDIA-CONF SVCS
+SH-6004008330-LAUNDRY-LINEN
+SH-6004008331-LINEN
+SH-6004008410-PLANT OPERATION
+SH-6004008411-MAINT-ENGIN
+SH-6004008412-FACILITIES IMPRO
+SH-6004008450-HOUSEKEEPING
+SH-6004008460-DISTRIBUTION
+SH-6004008541-SECURITY
+SH-6004008543-TRANSPORTATION
+SH-6004008544 SECURITY INITIATIVE
+SH-6004008690-SUPPLY CHAIN
+SH-6005108510-ACCOUNTING
+SH-6005108511-FINANCIAL PLANNING
+SH-6005108516-FINANCE
+SH-6005108520-PATIENT ACCTS
+SH-6005108523-CASH R/D
+SH-6005108524-PAT ACCESS-FCS
+SH-6005108525-PAT ACCESS-ADM
+SH-6005208618-HUMAN RESOURCES
+SH-6005208917-HR RECRUITMENT
+SH-6005308615-TELECOM
+SH-6005308621-DATA PROC
+SH-6005308697-INFO SYSTEMS TEC
+SH-6005408612-COMMUNICATIONS
+SH-6005408613-PLANNING
+SH-6005408614-VOLUNTEERS
+SH-6005408616-GIFT SHOP
+SH-6005408627-SAFETY
+SH-6005408630-LIFELINE
+SH-6005408636-SUB CALL CENTER
+SH-6005408658-OASIS MONTGOMERY
+SH-6005408678-HEARTWELL
+SH-6005408681-OFC PT FAM EXP
+SH-6005408710-MEDICAL RECORDS
+SH-6005408712-CLINIC DOC IMP
+SH-6005505992-BAD DEBT
+SH-6006106026-STROKE
+SH-6006106340-ICU
+SH-6006106351-ENT
+SH-6006106353-UROLOGY
+SH-6006106375-TRAUMA
+SH-6006107415-EKG
+SH-6006107417-CV ADMIN
+SH-6006107435-ANESTHESIA
+SH-6006107536-BREAST
+SH-6006108605-CORPORATE
+SH-6006108721-MEDICAL STAFF
+SH-6006108756-DIABETES
+SH-6007107380-UBIT
+SH-6007108610-ADMINISTRATION
+SH-6008100000-NON DEPT
+SH-6008108605-CORPORATE
+SH-6008108619-ACTION
+SH-6008108999-NON DEPT
+SH-6015408656-FND FOUNDATION
+SH-6021337900-PA PHYSI ASSIST
+SH-6021337910-PA PHYS ASST CV
+SH-6111336800-SC OUTPAT SURG
+SH-ED-PEDS-PSYCH
+SHHS - BHU Excluded
+SHHS - BHU/OR Excluded
+SHHS - Non-Scheduling Users
+SHHS - OR
+SHHS - OR/Non-Clin Excluded
+SHHS Global PersArea
+SH-Oncall Hours
+SHP VU Burton 1
+SHP Wound Team
+Sibley Attendance
+Sibley Grand Oaks
+SMH ASRs
+SMH CNA - Day
+SMH CNA - Night
+SMH Env Svcs
+SMH EVS ASSOC I
+SMH Nursing - Day
+SMH Nursing - Night
+SMH Nursing - PRN
+SMH PACU OSVP
+SMH Periop Group A
+SMH Periop Group B
+SMH Periop Group C
+SMH REN - Exempt
+SMH SASC Group A
+SMH SASC Group B
+SMH SASC Group C
+SMH-5480000000-Potomac WFS
+SMH-6301010203-Senior Assoc
+SMH-6301020131-OperatingRoom
+SMH-6301020132-PACU
+SMH-6301020133-SterileProcessing
+SMH-6301020134-SibleyAmbSurgCtr
+SMH-6301020135-2APrePostSurg
+SMH-6301020138-Surg Posting
+SMH-6301020140-PreSurgTestingCtr
+SMH-6301020144-Endoscopy
+SMH-6301020145-Endo Recovery
+SMH-6301020149-Anesthesia
+SMH-6301020221-5B
+SMH-6301020222-ICU
+SMH-6301020224-Emergency Medicine
+SMH-6301020227-Transport
+SMH-6301020242-Resp Ther
+SMH-6301020271-Hem Onc
+SMH-6301020271-Hematology Oncology
+SMH-6301020351-6B
+SMH-6301020352-6A
+SMH-6301020353-5A
+SMH-6301020355-7B
+SMH-6301020356-7A
+SMH-6301020412-FamilyCtrdCare
+SMH-6301020413-SpecCareNursery
+SMH-6301020414-LaborDelivery
+SMH-6301020415-ChildbirthEdu
+SMH-6301020428-MaternalFetalMed
+SMH-6301020503-PCC
+SMH-6301020504-Safety Sitter
+SMH-6301020507-Nursing PRN Pool
+SMH-6301020601-Onc Svc Line Admin
+SMH-6301020605-Rad Therapy
+SMH-6301020606-Unity Health
+SMH-6301020641-Med Onc Clinic
+SMH-6301020642-Med Onc
+SMH-6301020643-Proton Therapy
+SMH-6301020961-Renaissance
+SMH-6301030483-Case Cor
+SMH-6301040113-JHUSOM Thor Surg
+SMH-6301040125-JHUSOM Dr Smith
+SMH-6301060147-GI Sib JHU Prac
+SMH-6301060204-Diag Fluoro
+SMH-6301060206-IRCV
+SMH-6301060206-SpecialProc
+SMH-6301060207-Ultrasound
+SMH-6301060208-BreastCenter
+SMH-6301060209-MRI
+SMH-6301060210-Nuclear Med
+SMH-6301060211-Xray Admin
+SMH-6301060213-PACS RIS
+SMH-6301060214-CT Imaging
+SMH-6301060215-MOB Rad Gen Diag
+SMH-6301060216-MOB Rad Ultrasound
+SMH-6301060217-MOB Rad Ct
+SMH-6301060219-MOB Rad Admin
+SMH-6301060262-Cardio Non Inv
+SMH-6301060263-Sleep Center
+SMH-6301060263-Sleep Ctr
+SMH-6301060267-Electroneurodiag
+SMH-6301080178-InfoTechnology
+SMH-6301090109-Volunteers
+SMH-6301090212-Chap Svcs
+SMH-6301090370-Pharmacy
+SMH-6301090371-Pharm Residents
+SMH-6301090372-Infusion Med Drugs
+SMH-6301090374-Pharm Research
+SMH-6301090421-Lab Admin
+SMH-6301090422-GO-Core Lab
+SMH-6301090423-Blood Bank
+SMH-6301090426-Anatomic Path
+SMH-6301090724-EVS-Laundry and Linen
+SMH-6301091239-EVS-EVS
+SMH-6301100106-Safety and Security
+SMH-6301100109-Parking
+SMH-6301100215-Telecommunications
+SMH-6301100409-OccHealth
+SMH-6301111106-Med Staff Spt
+SMH-6301112034-Mammography Phys
+SMH-6301112544-Pri Care Phys
+SMH-6301113257-Tho Surg
+SMH-6304050443-EVS-MB EVS
+SMH-6306050101-GO-Ops Admin
+SMH-6306050104-GO-Plant Ops
+SMH-6306050105-GO-Sales and Marketing
+SMH-6306050107-GO-Nutrition Services
+SMH-6306050108-GO-Environmental Services
+SMH-6306050109-GO-Senior Activities
+SMH-6306050110-GO-SafeSec
+SMH-6306050111-GO-Nursing
+SMH-6306050112-GO-Oasis
+SMH-6306050113-GO-Assisted Living
+SMH-All Pharmacy Cost Centers
+SMH-Endo-Team A
+SMH-Endo-Team B
+SMH-Endo-Team C
+SMH-Exempt
+SMH-FCCU-Blue Group
+SMH-FCCU-Pink Group
+SMH-FCCU-PRN Group
+SMH-Infusion Pharm Group
+SMH-Infusion Tech Group
+SMH-L and D -Agency Group
+SMH-L and D -Blue Group
+SMH-L and D -Pink Group
+SMH-L and D -PRN Group
+SMH-MED Onc - Group A
+SMH-MED Onc - Group B
+SMH-MED Onc - Group C
+SMH-Med Onc NonNursing
+SMH-Med Onc Nursing
+SMH-NCR for 6A
+SMH-WISFloatPool PRN
+SMH-WISFloatPool RN
+Suburban Behav Health
+Suburban Hospital - Global
+Temporary Labor - Suburban
+Total FMLA Hours for BMCN
+unit float RNS
+VU Burton 1
+xBCC - Burton Vent - Group 1
+xBCC - Burton Vent - Group 2
+xBCC - Burton Vent - Group 3
+xBCC - Burton Vent - Last Group
+xBCC - Burton Vent - PERM 1
+xBCC - Float - PERM 1
+xBCC - MBU - Group 1
+xBCC - MBU - Group 2
+xBCC - MBU - Group 3
+xBCC - MBU - LAST
+xBCC - MBU - PERM
+xBCC - Plaza -  Group1
+xBCC - Plaza - PERM 1
+xBCC - Rehab Unit SHP - Group 1
+xBCC - Rehab Unit SHP - Group 2
+xBCC - Rehab Unit SHP - Group 3
+xBCC - Rehab Unit SHP - LAST
+xBCC - Rehab Unit SHP - PERM
+xBCC - RT - Group 3
+xBCC - RT - Last Group
+xBCC - RT - PERM 1
+xBCC - RT - Sign Up Group A
+xBCC - RT - Sign up Group B
+xBCC - RT - Sign Up Group C
+xBCC - SHP - PERM 1
+xBCC - Terrace - PERM 1
+xBCC - Wound Team - Group 1
+xBCC - Wound Team - Group 2
+xBCC - Wound Team - Group 3
+xBCC - Wound Team - LAST
+xBCC - Wound Team - PERM 1
+xBMCN - 6 Surg - Group 1
+xBMCN - 6 Surg - Group 2
+xBMCN - 6 Surg - Group 3
+xBMCN - 6 Surg - Last Group
+xBMCN - 6 Surg - PERM 1
+xBMCN - APU - Group 1
+xBMCN - APU - Group 2
+xBMCN - APU - Group 3
+xBMCN - APU - PERM 1
+xBMCN - ASU - Group 1
+xBMCN - ASU - Group 2
+xBMCN - ASU - Group 3
+xBMCN - ASU - Last Group
+xBMCN - ASU - PERM 1
+xBMCN - BICU - Group 1
+xBMCN - BICU - Group 2
+xBMCN - BICU - Group 3
+xBMCN - BICU - PERM 1
+xBMCN - Burton 4 - Group 1
+xBMCN - Burton 4 - Group 2
+xBMCN - Burton 4 - Group 3
+xBMCN - Burton 4 - Last Group
+xBMCN - Burton 4 - PERM
+xBMCN - BWU - Group 1
+xBMCN - BWU - Group 2
+xBMCN - BWU - Group 3
+xBMCN - BWU - PERM 1
+xBMCN - CBMU - Group 1
+xBMCN - CBMU - Group 2
+xBMCN - CBMU - Group 3
+xBMCN - CBMU - PERM 1
+xBMCN - CDU - Group 1
+xBMCN - CDU - Group 2
+xBMCN - CDU - PERM 1
+xBMCN - CDU INTAKE - PERM 1
+xBMCN - CDU OP DETOX - PERM 1
+xBMCN - Cent Sterile - PERM 1
+xBMCN - CICU - Group 1
+xBMCN - CICU - Group 2
+xBMCN - CICU - Group 3
+xBMCN - CICU - Last Group
+xBMCN - CICU - PERM 1
+xBMCN - ED - Group 1
+xBMCN - ED - Group 2
+xBMCN - ED - Group 3
+xBMCN - ED - Last Group
+xBMCN - ED - PERM 1
+xBMCN - Escort - Group 1
+xBMCN - Escort - PERM 1
+xBMCN - Float - Group 1
+xBMCN - Float - Group 2
+xBMCN - Float - Group 3
+xBMCN - Float - Last Group
+xBMCN - Float - PERM 1
+xBMCN - Med A - Group 1
+xBMCN - Med A - Group 2
+xBMCN - Med A - Group 3
+xBMCN - Med A - Last Group
+xBMCN - Med A - PERM 1
+xBMCN - Med B - Group 1
+xBMCN - Med B - Group 2
+xBMCN - Med B - Group 3
+xBMCN - Med B - Last Group
+xBMCN - Med B - PERM 1
+xBMCN - Med D - Group 1
+xBMCN - Med D - Group 2
+xBMCN - Med D - Group 3
+xBMCN - Med D - Last Group
+xBMCN - Med D - PERM 1
+xBMCN - MICU - Group 1
+xBMCN - MICU - Group 2
+xBMCN - MICU - Group 3
+xBMCN - MICU - Last Group
+xBMCN - MICU - PERM 1
+xBMCN - NCCU - Group 1
+xBMCN - NCCU - Group 2
+xBMCN - NCCU - Group 3
+xBMCN - NCCU - PERM 1
+xBMCN - NICU - Group 1
+xBMCN - NICU - Group 2
+xBMCN - NICU - Group 3
+xBMCN - NICU - Last Group
+xBMCN - NICU - PERM 1
+xBMCN - NNP - Group Perm
+xBMCN - NSU - Group 1
+xBMCN - NSU - Group 2
+xBMCN - NSU - Group 3
+xBMCN - NSU - PERM 1
+xBMCN - OBGYN - Group 1
+xBMCN - OBGYN - Group 2
+xBMCN - OBGYN - Group 3
+xBMCN - OBGYN - Last Group
+xBMCN - OBGYN - PERM 1
+xBMCN - OR - Group 1
+xBMCN - OR - Group 2
+xBMCN - OR - Group 3
+xBMCN - OR - Last Group
+xBMCN - OR - PERM 1
+xBMCN - PACU - Group 1
+xBMCN - PACU - Group 2
+xBMCN - PACU - Group 3
+xBMCN - PACU - Last Group
+xBMCN - PACU - PERM 1
+xBMCN - PCU - Group 1
+xBMCN - PCU - Group 2
+xBMCN - PCU - Group 3
+xBMCN - PCU - PERM 1
+xBMCN - Peds - Group 1
+xBMCN - Peds - Group 2
+xBMCN - Peds - Group 3
+xBMCN - Peds - Last Group
+xBMCN - Peds - PERM 1
+xBMCN - PES - Group 1
+xBMCN - PES - Group 2
+xBMCN - PES - Group 3
+xBMCN - PES - PERM 1
+xBMCN - SICU - Group 1
+xBMCN - SICU - Group 2
+xBMCN - SICU - Group 3
+xBMCN - SICU - PERM 1
+xBMCN - Staff Office - Group 1
+xBMCN - Staff Office - Group 2
+xBMCN - Staff Office - PERM 1
+xBMCN - Wenz - Group 1
+xBMCN - Wenz - Group 2
+xBMCN - Wenz - Group 3
+xBMCN - Wenz - PERM 1
+xBMCN Global Group 1
+xBMCN Global Group 2
+xBMCN Global Group 3
+xBMCN Global LAST
+xBMCN Global PERM
+xHCGH - 1N Group A
+xHCGH - 1N Group B
+xHCGH - 1N Group C
+xHCGH - 1N Group PRN
+xHCGH - Social Work ALL
+xHCGH 2P - Group A
+xHCGH 2P - Group B
+xHCGH 2P - Group C
+xHCGH 2P - Group PRN
+xHCGH 2S - Group A
+xHCGH 2S - Group B
+xHCGH 2S - Group C
+xHCGH 2S - Group PRN
+xHCGH 3P - Group A
+xHCGH 3P - Group B
+xHCGH 3P - Group C
+xHCGH 3P - Group PRN
+xHCGH 4P - Group A
+xHCGH 4P - Group B
+xHCGH 4P - Group C
+xHCGH 4P - Group PRN
+xHCGH 4S - Group A
+xHCGH 4S - Group B
+xHCGH 4S - Group C
+xHCGH 4S - Group PRN
+xHCGH All Nursing PCT's
+xHCGH APU OT - All Groups
+xHCGH Cafeteria - Group A
+xHCGH Cafeteria - Group B
+xHCGH Cafeteria - Group C
+xHCGH Cafeteria - Group PRN
+xHCGH Cardio Diag - All Groups
+xHCGH Case Mgmt - All Groups
+xHCGH Case Mgmt - Group A
+xHCGH Case Mgmt - Group B + C
+xHCGH Case Mgmt - Group PRN
+xHCGH Clinic Peri - Group A
+xHCGH Clinic Peri - Group B
+xHCGH Clinic Peri - Group C
+xHCGH Clinic Peri - Group PRN
+xHCGH CMRC - All Groups
+xHCGH ConstantObserver - Group A
+xHCGH CPO - Group A
+xHCGH CPO - Group B
+xHCGH CPO - Group C
+xHCGH Diagnostic - Group A
+xHCGH Diagnostic - Group B
+xHCGH Diagnostic - Group C
+xHCGH ECHO - All Groups
+xHCGH ED - All Groups
+xHCGH ED PEDS - Group A
+xHCGH ED PEDS - Group B
+xHCGH ED PEDS - Group PRN
+xHCGH EVS - Group A
+xHCGH EVS - Group B
+xHCGH EVS - Group C
+xHCGH EVS - Group PRN
+xHCGH HIM - Group A
+xHCGH HIM - Group B
+xHCGH HIM - Group C
+xHCGH HIM - Group PRN
+xHCGH ICU - Group A
+xHCGH ICU - Group B
+xHCGH ICU - Group C
+xHCGH ICU - Group PCA
+xHCGH ICU - Group PRN
+xHCGH Imaging Administration
+xHCGH IRCV - Group A
+xHCGH IRCV - Group B
+xHCGH IRCV - Group C
+xHCGH IRCV - Group D
+xHCGH IRCV - Group E
+xHCGH IRCV - Group PRN
+xHCGH Lactation - All Groups
+xHCGH Lactation - Group PRN
+xHCGH LD - Group A
+xHCGH LD - Group B
+xHCGH LD - Group C
+xHCGH LD - Group PRN
+xHCGH MAMMO - All Groups
+xHCGH MAMMO - Group PRN
+xHCGH MCU - All Groups
+xHCGH MCU - Group PRN
+xHCGH MRI - All Groups
+xHCGH MRI - Group PRN
+xHCGH NICU - All Groups
+xHCGH NICU - Group A
+xHCGH NICU - Group B
+xHCGH NICU - Group C
+xHCGH NICU - Group PRN
+xHCGH Nuc Med - All Groups
+xHCGH OBS - Group A
+xHCGH OBS - Group B
+xHCGH OBS - Group C
+xHCGH OR - Group A
+xHCGH OR - Group B
+xHCGH OR - Group C
+xHCGH PACU - Group A
+xHCGH PACU - Group B
+xHCGH PACU - Group C
+xHCGH PACU - Group D
+xHCGH PACU - Group PRN
+xHCGH Pastoral - All Groups
+xHCGH PEDS - Group A
+xHCGH PEDS - Group B
+xHCGH PEDS - Group PRN
+xHCGH Pharmacy - Group A
+xHCGH Pharmacy - Group B
+xHCGH Pharmacy - Group C
+xHCGH Pharmacy - Group PRN
+xHCGH Psych - All Groups
+xHCGH Psych SW - All Groups
+xHCGH Pulmonary Function - ALL
+xHCGH RN Admin - All Groups
+xHCGH RN Admin - SDIR MGR
+xHCGH RN Floats - All Groups
+xHCGH RT - All Groups
+xHCGH RT - Group PRN
+xHCGH SCU - Group A
+xHCGH SCU - Group B
+xHCGH SCU - Group C
+xHCGH SCU - Group PCA
+xHCGH SCU - Group PRN
+xHCGH TCAS Doc Central - All
+xHCGH TCAS PACU - Group A
+xHCGH TCAS PACU - Group B
+xHCGH TCAS PACU - Group C
+xHCGH TCAS PACU - Group PRN
+xHCGH Transport Group A B C
+xHCGH Transport Group PRN
+xHCGH Ultra - Group A
+xHCGH Ultra - Group B
+xHCGH Ultra - Group C
+xHCGH Ultra - Group PRN
+xHCGH Ultra Peri - Group A
+xHCGH Ultra Peri - Group B
+xHCGH Ultra Peri - Group C
+xHCGH Ultra Peri - Group PRN
+xHCGH Vascular - Group A
+xHCGH Vascular - Group B
+xHCGH Vascular - Group C
+xHCGH Vascular - Group PRN
+xJHH EVC JFA
+xJHH EVC JFC
+xJHH EVC JFD
+xJHH EVC JFE
+xJHH EVC JFF
+xJHH EVC JFG
+xJHH EVC JFH
+xJHH EVC JFI
+xJHH EVC JFJ
+xJHH EVC JFK
+xJHH EVC JFL
+xJHH EVC JFM
+xJHH EVC JFN
+xJHH EVC JFO
+xJHH EVC JFP
+xJHH EVC JFQ
+xJHH EVC JFR
+xJHH EVC JFS
+xJHH EVC JFT
+xJHH EVC JFU
+xJHH EVC JFV
+xJHH EVC JFW
+xJHH EVC JFX
+xJHH EVC JP5
+xJHH EVC JP9
+xJHH EVC JW1
+xJHH EVC JW2
+xJHH EVC JW3
+xJHH EVC JW4
+xJHH EVC JW5
+xJHH EVC JW6
+xJHH EVC JW7
+xJHH EVC JW8
+xJHH EVC JW9
+xJHH EVC JWA
+xJHH EVC JWB
+xJHH EVC JWC
+xJHH EVC JWD
+xJHH EVC JWE
+xJHH EVC JWF
+xJHH EVC JWG
+xJHH EVC JWH
+xJHH EVC JWI
+xJHH EVC JWJ
+xJHHS Float Pool
+xNCR Float Pool
+xSH 3200 - Group A
+xSH 3200 - Group B
+xSH 3200 - Group C
+xSH Acute Med - Group A
+xSH Acute Med - Group B
+xSH Acute Med - Group C
+xSH Adult Medical - Group A
+xSH Adult Medical - Group B
+xSH Adult Medical - Group C
+xSH Adult Surgical - Group A
+xSH Adult Surgical - Group B
+xSH Adult Surgical - Group C
+xSH ATC Montrose - Group A
+xSH ATC Montrose - Group B
+xSH ATC Montrose - Group C
+xSH Behav Health - Group A
+xSH Behav Health - Group B
+xSH Behav Health - Group C
+xSH Cardiac Rehab - Group A
+xSH Cardiac Rehab - Group B
+xSH Cardiac Rehab - Group C
+xSH Care Coord - Group A
+xSH Care Coord - Group B
+xSH Care Coord - Group C
+xSH Cath Lab - Group A
+xSH Cath Lab - Group B
+xSH Cath Lab - Group C
+xSH CDU - Group A
+xSH CDU - Group B
+xSH CDU - Group C
+xSH Clinic Supp Svc - Group A
+xSH Clinic Supp Svc - Group B
+xSH Clinic Supp Svc - Group C
+xSH Clinical Docum - Group A
+xSH Clinical Docum - Group B
+xSH Clinical Docum - Group C
+xSH Crisis Intervent - Group A
+xSH Crisis Intervent - Group B
+xSH Crisis Intervent - Group C
+xSH CT Scan - Group A
+xSH CT Scan - Group B
+xSH CT Scan - Group C
+xSH CV Short Stay - Group A
+xSH CV Short Stay - Group B
+xSH CV Short Stay - Group C
+xSH CVOR - Group A
+xSH CVOR - Group B
+xSH CVOR - Group C
+xSH Day Treatment - Group A
+xSH Day Treatment - Group B
+xSH Day Treatment - Group C
+xSH Div-Perioperat - Group A
+xSH Div-Perioperat - Group B
+xSH Div-Perioperat - Group C
+xSH ED and Peds - Group C
+xSH ED Trauma - Group A
+xSH Ed Trauma - Group B
+xSH ED Trauma - Group C
+xSH EEG - Group A
+xSH EEG - Group B
+xSH EEG - Group C
+xSH EKG - Group A
+xSH EKG - Group B
+xSH EKG - Group C
+xSH Floats-Home - Group A
+xSH Floats-Home - Group B
+xSH Floats-Home - Group C
+xSH Housekeeping - Group A
+xSH Housekeeping - Group B
+xSH Housekeeping - Group C
+xSH ICU - Group A
+xSH ICU - Group B
+xSH ICU - Group C
+xSH ICU - Group D
+xSH ICU - Group E
+xSH Intervent Angio - Group A
+xSH Intervent Angio - Group B
+xSH Intervent Angio - Group C
+xSH MRI - Group A
+xSH MRI - Group B
+xSH MRI - Group C
+xSH MRI/NIH - Group A
+xSH MRI/NIH - Group B
+xSH MRI/NIH - Group C
+xSH NIH OH Research - Group A
+xSH NIH OH Research - Group B
+xSH NIH OH Research - Group C
+xSH NIH Stroke - Group A
+xSH NIH Stroke - Group B
+xSH NIH Stroke - Group C
+xSH Nuclear Med - Group A
+xSH Nuclear Med - Group B
+xSH Nuclear Med - Group C
+xSH Nursing Admin - Group A
+xSH Nursing Admin - Group B
+xSH Nursing Admin - Group C
+xSH Nursing Educat - Group A
+xSH Nursing Educat - Group B
+xSH Nursing Educat - Group C
+xSH Occ Therapy - Group A
+xSH Occ Therapy - Group B
+xSH Occ Therapy - Group C
+xSH Oncology  - Group A
+xSH Oncology  - Group B
+xSH Oncology  - Group C
+xSH Oncology  - Group D
+xSH OR Admin - Group A
+xSH OR Admin - Group B
+xSH OR Admin - Group C
+xSH OR Minor - Group A
+xSH OR Minor - Group B
+xSH OR Minor - Group C
+xSH Ortho Services - Group A
+xSH Ortho Services - Group B
+xSH Ortho Services - Group C
+xSH Ortho Svc Line- Group A
+xSH Ortho Svc Line- Group B
+xSH Ortho Svc Line- Group C
+xSH Ortho-Neuro - Group A
+xSH Ortho-Neuro - Group B
+xSH Ortho-Neuro - Group C
+xSH PACU - Group A
+xSH PACU - Group B
+xSH PACU - Group C
+xSH Patient Access - Group A
+xSH Patient Access - Group B
+xSH Patient Access - Group C
+xSH PCU - Group A
+xSH PCU - Group B
+xSH PCU - Group C
+xSH Pediatrics  - Group A
+xSH Pediatrics  - Group B
+xSH Pediatrics  - Group C
+xSH Pharmacy - Group A
+xSH Pharmacy - Group B
+xSH Pharmacy - Group C
+xSH Physical Medicin - Group A
+xSH Physical Medicin - Group B
+xSH Physical Medicin - Group C
+xSH Physical Therapy - Group A
+xSH Physical Therapy - Group B
+xSH Physical Therapy - Group C
+xSH Presurgical Tst - Group A
+xSH Presurgical Tst - Group B
+xSH Presurgical Tst - Group C
+xSH Radiology - Group A
+xSH Radiology - Group B
+xSH Radiology - Group C
+xSH Radiology Admin - Group A
+xSH Radiology Admin - Group B
+xSH Radiology Admin - Group C
+xSH Rapid Response  - Group A
+xSH Rapid Response  - Group B
+xSH Rapid Response  - Group C
+xSH Rapid Response - Global
+xSH Respiratory Ther - Group A
+xSH Respiratory Ther - Group B
+xSH Respiratory Ther - Group C
+xSH RN First Assist - Group A
+xSH RN First Assist - Group B
+xSH RN First Assist - Group C
+xSH Security - Group A
+xSH Security - Group B
+xSH Security - Group C
+xSH Speech Therapy - Group A
+xSH Speech Therapy - Group B
+xSH Speech Therapy - Group C
+xSH Sterile Process - Group A
+xSH Sterile Process - Group B
+xSH Sterile Process - Group C
+xSH Transportation - Group A
+xSH Transportation - Group B
+xSH Transportation - Group C
+xSH Ultrasound - Group A
+xSH Ultrasound - Group B
+xSH Ultrasound - Group C

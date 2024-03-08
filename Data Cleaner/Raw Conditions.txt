@@ -1,0 +1,77 @@
+SHORTNM,VALUETXT
+!Select Query,1
+!Select Query,$now
+!Select Query,EmploymentStatus
+!Select Query,2
+!Select Query,$now
+!Select Query,EmploymentStatus
+!Select Query,3
+!Select Query,$now
+!Select Query,EmploymentStatus
+!Select Query,1
+!Select Query,$now
+!Select Query,UserStatus
+!Select Query,2
+!Select Query,$now
+!Select Query,UserStatus
+!Select Query,3
+!Select Query,$now
+!Select Query,UserStatus
+!Select Query,*
+!Select Query,*
+!Select Query,HomeAcct
+!Select Query,1
+!Select Query,*
+!Select Query,*
+!Select Query,4803117414
+!Select Query,*
+!Select Query,*
+&All_Home_And_Scheduled_In_Optimized,com.kronos.wfc.commonapp.hyperfind.shared.ExtSingleColumnConstraintNumberBean.ItemType.ScheduledJobHomeOrTransferIn_IncludeChildrenNodes
+&All_Home_And_Scheduled_In_Optimized,-1
+&All_Home_And_Scheduled_In_Optimized,=
+&All_Home_And_Transferred_In,*
+&All_Home_And_Transferred_In,*
+&All_Home_And_Transferred_In,HomeAcct
+&All_Home_And_Transferred_In,1
+&All_Home_And_Transferred_In,*
+&All_Home_And_Transferred_In,*
+&All_Home_And_Transferred_In,*
+&All_Home_And_Transferred_In,TL1#TL2#TL3#TL4#TL5#TL6#TL7#TL8#TL9
+&All_Home_And_Transferred_In,*
+]BMCN Med D,3
+]BMCN Med D,$now
+]BMCN Med D,EmploymentStatus
+]BMCN Med D,IN
+]BMCN Med D,37,656,376,603,766,100,000,000,000,000,000,000,000,000,000,000,000
+]BMCN Med D,com.kronos.wfc.commonapp.hyperfind.shared.ExtSingleColumnConstraintNumberBean.ItemType.ScheduledJobHomeOrTransferIn
+0 - All Home - Non Float Units,1
+0 - All Home - Non Float Units,$now
+0 - All Home - Non Float Units,UserStatus
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,4001050305#4400019300#4500150022#4800010317#5300010250#5850029910#6001208682#6301020285#6405413000#6500002747
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,*
+0 - COVID Cost Centers,WorkedAcct
+0 - JHH EVC Global,1
+0 - JHH EVC Global,$now
+0 - JHH EVC Global,EmploymentStatus
+0 - JHH EVC Global,*
+0 - JHH EVC Global,*
+0 - JHH EVC Global,HomeAcct
+0 - JHH EVC Global,1
+0 - JHH EVC Global,*
+0 - JHH EVC Global,*
+0 - JHH EVC Global,4000350301#4000350303#4500310301#4500310303#4500310305#4500310310#4500310311#4800010022#4800310300#4800310302#4800310304#4800310305#4800310314#4800310315
+0 - JHH EVC Global,*
+0 - JHH EVC Global,*
+0 - JHH Global,*
+0 - JHH Global,*
+0 - JHH Global,480*
+0 - JHH Global,*
+0 - JHH Global,*
+0 - JHH Global,*
+0 - JHH Global,*
+0 - JHH Global,WorkedAcct

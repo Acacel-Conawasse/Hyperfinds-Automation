@@ -1,41 +1,41 @@
 Hyperfind Name,Description,Cost Center,Org Unit,Employment Status,Schedule Group
-BMCN BICU,Null,Null,10002372,Y,Null
-BMCN BWU,Null,Null,10003898,Y,Null
-BMCN CAP - Group 1,Null,Null,10003576,Y,BMCN Group 1
-BMCN CAP - Group 2,Null,Null,10003576,Y,BMCN Group 2
-BMCN CAROL BALL MED UNIT,Null,Null,60001880,Y,Null
-BMCN CDU - Outpatient,Null,Null,10002396,Y,Null
-BMCN Central Sterile,Null,Null,10002368,Y,Null
-BMCN CICU,Null,Null,10002377,Y,Null
-BMCN ED,Null,Null,10002388#10002417,Y,Null
-BMCN ED + JHHS ED RN,Null,Null,10002388#60009978#10002417,Y,Null
-BMCN ED Pediatrics,Null,4004257607,Null,Y,Null
-BMCN ED PEDS + INPT PEDS,Null,4005357001#4004257607,Null,Y,Null
-BMCN LD,Null,Null,10002380,Y,Null
-BMCN Med A,Null,Null,10002391,Y,Null
-BMCN MED B,Null,Null,10002393,Y,Null
-BMCN Med Burton 4,Null,Null,60011929,Y,Null
-BMCN Med D,Null,Null,60010303,Y,Null
-BMCN MICU,Null,Null,10002378,Y,Null
-BMCN NBN,Null,Null,10002382,Y,Null
-BMCN NCCU,Null,Null,10002369,Y,Null
-BMCN NCCU/NSU,Null,Null,10002369#10002370,Y,Null
-BMCN NICU,Null,Null,10002383,Y,Null
-BMCN NNP,Null,Null,10002414,Y,Null
-BMCN NSU,Null,Null,10002370,Y,Null
-BMCN Nursing Practice IP EDU,Null,4001350305,Null,Y,Null
-BMCN Nursing Recruitment,Null,4001350308,Null,Y,Null
-BMCN OBGYN,Null,Null,10002380#10002381#10002382#60001326,Y,Null
-BMCN PACU,Null,Null,10002373,Y,Null
-BMCN Patient Safety,Null,4000850302,Null,Y,Null
-BMCN PCU,Null,Null,10002376,Y,Null
-BMCN PEDS,Null,Null,10002384,Y,Null
-BMCN Periop,Null,4007257201,Null,Y,Null
-BMCN PES,Null,Null,60001301,Y,Null
-BMCN SICU,Null,Null,10002371,Y,Null
-BMCN SURG,Null,Null,10002366,Y,Null
-BMCN Trauma Coordinator,Null,Null,10002367,Y,Null
-BMCN WENZ,Null,Null,10003776,Y,Null
+BMCN-BICU,Null,Null,10002372,Y,Null
+BMCN-BWU,Null,Null,10003898,Y,Null
+BMCN-CAP-Group 1,Null,Null,10003576,Y,BMCN Group 1
+BMCN-CAP-Group 2,Null,Null,10003576,Y,BMCN Group 2
+BMCN-CAROL BALL MED UNIT,Null,Null,60001880,Y,Null
+BMCN-CDU-Outpatient,Null,Null,10002396,Y,Null
+BMCN-Central Sterile,Null,Null,10002368,Y,Null
+BMCN-CICU,Null,Null,10002377,Y,Null
+BMCN-ED,Null,Null,10002388#10002417,Y,Null
+BMCN-ED + JHHS ED RN,Null,Null,10002388#60009978#10002417,Y,Null
+BMCN-ED Pediatrics,Null,4004257607,Null,Y,Null
+BMCN-ED PEDS + INPT PEDS,Null,4005357001#4004257607,Null,Y,Null
+BMCN-LD,Null,Null,10002380,Y,Null
+BMCN-Med A,Null,Null,10002391,Y,Null
+BMCN-MED B,Null,Null,10002393,Y,Null
+BMCN-Med Burton 4,Null,Null,60011929,Y,Null
+BMCN-Med D,Null,Null,60010303,Y,Null
+BMCN-MICU,Null,Null,10002378,Y,Null
+BMCN-NBN,Null,Null,10002382,Y,Null
+BMCN-NCCU,Null,Null,10002369,Y,Null
+BMCN-NCCU/NSU,Null,Null,10002369#10002370,Y,Null
+BMCN-NICU,Null,Null,10002383,Y,Null
+BMCN-NNP,Null,Null,10002414,Y,Null
+BMCN-NSU,Null,Null,10002370,Y,Null
+BMCN-Nursing Practice IP EDU,Null,4001350305,Null,Y,Null
+BMCN-Nursing Recruitment,Null,4001350308,Null,Y,Null
+BMCN-OBGYN,Null,Null,10002380#10002381#10002382#60001326,Y,Null
+BMCN-PACU,Null,Null,10002373,Y,Null
+BMCN-Patient Safety,Null,4000850302,Null,Y,Null
+BMCN-PCU,Null,Null,10002376,Y,Null
+BMCN-PEDS,Null,Null,10002384,Y,Null
+BMCN-Periop,Null,4007257201,Null,Y,Null
+BMCN-PES,Null,Null,60001301,Y,Null
+BMCN-SICU,Null,Null,10002371,Y,Null
+BMCN-SURG,Null,Null,10002366,Y,Null
+BMCN-Trauma Coordinator,Null,Null,10002367,Y,Null
+BMCN-WENZ,Null,Null,10003776,Y,Null
 BMCN-Nursing Admin Mgmt,Null,4801310007#4500150305,Null,Y,Null
 BMC-Patient Safety Ctr,Null,4000850302,Null,Y,Null
 FM-Global,Null,4000350300#4000350301#4000350303#4000450306#4500310301#4500310303#4500310304#4500310305#4500310310#4500310311#4800310300#4800310302#4800310305#4800310314,Null,Y,Null
@@ -132,7 +132,7 @@ HCGH-6408240000-Cardiac Diagno,Null,6408240000,Null,Y,Null
 HCGH-6408245000-Cardiac Rehab,Null,6408245000,Null,Y,Null
 HCGH-6408250000-Physical Ther Inp,Null,6408250000,Null,Y,Null
 HCGH-6408250200-Outpatient PT,Null,6408250200,Null,Y,Null
-HCGH-6408255000- Occ Therapy,Null,6408255000,Null,Y,Null
+HCGH-6408255000-Occ Therapy,Null,6408255000,Null,Y,Null
 HCGH-6408255200-Outpatient OT,Null,6408255200,Null,Y,Null
 HCGH-6408260000-Occ Ther Psych,Null,6408260000,Null,Y,Null
 HCGH-6408265000-Speech Therapy,Null,6408265000,Null,Y,Null
@@ -164,16 +164,16 @@ HCGH-6408920000-Cafeteria,Null,6408920000,Null,Y,Null
 HCGH-6408930000-Catering,Null,6408930000,Null,Y,Null
 HCGH-6408940000-Vending,Null,6408940000,Null,Y,Null
 HCGH-6419110000-HHF,Null,6419110000,Null,Y,Null
-SEC Transportation - 10001794,Null,Null,10001794,Y,Null
-SH - 6005408626,Null,6005408625#6005408626,Null,Y,Null
-SH - Hrs in Float Tier II-III,Null,Null,Null,Y,Null
-SH - Pat Care Techs - ED Techs,Null,Null,Null,Y,Null
-SH Human Resources Group,Null,Null,Null,Y,Null
-SH RNs Unit Float,Null,Null,Null,Y,Null
-SH Unsch Shifts Nursing Div,Null,6001116015#6001116016#6001116018#6001116020#6001116021#6001126340#6001126348#6001136381#6001146280#6001206375#6001206378#6001326362#6001406022#6001408750#6001508620#6001606347#6002407450#6002407456#6021206375,Null,Y,Null
-SH WEA Misc Hours Audit,Null,Null,40364400,Y,Null
-SH WEA RNs,Null,Null,Null,Y,Null
-SH WEA Weekday Hours Check,Null,Null,Null,Y,Null
+SEC-Transportation-10001794,Null,Null,10001794,Y,Null
+SH-6005408626,Null,6005408625#6005408626,Null,Y,Null
+SH-Hrs in Float Tier II-III,Null,Null,Null,Y,Null
+SH-Pat Care Techs-ED Techs,Null,Null,Null,Y,Null
+SH-Human Resources Group,Null,Null,Null,Y,Null
+SH-RNs Unit Float,Null,Null,Null,Y,Null
+SH-Unsch Shifts Nursing Div,Null,6001116015#6001116016#6001116018#6001116020#6001116021#6001126340#6001126348#6001136381#6001146280#6001206375#6001206378#6001326362#6001406022#6001408750#6001508620#6001606347#6002407450#6002407456#6021206375,Null,Y,Null
+SH-WEA Misc Hours Audit,Null,Null,40364400,Y,Null
+SH-WEA RNs,Null,Null,Null,Y,Null
+SH-WEA Weekday Hours Check,Null,Null,Null,Y,Null
 SH-6001116012-SH 5200,Null,6001116012,Null,Y,Null
 SH-6001116015-ADULT SURGICAL,Null,6001116015,Null,Y,Null
 SH-6001116016-ORHTO-NEURO,Null,6001116016,Null,Y,Null
@@ -227,7 +227,7 @@ SH-6002107402-ROUTINE CORELAB,Null,6002107402,Null,Y,Null
 SH-6002107404-MICROBIOLOGY,Null,6002107404,Null,Y,Null
 SH-6002107405-PATHOLOGY,Null,6002107405,Null,Y,Null
 SH-6002107406-OUTREACH LAB,Null,6002107406,Null,Y,Null
-SH-6002107408 -PHLEBOTOMY,Null,6002107408,Null,Y,Null
+SH-6002107408-PHLEBOTOMY,Null,6002107408,Null,Y,Null
 SH-6002107409-LAB ADMIN,Null,6002107409,Null,Y,Null
 SH-6002107410-BLOOD BANK,Null,6002107410,Null,Y,Null
 SH-6002107503-LAB OPMC,Null,6002107503,Null,Y,Null
@@ -266,7 +266,7 @@ SH-6003508688-CAPRES,Null,6003508688,Null,Y,Null
 SH-6004008102-DIV-SUP CH MGMT,Null,6004008102,Null,Y,Null
 SH-6004008310-PAT FOOD SVCS,Null,6004008310,Null,Y,Null
 SH-6004008311-CAFETER-PANTRY,Null,6004008311,Null,Y,Null
-SH-6004008318 -MEDIA-CONF SVCS,Null,6004008318,Null,Y,Null
+SH-6004008318-MEDIA-CONF SVCS,Null,6004008318,Null,Y,Null
 SH-6004008330-LAUNDRY-LINEN,Null,6004008330,Null,Y,Null
 SH-6004008331-LINEN,Null,6004008331,Null,Y,Null
 SH-6004008410-PLANT OPERATION,Null,6004008410,Null,Y,Null
@@ -323,20 +323,20 @@ SH-6015408656-FND FOUNDATION,Null,6015408656,Null,Y,Null
 SH-6021337900-PA PHYSI ASSIST,Null,6021337900,Null,Y,Null
 SH-6021337910-PA PHYS ASST CV,Null,6021337910,Null,Y,Null
 SH-6111336800-SC OUTPAT SURG,Null,6111336800,Null,Y,Null
-SHHS - BHU Excluded,Null,6001156343,Null,Y,Null
-SHHS - BHU/OR Excluded,Null,6001156343,Null,Y,Null
-SHHS - Non-Scheduling Users,Null,Null,Null,Y,Null
-SHHS - OR,Null,6001316360#6001337435,Null,Y,Null
+SHHS-BHU Excluded,Null,6001156343,Null,Y,Null
+SHHS-BHU/OR Excluded,Null,6001156343,Null,Y,Null
+SHHS-Non-Scheduling Users,Null,Null,Null,Y,Null
+SHHS-OR,Null,6001316360#6001337435,Null,Y,Null
 SHP VU Burton 1,Null,Null,10002309,Y,Null
 SHP Wound Team,Null,Null,10002317,Y,Null
 Sibley Grand Oaks,Null,Null,Null,Y,Null
 SMH ASRs,Null,Null,Null,Y,SMH ASRs
-SMH CNA - Day,Null,Null,Null,Y,SMH CNA - Day
-SMH CNA - Night,Null,Null,Null,Y,SMH CNA - Night
+SMH CNA-Day,Null,Null,Null,Y,SMH CNA-Day
+SMH CNA-Night,Null,Null,Null,Y,SMH CNA-Night
 SMH Periop Group A,Null,Null,Null,Y,SMH Periop Group A
 SMH Periop Group B,Null,Null,Null,Y,SMH Periop Group B
 SMH Periop Group C,Null,Null,Null,Y,SMH Periop Group C
-SMH REN - Exempt,Null,Null,Null,Y,SMH REN Exempt
+SMH REN-Exempt,Null,Null,Null,Y,SMH REN Exempt
 SMH SASC Group A,Null,Null,Null,Y, SMH SASC Group A
 SMH SASC Group B,Null,Null,Null,Y, SMH SASC Group B
 SMH SASC Group C,Null,Null,Null,Y, SMH SASC Group C
@@ -436,480 +436,480 @@ SMH-FCCU-Pink Group,Null,Null,Null,Y,SMH FCCU Pink
 SMH-FCCU-PRN Group,Null,Null,Null,Y,SMH FCCU PRN
 SMH-Infusion Pharm Group,Null,Null,Null,Y,SMH Infusion Pharmacists
 SMH-Infusion Tech Group,Null,Null,Null,Y,SMH Infusion Pharmacy Technicians
-SMH-L and D -Agency Group,Null,Null,Null,Y, SMH LaborDeliv Agency
-SMH-L and D -Blue Group,Null,Null,Null,Y,Null
-SMH-L and D -Pink Group,Null,Null,Null,Y, SMH LaborDeliv Pink
-SMH-L and D -PRN Group,Null,Null,Null,Y,Null
-SMH-MED Onc - Group A,Null,Null,Null,Y, SMH Med Onc - Group A
-SMH-MED Onc - Group B,Null,Null,Null,Y,SMH Med Onc - Group B
-SMH-MED Onc - Group C,Null,Null,Null,Y,SMH Med Onc - Group C
+SMH-L and D-Agency Group,Null,Null,Null,Y, SMH LaborDeliv Agency
+SMH-L and D-Blue Group,Null,Null,Null,Y,Null
+SMH-L and D-Pink Group,Null,Null,Null,Y, SMH LaborDeliv Pink
+SMH-L and D-PRN Group,Null,Null,Null,Y,Null
+SMH-MED Onc-Group A,Null,Null,Null,Y, SMH Med Onc-Group A
+SMH-MED Onc-Group B,Null,Null,Null,Y,SMH Med Onc-Group B
+SMH-MED Onc-Group C,Null,Null,Null,Y,SMH Med Onc-Group C
 SMH-WISFloatPool PRN,Null,Null,Null,Y,Null
 SMH-WISFloatPool RN,Null,Null,Null,Y,Null
 Suburban Behav Health,Null,6001156343,Null,Y,Null
-Suburban Hospital - Global,Null,Null,Null,Y,Null
-Temporary Labor - Suburban,Null,Null,Null,Y,Null
+Suburban Hospital-Global,Null,Null,Null,Y,Null
+Temporary Labor-Suburban,Null,Null,Null,Y,Null
 unit float RNS,Null,Null,Null,Y,Null
-xBCC - Burton Vent - Group 1,Null,Null,Null,Y, BMCN Group 1
-xBCC - Burton Vent - Group 2,Null,Null,Null,Y, BMCN Group 2
-xBCC - Burton Vent - Group 3,Null,Null,Null,Y, BMCN Group 3
-xBCC - Burton Vent - Last Group,Null,Null,Null,Y, BMCN LAST
-xBCC - Burton Vent - PERM 1,Null,Null,Null,Y, BMCN PERM
-xBCC - Float - PERM 1,Null,Null,Null,Y,Null
-xBCC - MBU - Group 1,Null,Null,Null,Y,BMCN Group 1
-xBCC - MBU - Group 2,Null,Null,Null,Y,BMCN Group 2
-xBCC - MBU - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBCC - MBU - LAST,Null,Null,Null,Y,BMCN LAST
-xBCC - MBU - PERM,Null,Null,Null,Y,BMCN PERM
-xBCC - Plaza -  Group1,Null,4104657000,Null,Y,BMCN Group 1
-xBCC - Plaza - PERM 1,Null,4104657000,Null,Y,BMCN PERM
-xBCC - Rehab Unit SHP - Group 1,Null,Null,Null,Y,BMCN Group 1
-xBCC - Rehab Unit SHP - Group 2,Null,Null,Null,Y,BMCN Group 2
-xBCC - Rehab Unit SHP - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBCC - Rehab Unit SHP - LAST,Null,Null,Null,Y,BMCN LAST
-xBCC - Rehab Unit SHP - PERM,Null,Null,Null,Y,BMCN PERM
-xBCC - RT - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBCC - RT - Last Group,Null,4003157402,Null,Y,BMCN LAST
-xBCC - RT - PERM 1,Null,4003157402,Null,Y,BMCN PERM
-xBCC - RT - Sign Up Group A,Null,Null,Null,Y,Sign up Group A
-xBCC - RT - Sign up Group B,Null,Null,Null,Y,Sign up Group B
-xBCC - RT - Sign Up Group C,Null,Null,Null,Y, Bayview PRN
-xBCC - SHP - PERM 1,Null,Null,Null,Y,BMCN PERM
-xBCC - Terrace - PERM 1,Null,Null,Null,Y,BMCN PERM
-xBCC - Wound Team - Group 1,Null,Null,Null,Y,BMCN Group 1
-xBCC - Wound Team - Group 2,Null,Null,Null,Y,BMCN Group 2
-xBCC - Wound Team - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBCC - Wound Team - LAST,Null,Null,Null,Y,BMCN LAST
-xBCC - Wound Team - PERM 1,Null,Null,Null,Y,BMCN PERM
-xBMCN - 6 Surg - Group 1,Null,4007257003,Null,Y,BMCN Group 1
-xBMCN - 6 Surg - Group 2,Null,4007257003,Null,Y,BMCN Group 2
-xBMCN - 6 Surg - Group 3,Null,4007257003,Null,Y,BMCN Group 3
-xBMCN - 6 Surg - Last Group,Null,4007257003,Null,Y,BMCN LAST
-xBMCN - 6 Surg - PERM 1,Null,4007257003,Null,Y,BMCN PERM
-xBMCN - APU - Group 1,Null,4005757000,Null,Y,BMCN Group 1
-xBMCN - APU - Group 2,Null,4005757000,Null,Y,BMCN Group 2
-xBMCN - APU - Group 3,Null,4005757000,Null,Y,BMCN Group 3
-xBMCN - APU - PERM 1,Null,4005757000,Null,Y,BMCN PERM
-xBMCN - ASU - Group 1,Null,4007257200,Null,Y,BMCN Group 1
-xBMCN - ASU - Group 2,Null,4007257200,Null,Y,BMCN Group 2
-xBMCN - ASU - Group 3,Null,4007257200,Null,Y,BMCN Group 3
-xBMCN - ASU - Last Group,Null,4007257200,Null,Y,BMCN LAST
-xBMCN - ASU - PERM 1,Null,4007257200,Null,Y,BMCN PERM
-xBMCN - BICU - Group 1,Null,4007157000,Null,Y,BMCN Group 1
-xBMCN - BICU - Group 2,Null,4007157000,Null,Y,BMCN Group 2
-xBMCN - BICU - Group 3,Null,4007157000,Null,Y,BMCN Group 3
-xBMCN - BICU - PERM 1,Null,4007157000,Null,Y,BMCN PERM
-xBMCN - Burton 4 - Group 1,Null,4004657018,Null,Y,BMCN Group 1
-xBMCN - Burton 4 - Group 2,Null,4004657018,Null,Y,BMCN Group 2
-xBMCN - Burton 4 - Group 3,Null,4004657018,Null,Y,BMCN Group 3
-xBMCN - Burton 4 - Last Group,Null,4004657018,Null,Y,BMCN LAST
-xBMCN - Burton 4 - PERM,Null,4004657018,Null,Y,BMCN PERM
-xBMCN - BWU - Group 1,Null,4007157001,Null,Y,BMCN Group 1
-xBMCN - BWU - Group 2,Null,4007157001,Null,Y,BMCN Group 2
-xBMCN - BWU - Group 3,Null,4007157001,Null,Y,BMCN Group 3
-xBMCN - BWU - PERM 1,Null,4007157001,Null,Y,BMCN PERM
-xBMCN - CBMU - Group 1,Null,4004657010,Null,Y,BMCN Group 1
-xBMCN - CBMU - Group 2,Null,4004657010,Null,Y,BMCN Group 2
-xBMCN - CBMU - Group 3,Null,4004657010,Null,Y,BMCN Group 3
-xBMCN - CBMU - PERM 1,Null,4004657010,Null,Y,BMCN PERM
-xBMCN - CDU - Group 1,Null,4004657001,Null,Y,BMCN Group 1
-xBMCN - CDU - Group 2,Null,4004657001,Null,Y,BMCN Group 2
-xBMCN - CDU - PERM 1,Null,4004657001,Null,Y,BMCN PERM
-xBMCN - CDU INTAKE - PERM 1,Null,4004657000,Null,Y,BMCN PERM
-xBMCN - CDU OP DETOX - PERM 1,Null,4004657407,Null,Y,BMCN PERM
-xBMCN - Cent Sterile - PERM 1,Null,4000450400,Null,Y,BMCN PERM
-xBMCN - CICU - Group 1,Null,4004657002,Null,Y,BMCN Group 1
-xBMCN - CICU - Group 2,Null,4004657002,Null,Y,BMCN Group 2
-xBMCN - CICU - Group 3,Null,4004657002,Null,Y,BMCN Group 3
-xBMCN - CICU - Last Group,Null,4004657002,Null,Y,BMCN LAST
-xBMCN - CICU - PERM 1,Null,4004657002,Null,Y,BMCN PERM
-xBMCN - ED - Group 1,Null,Null,Null,Y,BMCN Group 1
-xBMCN - ED - Group 2,Null,Null,Null,Y,BMCN Group 2
-xBMCN - ED - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBMCN - ED - Last Group,Null,Null,Null,Y,BMCN LAST
-xBMCN - ED - PERM 1,Null,Null,Null,Y,BMCN PERM
-xBMCN - Escort - Group 1,Null,4000550306,Null,Y,BMCN Group 1
-xBMCN - Escort - PERM 1,Null,4000550306,Null,Y,BMCN PERM
-xBMCN - Float - Group 1,Null,4001350400#4500150306,Null,Y,BMCN Group 1
-xBMCN - Float - Group 2,Null,4001350400#4500150306,Null,Y,BMCN Group 2
-xBMCN - Float - Group 3,Null,4001350400#4500150306,Null,Y,BMCN Group 3
-xBMCN - Float - Last Group,Null,4001350400#4500150306,Null,Y,BMCN LAST
-xBMCN - Float - PERM 1,Null,4001350400#4500150306,Null,Y,BMCN PERM
-xBMCN - Med A - Group 1,Null,4004657004,Null,Y,BMCN Group 1
-xBMCN - Med A - Group 2,Null,4004657004,Null,Y,BMCN Group 2
-xBMCN - Med A - Group 3,Null,4004657004,Null,Y,BMCN Group 3
-xBMCN - Med A - Last Group,Null,4004657004,Null,Y,BMCN LAST
-xBMCN - Med A - PERM 1,Null,4004657004,Null,Y,BMCN PERM
-xBMCN - Med B - Group 1,Null,4004657005,Null,Y,BMCN Group 1
-xBMCN - Med B - Group 2,Null,4004657005,Null,Y,BMCN Group 2
-xBMCN - Med B - Group 3,Null,4004657005,Null,Y,BMCN Group 3
-xBMCN - Med B - Last Group,Null,4004657005,Null,Y,BMCN LAST
-xBMCN - Med B - PERM 1,Null,4004657005,Null,Y,BMCN PERM
-xBMCN - Med D - Group 1,Null,4004657021,Null,Y,BMCN Group 1
-xBMCN - Med D - Group 2,Null,4004657021,Null,Y,BMCN Group 2
-xBMCN - Med D - Group 3,Null,4004657021,Null,Y,BMCN Group 3
-xBMCN - Med D - Last Group,Null,4004657021,Null,Y,BMCN LAST
-xBMCN - Med D - PERM 1,Null,4004657021,Null,Y,BMCN PERM
-xBMCN - MICU - Group 1,Null,4004657006,Null,Y,BMCN Group 1
-xBMCN - MICU - Group 2,Null,4004657006,Null,Y,BMCN Group 2
-xBMCN - MICU - Group 3,Null,4004657006,Null,Y,BMCN Group 3
-xBMCN - MICU - Last Group,Null,4004657006,Null,Y,BMCN LAST
-xBMCN - MICU - PERM 1,Null,4004657006,Null,Y,BMCN PERM
-xBMCN - NCCU - Group 1,Null,4004957000,Null,Y,BMCN Group 1
-xBMCN - NCCU - Group 2,Null,4004957000,Null,Y,BMCN Group 2
-xBMCN - NCCU - Group 3,Null,4004957000,Null,Y,BMCN Group 3
-xBMCN - NCCU - PERM 1,Null,4004957000,Null,Y,BMCN PERM
-xBMCN - NICU - Group 1,Null,4005357000,Null,Y,BMCN Group 1
-xBMCN - NICU - Group 2,Null,4005357000,Null,Y,BMCN Group 2
-xBMCN - NICU - Group 3,Null,4005357000,Null,Y,BMCN Group 3
-xBMCN - NICU - Last Group,Null,4005357000,Null,Y,BMCN LAST
-xBMCN - NICU - PERM 1,Null,4005357000,Null,Y,BMCN PERM
-xBMCN - NNP - Group Perm,Null,4005350300,Null,Y,BMCN - Perm 1
-xBMCN - NSU - Group 1,Null,4004957001,Null,Y,BMCN Group 1
-xBMCN - NSU - Group 2,Null,4004957001,Null,Y,BMCN Group 2
-xBMCN - NSU - Group 3,Null,4004957001,Null,Y,BMCN Group 3
-xBMCN - NSU - PERM 1,Null,4004957001,Null,Y,BMCN PERM
-xBMCN - OBGYN - Group 1,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 1
-xBMCN - OBGYN - Group 2,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 2
-xBMCN - OBGYN - Group 3,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 3
-xBMCN - OBGYN - Last Group,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN LAST
-xBMCN - OBGYN - PERM 1,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN PERM
-xBMCN - OR - Group 1,Null,4007257201,Null,Y,BMCN Group 1
-xBMCN - OR - Group 2,Null,4007257201,Null,Y,BMCN Group 2
-xBMCN - OR - Group 3,Null,4007257201,Null,Y,BMCN Group 3
-xBMCN - OR - Last Group,Null,4007257201,Null,Y,BMCN LAST
-xBMCN - OR - PERM 1,Null,4007257201,Null,Y,BMCN PERM
-xBMCN - PACU - Group 1,Null,4003057200,Null,Y,BMCN Group 1
-xBMCN - PACU - Group 2,Null,4003057200,Null,Y,BMCN Group 2
-xBMCN - PACU - Group 3,Null,4003057200,Null,Y,BMCN Group 3
-xBMCN - PACU - Last Group,Null,4003057200,Null,Y,BMCN LAST
-xBMCN - PACU - PERM 1,Null,4003057200,Null,Y,BMCN PERM
-xBMCN - PCU - Group 1,Null,4004657007,Null,Y,BMCN Group 1
-xBMCN - PCU - Group 2,Null,4004657007,Null,Y,BMCN Group 2
-xBMCN - PCU - Group 3,Null,4004657007,Null,Y,BMCN Group 3
-xBMCN - PCU - PERM 1,Null,4004657007,Null,Y,BMCN PERM
-xBMCN - Peds - Group 1,Null,Null,Null,Y,BMCN Group 1
-xBMCN - Peds - Group 2,Null,Null,Null,Y,BMCN Group 2
-xBMCN - Peds - Group 3,Null,Null,Null,Y,BMCN Group 3
-xBMCN - Peds - Last Group,Null,Null,Null,Y,BMCN LAST
-xBMCN - PES - Group 1,Null,4004257604,Null,Y,BMCN Group 1
-xBMCN - SICU - Group 1,Null,4007257002,Null,Y,BMCN Group 1
-xBMCN - SICU - Group 3,Null,4007257002,Null,Y,BMCN Group 3
-xBMCN - SICU - PERM 1,Null,4007257002,Null,Y,BMCN PERM
-xBMCN - Staff Office - Group 1,Null,4001350300,Null,Y,BMCN Group 1
-xBMCN - Staff Office - PERM 1,Null,4001350300,Null,Y,BMCN PERM
-xBMCN - Wenz - Group 1,Null,4007257004,Null,Y,BMCN Group 1
-xBMCN - Wenz - Group 2,Null,4007257004,Null,Y,BMCN Group 2
-xBMCN - Wenz - PERM 1,Null,4007257004,Null,Y,BMCN PERM
-xBMCN Global Group 1,Null,Null,Null,Y, BMCN Group 1
-xBMCN Global Group 2,Null,Null,Null,Y, BMCN Group 2
-xBMCN Global Group 3,Null,Null,Null,Y, BMCN Group 3
-xBMCN Global LAST,Null,Null,Null,Y, BMCN LAST
-xBMCN Global PERM,Null,Null,Null,Y, BMCN PERM
-xHCGH - 1N Group A,Null,6407210000,Null,Y,HCGH Group A
-xHCGH - 1N Group B,Null,6407210000,Null,Y,HCGH Group B
-xHCGH - 1N Group C,Null,6407210000,Null,Y,HCGH Group C
-xHCGH - 1N Group PRN,Null,6407210000,Null,Y,HCGH Group PRN
-xHCGH - Social Work ALL,Null,6406122000,Null,Y,Null
-xHCGH 2P - Group A,Null,6407120000,Null,Y,HCGH Group A
-xHCGH 2P - Group B,Null,6407120000,Null,Y,HCGH Group B
-xHCGH 2P - Group C,Null,6407120000,Null,Y,HCGH Group C
-xHCGH 2P - Group PRN,Null,6407120000,Null,Y,HCGH Group PRN
-xHCGH 2S - Group A,Null,6407125000,Null,Y,HCGH Group A
-xHCGH 2S - Group B,Null,6407125000,Null,Y,HCGH Group B
-xHCGH 2S - Group C,Null,6407125000,Null,Y,HCGH Group C
-xHCGH 2S - Group PRN,Null,6407125000,Null,Y,HCGH Group PRN
-xHCGH 3P - Group A,Null,6407130000,Null,Y,HCGH Group A
-xHCGH 3P - Group B,Null,6407130000,Null,Y,HCGH Group B
-xHCGH 3P - Group C,Null,6407130000,Null,Y,HCGH Group C
-xHCGH 3P - Group PRN,Null,6407130000,Null,Y,HCGH Group PRN
-xHCGH 4P - Group A,Null,6407140000,Null,Y,HCGH Group A
-xHCGH 4P - Group B,Null,6407140000,Null,Y,HCGH Group B
-xHCGH 4P - Group C,Null,6407140000,Null,Y,HCGH Group C
-xHCGH 4P - Group PRN,Null,6407140000,Null,Y,HCGH Group PRN
-xHCGH 4S - Group A,Null,6407240000,Null,Y,HCGH Group A
-xHCGH 4S - Group B,Null,6407240000,Null,Y,HCGH Group B
-xHCGH 4S - Group C,Null,6407240000,Null,Y,HCGH Group C
-xHCGH 4S - Group PRN,Null,6407240000,Null,Y,HCGH Group PRN
-xHCGH APU OT - All Groups,Null,6408260000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C# HCGH Group PRN
-xHCGH Cafeteria - Group A,Null,6408920000,Null,Y,HCGH Group A
-xHCGH Cafeteria - Group B,Null,6408920000,Null,Y,HCGH Group B
-xHCGH Cafeteria - Group C,Null,6408920000,Null,Y,HCGH Group C
-xHCGH Cafeteria - Group PRN,Null,6408920000,Null,Y,HCGH Group PRN
-xHCGH Cardio Diag - All Groups,Null,6408240000,Null,Y,Null
-xHCGH Case Mgmt - All Groups,Null,6406120000,Null,Y,Null
-xHCGH Case Mgmt - Group A,Null,6406120000,Null,Y,HCGH Group A
-xHCGH Case Mgmt - Group B + C,Null,6406120000,Null,Y,Null
-xHCGH Case Mgmt - Group PRN,Null,6406120000,Null,Y,HCGH Group PRN
-xHCGH Clinic Peri - Group A,Null,6408835000,Null,Y,HCGH Group A
-xHCGH Clinic Peri - Group B,Null,6408835000,Null,Y,HCGH Group B
-xHCGH Clinic Peri - Group C,Null,6408835000,Null,Y,HCGH Group C
-xHCGH Clinic Peri - Group PRN,Null,6408835000,Null,Y,HCGH Group PRN
-xHCGH CMRC - All Groups,Null,6405800000,Null,Y,Null
-xHCGH ConstantObserver - Group A,Null,6407071000,Null,Y, HCGH Group A
-xHCGH CPO - Group A,Null,6407515000,Null,Y,HCGH Group A
-xHCGH CPO - Group B,Null,6407515000,Null,Y,HCGH Group B
-xHCGH CPO - Group C,Null,6407515000,Null,Y,HCGH Group C
-xHCGH Diagnostic - Group A,Null,6408410000,Null,Y,HCGH Group A
-xHCGH Diagnostic - Group B,Null,6408410000,Null,Y,HCGH Group B
-xHCGH Diagnostic - Group C,Null,6408410000,Null,Y,HCGH Group C
-xHCGH ECHO - All Groups,Null,6408235000,Null,Y,Null
-xHCGH ED - All Groups,Null,6407410000,Null,Y,Null
-xHCGH ED PEDS - Group A,Null,6407420000#6407424000,Null,Y,HCGH Group A
-xHCGH ED PEDS - Group B,Null,6407420000#6407424000,Null,Y,HCGH Group B# HCGH Group C
-xHCGH ED PEDS - Group PRN,Null,6407420000#6407424000,Null,Y,HCGH Group PRN
-xHCGH EVS - Group A,Null,6406920000,Null,Y,HCGH Group A
-xHCGH EVS - Group B,Null,6406920000,Null,Y,HCGH Group B
-xHCGH EVS - Group C,Null,6406920000,Null,Y,HCGH Group C
-xHCGH EVS - Group PRN,Null,6406920000,Null,Y,HCGH Group PRN
-xHCGH HIM - Group A,Null,6406510000,Null,Y,HCGH Group A
-xHCGH HIM - Group B,Null,6406510000,Null,Y,HCGH Group B
-xHCGH HIM - Group C,Null,6406510000,Null,Y,HCGH Group C
-xHCGH HIM - Group PRN,Null,6406510000,Null,Y,HCGH Group PRN
-xHCGH ICU - Group A,Null,6407235000,Null,Y,HCGH Group A
-xHCGH ICU - Group B,Null,6407235000,Null,Y,HCGH Group B
-xHCGH ICU - Group C,Null,6407235000,Null,Y,HCGH Group C
-xHCGH ICU - Group PCA,Null,6407235000,Null,Y,HCGH Group PCA
-xHCGH ICU - Group PRN,Null,6407235000,Null,Y,HCGH Group PRN
-xHCGH Imaging Administration,Null,6408400000,Null,Y,Null
-xHCGH IRCV - Group A,Null,6408475000,Null,Y,HCGH Group A
-xHCGH IRCV - Group B,Null,6408475000,Null,Y,HCGH Group B
-xHCGH IRCV - Group C,Null,6408475000,Null,Y,HCGH Group C
-xHCGH IRCV - Group D,Null,6408475000,Null,Y,HCGH Group D
-xHCGH IRCV - Group E,Null,6408475000,Null,Y,HCGH Group E
-xHCGH IRCV - Group PRN,Null,6408475000,Null,Y,HCGH Group PRN
-xHCGH Lactation - All Groups,Null,6407350000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
-xHCGH Lactation - Group PRN,Null,6407350000,Null,Y,HCGH Group PRN
-xHCGH LD - Group A,Null,6407360000,Null,Y,HCGH Group A
-xHCGH LD - Group B,Null,6407360000,Null,Y,HCGH Group B
-xHCGH LD - Group C,Null,6407360000,Null,Y,HCGH Group C
-xHCGH LD - Group PRN,Null,6407360000,Null,Y,HCGH Group PRN
-xHCGH MAMMO - All Groups,Null,6408460000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
-xHCGH MAMMO - Group PRN,Null,6408460000,Null,Y,HCGH Group PRN
-xHCGH MCU - All Groups,Null,6407320000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
-xHCGH MCU - Group PRN,Null,6407320000,Null,Y,HCGH Group PRN
-xHCGH MRI - All Groups,Null,6408450000,Null,Y,Null
-xHCGH MRI - Group PRN,Null,6408450000,Null,Y,HCGH Group PRN
-xHCGH NICU - All Groups,Null,6407340000,Null,Y,Null
-xHCGH NICU - Group A,Null,6407340000,Null,Y,HCGH Group A
-xHCGH NICU - Group B,Null,6407340000,Null,Y,HCGH Group B
-xHCGH NICU - Group C,Null,6407340000,Null,Y,HCGH Group C
-xHCGH NICU - Group PRN,Null,6407340000,Null,Y,HCGH Group PRN
-xHCGH Nuc Med - All Groups,Null,6408430000,Null,Y,Null
-xHCGH OBS - Group A,Null,6407440000,Null,Y,HCGH Group A
-xHCGH OBS - Group B,Null,6407440000,Null,Y,HCGH Group B
-xHCGH OBS - Group C,Null,6407440000,Null,Y,HCGH Group C
-xHCGH OR - Group A,Null,6407520000,Null,Y,HCGH Group A
-xHCGH OR - Group B,Null,6407520000,Null,Y,HCGH Group B
-xHCGH OR - Group C,Null,6407520000,Null,Y,HCGH Group C
-xHCGH PACU - Group A,Null,6407550000,Null,Y,HCGH Group A
-xHCGH PACU - Group B,Null,6407550000,Null,Y,HCGH Group B# HCGH Group C
-xHCGH PACU - Group C,Null,6407550000,Null,Y,HCGH Group C
-xHCGH PACU - Group D,Null,6407550000,Null,Y,HCGH Group D
-xHCGH PACU - Group PRN,Null,6407550000,Null,Y,HCGH Group PRN
-xHCGH Pastoral - All Groups,Null,6406141000,Null,Y,Null
-xHCGH PEDS - Group A,Null,6407310000,Null,Y,HCGH Group A
-xHCGH PEDS - Group B,Null,6407310000,Null,Y, HCGH Group B# HCGH Group C
-xHCGH PEDS - Group PRN,Null,6407310000,Null,Y,HCGH Group PRN
-xHCGH Pharmacy - Group A,Null,6408710000,Null,Y,HCGH Group A
-xHCGH Pharmacy - Group B,Null,6408710000,Null,Y,HCGH Group B
-xHCGH Pharmacy - Group C,Null,6408710000,Null,Y,HCGH Group C
-xHCGH Pharmacy - Group PRN,Null,6408710000,Null,Y,HCGH Group PRN
-xHCGH RN Floats - All Groups,Null,6407040000,Null,Y,Null
-xHCGH RT - All Groups,Null,6408210000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C# HCGH Group D# HCGH Group E
-xHCGH RT - Group PRN,Null,6408210000,Null,Y,HCGH Group PRN
-xHCGH SCU - Group A,Null,6407230000,Null,Y,HCGH Group A
-xHCGH SCU - Group B,Null,6407230000,Null,Y,HCGH Group B
-xHCGH SCU - Group C,Null,6407230000,Null,Y,HCGH Group C
-xHCGH SCU - Group PCA,Null,6407230000,Null,Y,HCGH Group PCA
-xHCGH SCU - Group PRN,Null,6407230000,Null,Y,HCGH Group PRN
-xHCGH TCAS Doc Central - All,Null,4617515000,Null,Y,Null
-xHCGH TCAS PACU - Group A,Null,4617555000,Null,Y,HCGH Group A
-xHCGH TCAS PACU - Group B,Null,4617555000,Null,Y,HCGH Group B
-xHCGH TCAS PACU - Group C,Null,4617555000,Null,Y,HCGH Group C
-xHCGH TCAS PACU - Group PRN,Null,4617555000,Null,Y,HCGH Group PRN
-xHCGH Transport Group A B C,Null,6408340000,Null,Y,Null
-xHCGH Transport Group PRN,Null,6408340000,Null,Y,HCGH Group PRN
-xHCGH Ultra - Group A,Null,6408490000,Null,Y,HCGH Group A
-xHCGH Ultra - Group B,Null,6408490000,Null,Y,HCGH Group B
-xHCGH Ultra - Group C,Null,6408490000,Null,Y,HCGH Group C
-xHCGH Ultra - Group PRN,Null,6408490000,Null,Y,HCGH Group PRN
-xHCGH Ultra Peri - Group A,Null,6408493000,Null,Y,HCGH Group A
-xHCGH Ultra Peri - Group B,Null,6408493000,Null,Y,HCGH Group B
-xHCGH Ultra Peri - Group C,Null,6408493000,Null,Y,HCGH Group C
-xHCGH Ultra Peri - Group PRN,Null,6408493000,Null,Y,HCGH Group PRN
-xHCGH Vascular - Group A,Null,6408495000,Null,Y,HCGH Group A
-xHCGH Vascular - Group B,Null,6408495000,Null,Y,HCGH Group B
-xHCGH Vascular - Group C,Null,6408495000,Null,Y,HCGH Group C
-xHCGH Vascular - Group PRN,Null,6408495000,Null,Y,HCGH Group PRN
-xSH Acute Med - Group A,Null,6001116021,Null,Y,SH Group A
-xSH Acute Med - Group B,Null,6001116021,Null,Y,SH Group B
-xSH Acute Med - Group C,Null,6001116021,Null,Y,SH Group C
-xSH Adult Medical - Group A,Null,6001116020,Null,Y,SH Group A
-xSH Adult Medical - Group B,Null,6001116020,Null,Y,SH Group B
-xSH Adult Medical - Group C,Null,6001116020,Null,Y,SH Group C
-xSH Adult Surgical - Group A,Null,6001116015,Null,Y,SH Group A
-xSH Adult Surgical - Group B,Null,6001116015,Null,Y,SH Group B
-xSH Adult Surgical - Group C,Null,6001116015,Null,Y,SH Group C
-xSH ATC Montrose - Group A,Null,6001608675,Null,Y,SH Group A
-xSH ATC Montrose - Group B,Null,6001608675,Null,Y,SH Group B
-xSH ATC Montrose - Group C,Null,6001608675,Null,Y,SH Group C
-xSH Behav Health - Group A,Null,6001156343,Null,Y,SH Group A
-xSH Behav Health - Group B,Null,6001156343,Null,Y,SH Group B
-xSH Behav Health - Group C,Null,6001156343,Null,Y,SH Group C
-xSH Cardiac Rehab - Group A,Null,6002407414,Null,Y,SH Group A
-xSH Cardiac Rehab - Group B,Null,6002407414,Null,Y,SH Group B
-xSH Cardiac Rehab - Group C,Null,6002407414,Null,Y,SH Group C
-xSH Care Coord - Group A,Null,6001508350,Null,Y,SH Group A
-xSH Care Coord - Group B,Null,6001508350,Null,Y,SH Group B
-xSH Care Coord - Group C,Null,6001508350,Null,Y,SH Group C
-xSH Cath Lab - Group A,Null,6002407456,Null,Y,SH Group A
-xSH Cath Lab - Group B,Null,6002407456,Null,Y,SH Group B
-xSH Cath Lab - Group C,Null,6002407456,Null,Y,SH Group C
-xSH CDU - Group A,Null,6001206377,Null,Y,SH Group A
-xSH CDU - Group B,Null,6001206377,Null,Y,SH Group B
-xSH CDU - Group C,Null,6001206377,Null,Y,SH Group C
-xSH Clinic Supp Svc - Group A,Null,6002508752,Null,Y,SH Group A
-xSH Clinic Supp Svc - Group B,Null,6002508752,Null,Y,SH Group B
-xSH Clinic Supp Svc - Group C,Null,6002508752,Null,Y,SH Group C
-xSH Clinical Docum - Group A,Null,6005408712,Null,Y,SH Group A
-xSH Clinical Docum - Group B,Null,6005408712,Null,Y,SH Group B
-xSH Clinical Docum - Group C,Null,6005408712,Null,Y,SH Group C
-xSH Crisis Intervent - Group A,Null,6001606346,Null,Y,SH Group A
-xSH Crisis Intervent - Group B,Null,6001606346,Null,Y,SH Group B
-xSH Crisis Intervent - Group C,Null,6001606346,Null,Y,SH Group C
-xSH CT Scan - Group A,Null,6002207422,Null,Y,SH Group A
-xSH CT Scan - Group B,Null,6002207422,Null,Y,SH Group B
-xSH CT Scan - Group C,Null,6002207422,Null,Y,SH Group C
-xSH CV Short Stay - Group A,Null,6002407450,Null,Y,SH Group A
-xSH CV Short Stay - Group B,Null,6002407450,Null,Y,SH Group B
-xSH CV Short Stay - Group C,Null,6002407450,Null,Y,SH Group C
-xSH CVOR - Group A,Null,6001316363,Null,Y,SH Group A
-xSH CVOR - Group B,Null,6001316363,Null,Y,SH Group B
-xSH CVOR - Group C,Null,6001316363,Null,Y,SH Group C
-xSH Day Treatment - Group A,Null,6001606345,Null,Y,SH Group A
-xSH Day Treatment - Group B,Null,6001606345,Null,Y,SH Group B
-xSH Day Treatment - Group C,Null,6001606345,Null,Y,SH Group C
-xSH Div-Perioperat - Group A,Null,6001338100,Null,Y,SH Group A
-xSH Div-Perioperat - Group B,Null,6001338100,Null,Y,SH Group B
-xSH Div-Perioperat - Group C,Null,6001338100,Null,Y,SH Group C
-xSH ED and Peds - Group C,Null,Null,Null,Y, SH Group C
-xSH ED Trauma - Group A,Null,Null,Null,Y, SH Group A
-xSH Ed Trauma - Group B,Null,Null,Null,Y, SH Group B
-xSH ED Trauma - Group C,Null,Null,Null,Y, SH Group C
-xSH EEG - Group A,Null,6002407416,Null,Y,SH Group A
-xSH EEG - Group B,Null,6002407416,Null,Y,SH Group B
-xSH EEG - Group C,Null,6002407416,Null,Y,SH Group C
-xSH EKG - Group A,Null,6002407415,Null,Y,SH Group A
-xSH EKG - Group B,Null,6002407415,Null,Y,SH Group B
-xSH EKG - Group C,Null,6002407415,Null,Y,SH Group C
-xSH Floats-Home - Group A,Null,6001406022,Null,Y,SH Group A
-xSH Floats-Home - Group B,Null,6001406022,Null,Y,SH Group B
-xSH Floats-Home - Group C,Null,6001406022,Null,Y,SH Group C
-xSH Housekeeping - Group A,Null,6004008450,Null,Y,SH Group A
-xSH Housekeeping - Group B,Null,6004008450,Null,Y,SH Group B
-xSH Housekeeping - Group C,Null,6004008450,Null,Y,SH Group C
-xSH ICU - Group A,Null,6001126340,Null,Y,SH Group A
-xSH ICU - Group B,Null,6001126340,Null,Y,SH Group B
-xSH ICU - Group C,Null,6001126340,Null,Y,SH Group C
-xSH ICU - Group D,Null,6001126340,Null,Y,SH Group D
-xSH ICU - Group E,Null,6001126340,Null,Y,SH Group E
-xSH Intervent Angio - Group A,Null,6002207426,Null,Y,SH Group A
-xSH Intervent Angio - Group B,Null,6002207426,Null,Y,SH Group B
-xSH Intervent Angio - Group C,Null,6002207426,Null,Y,SH Group C
-xSH MRI - Group A,Null,6002207428,Null,Y,SH Group A
-xSH MRI - Group B,Null,6002207428,Null,Y,SH Group B
-xSH MRI - Group C,Null,6002207428,Null,Y,SH Group C
-xSH MRI/NIH - Group A,Null,6003107449,Null,Y,SH Group A
-xSH MRI/NIH - Group B,Null,6003107449,Null,Y,SH Group B
-xSH MRI/NIH - Group C,Null,6003107449,Null,Y,SH Group C
-xSH NIH OH Research - Group A,Null,6003107457,Null,Y,SH Group A
-xSH NIH OH Research - Group B,Null,6003107457,Null,Y,SH Group B
-xSH NIH OH Research - Group C,Null,6003107457,Null,Y,SH Group C
-xSH NIH Stroke - Group A,Null,6003107477,Null,Y,SH Group A
-xSH NIH Stroke - Group B,Null,6003107477,Null,Y,SH Group B
-xSH NIH Stroke - Group C,Null,6003107477,Null,Y,SH Group C
-xSH Nuclear Med - Group A,Null,6002207424,Null,Y,SH Group A
-xSH Nuclear Med - Group B,Null,6002207424,Null,Y,SH Group B
-xSH Nuclear Med - Group C,Null,6002207424,Null,Y,SH Group C
-xSH Nursing Admin - Group A,Null,6001408750,Null,Y,SH Group A
-xSH Nursing Admin - Group B,Null,6001408750,Null,Y,SH Group B
-xSH Nursing Admin - Group C,Null,6001408750,Null,Y,SH Group C
-xSH Nursing Educat - Group A,Null,6001408751,Null,Y,SH Group A
-xSH Nursing Educat - Group B,Null,6001408751,Null,Y,SH Group B
-xSH Nursing Educat - Group C,Null,6001408751,Null,Y,SH Group C
-xSH Occ Therapy - Group A,Null,6002307438,Null,Y,SH Group A
-xSH Occ Therapy - Group B,Null,6002307438,Null,Y,SH Group B
-xSH Occ Therapy - Group C,Null,6002307438,Null,Y,SH Group C
-xSH Oncology  - Group A,Null,6001116018,Null,Y,SH Group A
-xSH Oncology  - Group B,Null,6001116018,Null,Y,SH Group B
-xSH Oncology  - Group C,Null,6001116018,Null,Y,SH Group C
-xSH Oncology  - Group D,Null,6001116018,Null,Y,SH Group D
-xSH OR Admin - Group A,Null,6001316360,Null,Y,SH Group A
-xSH OR Admin - Group B,Null,6001316360,Null,Y,SH Group B
-xSH OR Admin - Group C,Null,6001316360,Null,Y,SH Group C
-xSH OR Minor - Group A,Null,6001326362,Null,Y,SH Group A
-xSH OR Minor - Group B,Null,6001326362,Null,Y,SH Group B
-xSH OR Minor - Group C,Null,6001326362,Null,Y,SH Group C
-xSH Ortho Services - Group A,Null,6002307439,Null,Y,SH Group A
-xSH Ortho Services - Group B,Null,6002307439,Null,Y,SH Group B
-xSH Ortho Services - Group C,Null,6002307439,Null,Y,SH Group C
-xSH Ortho Svc Line- Group A,Null,6002506349,Null,Y,SH Group A
-xSH Ortho Svc Line- Group B,Null,6002506349,Null,Y,SH Group B
-xSH Ortho Svc Line- Group C,Null,6002506349,Null,Y,SH Group C
-xSH Ortho-Neuro - Group A,Null,6001116016,Null,Y,SH Group A
-xSH Ortho-Neuro - Group B,Null,6001116016,Null,Y,SH Group B
-xSH Ortho-Neuro - Group C,Null,6001116016,Null,Y,SH Group C
-xSH PACU - Group A,Null,6001336365,Null,Y,SH Group A
-xSH PACU - Group B,Null,6001336365,Null,Y,SH Group B
-xSH PACU - Group C,Null,6001336365,Null,Y,SH Group C
-xSH Patient Access - Group A,Null,6005108525,Null,Y,SH Group A
-xSH Patient Access - Group B,Null,6005108525,Null,Y,SH Group B
-xSH Patient Access - Group C,Null,6005108525,Null,Y,SH Group C
-xSH PCU - Group A,Null,6001146280,Null,Y,SH Group A
-xSH PCU - Group B,Null,6001146280,Null,Y,SH Group B
-xSH PCU - Group C,Null,6001146280,Null,Y,SH Group C
-xSH Pediatrics  - Group A,Null,6001136381,Null,Y,SH Group A
-xSH Pediatrics  - Group B,Null,6001136381,Null,Y,SH Group B
-xSH Pediatrics  - Group C,Null,6001136381,Null,Y,SH Group C
-xSH Pharmacy - Group A,Null,6002508470,Null,Y,SH Group A
-xSH Pharmacy - Group B,Null,6002508470,Null,Y,SH Group B
-xSH Pharmacy - Group C,Null,6002508470,Null,Y,SH Group C
-xSH Physical Medicin - Group A,Null,6002508101,Null,Y,SH Group A
-xSH Physical Medicin - Group B,Null,6002508101,Null,Y,SH Group B
-xSH Physical Medicin - Group C,Null,6002508101,Null,Y,SH Group C
-xSH Physical Therapy - Group A,Null,6002307437,Null,Y,SH Group A
-xSH Physical Therapy - Group B,Null,6002307437,Null,Y,SH Group B
-xSH Physical Therapy - Group C,Null,6002307437,Null,Y,SH Group C
-xSH Presurgical Tst - Group A,Null,6001336361,Null,Y,SH Group A
-xSH Presurgical Tst - Group B,Null,6001336361,Null,Y,SH Group B
-xSH Presurgical Tst - Group C,Null,6001336361,Null,Y,SH Group C
-xSH Radiology - Group A,Null,6002207421,Null,Y,SH Group A
-xSH Radiology - Group B,Null,6002207421,Null,Y,SH Group B
-xSH Radiology - Group C,Null,6002207421,Null,Y,SH Group C
-xSH Radiology Admin - Group A,Null,6002207420,Null,Y,SH Group A
-xSH Radiology Admin - Group B,Null,6002207420,Null,Y,SH Group B
-xSH Radiology Admin - Group C,Null,6002207420,Null,Y,SH Group C
-xSH Rapid Response  - Group A,Null,6001606347,Null,Y,SH Group A
-xSH Rapid Response  - Group B,Null,6001606347,Null,Y,SH Group B
-xSH Rapid Response  - Group C,Null,6001606347,Null,Y,SH Group C
-xSH Respiratory Ther - Group A,Null,6001607436,Null,Y,SH Group A
-xSH Respiratory Ther - Group B,Null,6001607436,Null,Y,SH Group B
-xSH Respiratory Ther - Group C,Null,6001607436,Null,Y,SH Group C
-xSH RN First Assist - Group A,Null,6001338718,Null,Y,SH Group A
-xSH RN First Assist - Group B,Null,6001338718,Null,Y,SH Group B
-xSH RN First Assist - Group C,Null,6001338718,Null,Y,SH Group C
-xSH Security - Group A,Null,6004008541,Null,Y,SH Group A
-xSH Security - Group B,Null,6004008541,Null,Y,SH Group B
-xSH Security - Group C,Null,6004008541,Null,Y,SH Group C
-xSH Speech Therapy - Group A,Null,6002307442,Null,Y,SH Group A
-xSH Speech Therapy - Group B,Null,6002307442,Null,Y,SH Group B
-xSH Speech Therapy - Group C,Null,6002307442,Null,Y,SH Group C
-xSH Sterile Process - Group A,Null,6001338465,Null,Y,SH Group A
-xSH Sterile Process - Group B,Null,6001338465,Null,Y,SH Group B
-xSH Sterile Process - Group C,Null,6001338465,Null,Y,SH Group C
-xSH Transportation - Group A,Null,6004008543,Null,Y,SH Group A
-xSH Transportation - Group B,Null,6004008543,Null,Y,SH Group B
-xSH Transportation - Group C,Null,6004008543,Null,Y,SH Group C
-xSH Ultrasound - Group A,Null,6002207430,Null,Y,SH Group A
-xSH Ultrasound - Group B,Null,6002207430,Null,Y,SH Group B
-xSH Ultrasound - Group C,Null,6002207430,Null,Y,SH Group C
+xBCC  urton Vent-Group 1,Null,Null,Null,Y, BMCN Group 1
+xBCC  urton Vent-Group 2,Null,Null,Null,Y, BMCN Group 2
+xBCC  urton Vent-Group 3,Null,Null,Null,Y, BMCN Group 3
+xBCC  urton Vent-Last Group,Null,Null,Null,Y, BMCN LAST
+xBCC  urton Vent-PERM 1,Null,Null,Null,Y, BMCN PERM
+xBCC  loat-PERM 1,Null,Null,Null,Y,Null
+xBCC  BU-Group 1,Null,Null,Null,Y,BMCN Group 1
+xBCC  BU-Group 2,Null,Null,Null,Y,BMCN Group 2
+xBCC  BU-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBCC  BU-LAST,Null,Null,Null,Y,BMCN LAST
+xBCC  BU-PERM,Null,Null,Null,Y,BMCN PERM
+xBCC  laza-Group1,Null,4104657000,Null,Y,BMCN Group 1
+xBCC  laza-PERM 1,Null,4104657000,Null,Y,BMCN PERM
+xBCC  ehab Unit SHP-Group 1,Null,Null,Null,Y,BMCN Group 1
+xBCC  ehab Unit SHP-Group 2,Null,Null,Null,Y,BMCN Group 2
+xBCC  ehab Unit SHP-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBCC  ehab Unit SHP-LAST,Null,Null,Null,Y,BMCN LAST
+xBCC  ehab Unit SHP-PERM,Null,Null,Null,Y,BMCN PERM
+xBCC  T-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBCC  T-Last Group,Null,4003157402,Null,Y,BMCN LAST
+xBCC  T-PERM 1,Null,4003157402,Null,Y,BMCN PERM
+xBCC  T-Sign Up Group A,Null,Null,Null,Y,Sign up Group A
+xBCC  T-Sign up Group B,Null,Null,Null,Y,Sign up Group B
+xBCC  T-Sign Up Group C,Null,Null,Null,Y, Bayview PRN
+xBCC  HP-PERM 1,Null,Null,Null,Y,BMCN PERM
+xBCC  errace-PERM 1,Null,Null,Null,Y,BMCN PERM
+xBCC  ound Team-Group 1,Null,Null,Null,Y,BMCN Group 1
+xBCC  ound Team-Group 2,Null,Null,Null,Y,BMCN Group 2
+xBCC  ound Team-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBCC  ound Team-LAST,Null,Null,Null,Y,BMCN LAST
+xBCC  ound Team-PERM 1,Null,Null,Null,Y,BMCN PERM
+xBMCN-6 Surg-Group 1,Null,4007257003,Null,Y,BMCN Group 1
+xBMCN-6 Surg-Group 2,Null,4007257003,Null,Y,BMCN Group 2
+xBMCN-6 Surg-Group 3,Null,4007257003,Null,Y,BMCN Group 3
+xBMCN-6 Surg-Last Group,Null,4007257003,Null,Y,BMCN LAST
+xBMCN-6 Surg-PERM 1,Null,4007257003,Null,Y,BMCN PERM
+xBMCN-APU-Group 1,Null,4005757000,Null,Y,BMCN Group 1
+xBMCN-APU-Group 2,Null,4005757000,Null,Y,BMCN Group 2
+xBMCN-APU-Group 3,Null,4005757000,Null,Y,BMCN Group 3
+xBMCN-APU-PERM 1,Null,4005757000,Null,Y,BMCN PERM
+xBMCN-ASU-Group 1,Null,4007257200,Null,Y,BMCN Group 1
+xBMCN-ASU-Group 2,Null,4007257200,Null,Y,BMCN Group 2
+xBMCN-ASU-Group 3,Null,4007257200,Null,Y,BMCN Group 3
+xBMCN-ASU-Last Group,Null,4007257200,Null,Y,BMCN LAST
+xBMCN-ASU-PERM 1,Null,4007257200,Null,Y,BMCN PERM
+xBMCN-BICU-Group 1,Null,4007157000,Null,Y,BMCN Group 1
+xBMCN-BICU-Group 2,Null,4007157000,Null,Y,BMCN Group 2
+xBMCN-BICU-Group 3,Null,4007157000,Null,Y,BMCN Group 3
+xBMCN-BICU-PERM 1,Null,4007157000,Null,Y,BMCN PERM
+xBMCN-Burton 4-Group 1,Null,4004657018,Null,Y,BMCN Group 1
+xBMCN-Burton 4-Group 2,Null,4004657018,Null,Y,BMCN Group 2
+xBMCN-Burton 4-Group 3,Null,4004657018,Null,Y,BMCN Group 3
+xBMCN-Burton 4-Last Group,Null,4004657018,Null,Y,BMCN LAST
+xBMCN-Burton 4-PERM,Null,4004657018,Null,Y,BMCN PERM
+xBMCN-BWU-Group 1,Null,4007157001,Null,Y,BMCN Group 1
+xBMCN-BWU-Group 2,Null,4007157001,Null,Y,BMCN Group 2
+xBMCN-BWU-Group 3,Null,4007157001,Null,Y,BMCN Group 3
+xBMCN-BWU-PERM 1,Null,4007157001,Null,Y,BMCN PERM
+xBMCN-CBMU-Group 1,Null,4004657010,Null,Y,BMCN Group 1
+xBMCN-CBMU-Group 2,Null,4004657010,Null,Y,BMCN Group 2
+xBMCN-CBMU-Group 3,Null,4004657010,Null,Y,BMCN Group 3
+xBMCN-CBMU-PERM 1,Null,4004657010,Null,Y,BMCN PERM
+xBMCN-CDU-Group 1,Null,4004657001,Null,Y,BMCN Group 1
+xBMCN-CDU-Group 2,Null,4004657001,Null,Y,BMCN Group 2
+xBMCN-CDU-PERM 1,Null,4004657001,Null,Y,BMCN PERM
+xBMCN-CDU INTAKE-PERM 1,Null,4004657000,Null,Y,BMCN PERM
+xBMCN-CDU OP DETOX-PERM 1,Null,4004657407,Null,Y,BMCN PERM
+xBMCN-Cent Sterile-PERM 1,Null,4000450400,Null,Y,BMCN PERM
+xBMCN-CICU-Group 1,Null,4004657002,Null,Y,BMCN Group 1
+xBMCN-CICU-Group 2,Null,4004657002,Null,Y,BMCN Group 2
+xBMCN-CICU-Group 3,Null,4004657002,Null,Y,BMCN Group 3
+xBMCN-CICU-Last Group,Null,4004657002,Null,Y,BMCN LAST
+xBMCN-CICU-PERM 1,Null,4004657002,Null,Y,BMCN PERM
+xBMCN-ED-Group 1,Null,Null,Null,Y,BMCN Group 1
+xBMCN-ED-Group 2,Null,Null,Null,Y,BMCN Group 2
+xBMCN-ED-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBMCN-ED-Last Group,Null,Null,Null,Y,BMCN LAST
+xBMCN-ED-PERM 1,Null,Null,Null,Y,BMCN PERM
+xBMCN-Escort-Group 1,Null,4000550306,Null,Y,BMCN Group 1
+xBMCN-Escort-PERM 1,Null,4000550306,Null,Y,BMCN PERM
+xBMCN-Float-Group 1,Null,4001350400#4500150306,Null,Y,BMCN Group 1
+xBMCN-Float-Group 2,Null,4001350400#4500150306,Null,Y,BMCN Group 2
+xBMCN-Float-Group 3,Null,4001350400#4500150306,Null,Y,BMCN Group 3
+xBMCN-Float-Last Group,Null,4001350400#4500150306,Null,Y,BMCN LAST
+xBMCN-Float-PERM 1,Null,4001350400#4500150306,Null,Y,BMCN PERM
+xBMCN-Med A-Group 1,Null,4004657004,Null,Y,BMCN Group 1
+xBMCN-Med A-Group 2,Null,4004657004,Null,Y,BMCN Group 2
+xBMCN-Med A-Group 3,Null,4004657004,Null,Y,BMCN Group 3
+xBMCN-Med A-Last Group,Null,4004657004,Null,Y,BMCN LAST
+xBMCN-Med A-PERM 1,Null,4004657004,Null,Y,BMCN PERM
+xBMCN-Med B-Group 1,Null,4004657005,Null,Y,BMCN Group 1
+xBMCN-Med B-Group 2,Null,4004657005,Null,Y,BMCN Group 2
+xBMCN-Med B-Group 3,Null,4004657005,Null,Y,BMCN Group 3
+xBMCN-Med B-Last Group,Null,4004657005,Null,Y,BMCN LAST
+xBMCN-Med B-PERM 1,Null,4004657005,Null,Y,BMCN PERM
+xBMCN-Med D-Group 1,Null,4004657021,Null,Y,BMCN Group 1
+xBMCN-Med D-Group 2,Null,4004657021,Null,Y,BMCN Group 2
+xBMCN-Med D-Group 3,Null,4004657021,Null,Y,BMCN Group 3
+xBMCN-Med D-Last Group,Null,4004657021,Null,Y,BMCN LAST
+xBMCN-Med D-PERM 1,Null,4004657021,Null,Y,BMCN PERM
+xBMCN-MICU-Group 1,Null,4004657006,Null,Y,BMCN Group 1
+xBMCN-MICU-Group 2,Null,4004657006,Null,Y,BMCN Group 2
+xBMCN-MICU-Group 3,Null,4004657006,Null,Y,BMCN Group 3
+xBMCN-MICU-Last Group,Null,4004657006,Null,Y,BMCN LAST
+xBMCN-MICU-PERM 1,Null,4004657006,Null,Y,BMCN PERM
+xBMCN-NCCU-Group 1,Null,4004957000,Null,Y,BMCN Group 1
+xBMCN-NCCU-Group 2,Null,4004957000,Null,Y,BMCN Group 2
+xBMCN-NCCU-Group 3,Null,4004957000,Null,Y,BMCN Group 3
+xBMCN-NCCU-PERM 1,Null,4004957000,Null,Y,BMCN PERM
+xBMCN-NICU-Group 1,Null,4005357000,Null,Y,BMCN Group 1
+xBMCN-NICU-Group 2,Null,4005357000,Null,Y,BMCN Group 2
+xBMCN-NICU-Group 3,Null,4005357000,Null,Y,BMCN Group 3
+xBMCN-NICU-Last Group,Null,4005357000,Null,Y,BMCN LAST
+xBMCN-NICU-PERM 1,Null,4005357000,Null,Y,BMCN PERM
+xBMCN-NNP-Group Perm,Null,4005350300,Null,Y,BMCN-Perm 1
+xBMCN-NSU-Group 1,Null,4004957001,Null,Y,BMCN Group 1
+xBMCN-NSU-Group 2,Null,4004957001,Null,Y,BMCN Group 2
+xBMCN-NSU-Group 3,Null,4004957001,Null,Y,BMCN Group 3
+xBMCN-NSU-PERM 1,Null,4004957001,Null,Y,BMCN PERM
+xBMCN-OBGYN-Group 1,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 1
+xBMCN-OBGYN-Group 2,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 2
+xBMCN-OBGYN-Group 3,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN Group 3
+xBMCN-OBGYN-Last Group,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN LAST
+xBMCN-OBGYN-PERM 1,Null,4006257000#4006257001#4006257002#4006257003,Null,Y,BMCN PERM
+xBMCN-OR-Group 1,Null,4007257201,Null,Y,BMCN Group 1
+xBMCN-OR-Group 2,Null,4007257201,Null,Y,BMCN Group 2
+xBMCN-OR-Group 3,Null,4007257201,Null,Y,BMCN Group 3
+xBMCN-OR-Last Group,Null,4007257201,Null,Y,BMCN LAST
+xBMCN-OR-PERM 1,Null,4007257201,Null,Y,BMCN PERM
+xBMCN-PACU-Group 1,Null,4003057200,Null,Y,BMCN Group 1
+xBMCN-PACU-Group 2,Null,4003057200,Null,Y,BMCN Group 2
+xBMCN-PACU-Group 3,Null,4003057200,Null,Y,BMCN Group 3
+xBMCN-PACU-Last Group,Null,4003057200,Null,Y,BMCN LAST
+xBMCN-PACU-PERM 1,Null,4003057200,Null,Y,BMCN PERM
+xBMCN-PCU-Group 1,Null,4004657007,Null,Y,BMCN Group 1
+xBMCN-PCU-Group 2,Null,4004657007,Null,Y,BMCN Group 2
+xBMCN-PCU-Group 3,Null,4004657007,Null,Y,BMCN Group 3
+xBMCN-PCU-PERM 1,Null,4004657007,Null,Y,BMCN PERM
+xBMCN-Peds-Group 1,Null,Null,Null,Y,BMCN Group 1
+xBMCN-Peds-Group 2,Null,Null,Null,Y,BMCN Group 2
+xBMCN-Peds-Group 3,Null,Null,Null,Y,BMCN Group 3
+xBMCN-Peds-Last Group,Null,Null,Null,Y,BMCN LAST
+xBMCN-PES-Group 1,Null,4004257604,Null,Y,BMCN Group 1
+xBMCN-SICU-Group 1,Null,4007257002,Null,Y,BMCN Group 1
+xBMCN-SICU-Group 3,Null,4007257002,Null,Y,BMCN Group 3
+xBMCN-SICU-PERM 1,Null,4007257002,Null,Y,BMCN PERM
+xBMCN-Staff Office-Group 1,Null,4001350300,Null,Y,BMCN Group 1
+xBMCN-Staff Office-PERM 1,Null,4001350300,Null,Y,BMCN PERM
+xBMCN-Wenz-Group 1,Null,4007257004,Null,Y,BMCN Group 1
+xBMCN-Wenz-Group 2,Null,4007257004,Null,Y,BMCN Group 2
+xBMCN-Wenz-PERM 1,Null,4007257004,Null,Y,BMCN PERM
+xBMCN-Global Group 1,Null,Null,Null,Y, BMCN Group 1
+xBMCN-Global Group 2,Null,Null,Null,Y, BMCN Group 2
+xBMCN-Global Group 3,Null,Null,Null,Y, BMCN Group 3
+xBMCN-Global LAST,Null,Null,Null,Y, BMCN LAST
+xBMCN-Global PERM,Null,Null,Null,Y, BMCN PERM
+xHCGH-1N Group A,Null,6407210000,Null,Y,HCGH Group A
+xHCGH-1N Group B,Null,6407210000,Null,Y,HCGH Group B
+xHCGH-1N Group C,Null,6407210000,Null,Y,HCGH Group C
+xHCGH-1N Group PRN,Null,6407210000,Null,Y,HCGH Group PRN
+xHCGH-Social Work ALL,Null,6406122000,Null,Y,Null
+xHCGH-2P-Group A,Null,6407120000,Null,Y,HCGH Group A
+xHCGH-2P-Group B,Null,6407120000,Null,Y,HCGH Group B
+xHCGH-2P-Group C,Null,6407120000,Null,Y,HCGH Group C
+xHCGH-2P-Group PRN,Null,6407120000,Null,Y,HCGH Group PRN
+xHCGH-2S-Group A,Null,6407125000,Null,Y,HCGH Group A
+xHCGH-2S-Group B,Null,6407125000,Null,Y,HCGH Group B
+xHCGH-2S-Group C,Null,6407125000,Null,Y,HCGH Group C
+xHCGH-2S-Group PRN,Null,6407125000,Null,Y,HCGH Group PRN
+xHCGH-3P-Group A,Null,6407130000,Null,Y,HCGH Group A
+xHCGH-3P-Group B,Null,6407130000,Null,Y,HCGH Group B
+xHCGH-3P-Group C,Null,6407130000,Null,Y,HCGH Group C
+xHCGH-3P-Group PRN,Null,6407130000,Null,Y,HCGH Group PRN
+xHCGH-4P-Group A,Null,6407140000,Null,Y,HCGH Group A
+xHCGH-4P-Group B,Null,6407140000,Null,Y,HCGH Group B
+xHCGH-4P-Group C,Null,6407140000,Null,Y,HCGH Group C
+xHCGH-4P-Group PRN,Null,6407140000,Null,Y,HCGH Group PRN
+xHCGH-4S-Group A,Null,6407240000,Null,Y,HCGH Group A
+xHCGH-4S-Group B,Null,6407240000,Null,Y,HCGH Group B
+xHCGH-4S-Group C,Null,6407240000,Null,Y,HCGH Group C
+xHCGH-4S-Group PRN,Null,6407240000,Null,Y,HCGH Group PRN
+xHCGH-APU OT-All Groups,Null,6408260000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C# HCGH Group PRN
+xHCGH-Cafeteria-Group A,Null,6408920000,Null,Y,HCGH Group A
+xHCGH-Cafeteria-Group B,Null,6408920000,Null,Y,HCGH Group B
+xHCGH-Cafeteria-Group C,Null,6408920000,Null,Y,HCGH Group C
+xHCGH-Cafeteria-Group PRN,Null,6408920000,Null,Y,HCGH Group PRN
+xHCGH-Cardio Diag-All Groups,Null,6408240000,Null,Y,Null
+xHCGH-Case Mgmt-All Groups,Null,6406120000,Null,Y,Null
+xHCGH-Case Mgmt-Group A,Null,6406120000,Null,Y,HCGH Group A
+xHCGH-Case Mgmt-Group B + C,Null,6406120000,Null,Y,Null
+xHCGH-Case Mgmt-Group PRN,Null,6406120000,Null,Y,HCGH Group PRN
+xHCGH-Clinic Peri-Group A,Null,6408835000,Null,Y,HCGH Group A
+xHCGH-Clinic Peri-Group B,Null,6408835000,Null,Y,HCGH Group B
+xHCGH-Clinic Peri-Group C,Null,6408835000,Null,Y,HCGH Group C
+xHCGH-Clinic Peri-Group PRN,Null,6408835000,Null,Y,HCGH Group PRN
+xHCGH-CMRC-All Groups,Null,6405800000,Null,Y,Null
+xHCGH-ConstantObserver-Group A,Null,6407071000,Null,Y, HCGH Group A
+xHCGH-CPO-Group A,Null,6407515000,Null,Y,HCGH Group A
+xHCGH-CPO-Group B,Null,6407515000,Null,Y,HCGH Group B
+xHCGH-CPO-Group C,Null,6407515000,Null,Y,HCGH Group C
+xHCGH-Diagnostic-Group A,Null,6408410000,Null,Y,HCGH Group A
+xHCGH-Diagnostic-Group B,Null,6408410000,Null,Y,HCGH Group B
+xHCGH-Diagnostic-Group C,Null,6408410000,Null,Y,HCGH Group C
+xHCGH-ECHO-All Groups,Null,6408235000,Null,Y,Null
+xHCGH-ED-All Groups,Null,6407410000,Null,Y,Null
+xHCGH-ED PEDS-Group A,Null,6407420000#6407424000,Null,Y,HCGH Group A
+xHCGH-ED PEDS-Group B,Null,6407420000#6407424000,Null,Y,HCGH Group B# HCGH Group C
+xHCGH-ED PEDS-Group PRN,Null,6407420000#6407424000,Null,Y,HCGH Group PRN
+xHCGH-EVS-Group A,Null,6406920000,Null,Y,HCGH Group A
+xHCGH-EVS-Group B,Null,6406920000,Null,Y,HCGH Group B
+xHCGH-EVS-Group C,Null,6406920000,Null,Y,HCGH Group C
+xHCGH-EVS-Group PRN,Null,6406920000,Null,Y,HCGH Group PRN
+xHCGH-HIM-Group A,Null,6406510000,Null,Y,HCGH Group A
+xHCGH-HIM-Group B,Null,6406510000,Null,Y,HCGH Group B
+xHCGH-HIM-Group C,Null,6406510000,Null,Y,HCGH Group C
+xHCGH-HIM-Group PRN,Null,6406510000,Null,Y,HCGH Group PRN
+xHCGH-ICU-Group A,Null,6407235000,Null,Y,HCGH Group A
+xHCGH-ICU-Group B,Null,6407235000,Null,Y,HCGH Group B
+xHCGH-ICU-Group C,Null,6407235000,Null,Y,HCGH Group C
+xHCGH-ICU-Group PCA,Null,6407235000,Null,Y,HCGH Group PCA
+xHCGH-ICU-Group PRN,Null,6407235000,Null,Y,HCGH Group PRN
+xHCGH-Imaging Administration,Null,6408400000,Null,Y,Null
+xHCGH-IRCV-Group A,Null,6408475000,Null,Y,HCGH Group A
+xHCGH-IRCV-Group B,Null,6408475000,Null,Y,HCGH Group B
+xHCGH-IRCV-Group C,Null,6408475000,Null,Y,HCGH Group C
+xHCGH-IRCV-Group D,Null,6408475000,Null,Y,HCGH Group D
+xHCGH-IRCV-Group E,Null,6408475000,Null,Y,HCGH Group E
+xHCGH-IRCV-Group PRN,Null,6408475000,Null,Y,HCGH Group PRN
+xHCGH-Lactation-All Groups,Null,6407350000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
+xHCGH-Lactation-Group PRN,Null,6407350000,Null,Y,HCGH Group PRN
+xHCGH-LD-Group A,Null,6407360000,Null,Y,HCGH Group A
+xHCGH-LD-Group B,Null,6407360000,Null,Y,HCGH Group B
+xHCGH-LD-Group C,Null,6407360000,Null,Y,HCGH Group C
+xHCGH-LD-Group PRN,Null,6407360000,Null,Y,HCGH Group PRN
+xHCGH-MAMMO-All Groups,Null,6408460000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
+xHCGH-MAMMO-Group PRN,Null,6408460000,Null,Y,HCGH Group PRN
+xHCGH-MCU-All Groups,Null,6407320000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C
+xHCGH-MCU-Group PRN,Null,6407320000,Null,Y,HCGH Group PRN
+xHCGH-MRI-All Groups,Null,6408450000,Null,Y,Null
+xHCGH-MRI-Group PRN,Null,6408450000,Null,Y,HCGH Group PRN
+xHCGH-NICU-All Groups,Null,6407340000,Null,Y,Null
+xHCGH-NICU-Group A,Null,6407340000,Null,Y,HCGH Group A
+xHCGH-NICU-Group B,Null,6407340000,Null,Y,HCGH Group B
+xHCGH-NICU-Group C,Null,6407340000,Null,Y,HCGH Group C
+xHCGH-NICU-Group PRN,Null,6407340000,Null,Y,HCGH Group PRN
+xHCGH-Nuc Med-All Groups,Null,6408430000,Null,Y,Null
+xHCGH-OBS-Group A,Null,6407440000,Null,Y,HCGH Group A
+xHCGH-OBS-Group B,Null,6407440000,Null,Y,HCGH Group B
+xHCGH-OBS-Group C,Null,6407440000,Null,Y,HCGH Group C
+xHCGH-OR-Group A,Null,6407520000,Null,Y,HCGH Group A
+xHCGH-OR-Group B,Null,6407520000,Null,Y,HCGH Group B
+xHCGH-OR-Group C,Null,6407520000,Null,Y,HCGH Group C
+xHCGH-PACU-Group A,Null,6407550000,Null,Y,HCGH Group A
+xHCGH-PACU-Group B,Null,6407550000,Null,Y,HCGH Group B# HCGH Group C
+xHCGH-PACU-Group C,Null,6407550000,Null,Y,HCGH Group C
+xHCGH-PACU-Group D,Null,6407550000,Null,Y,HCGH Group D
+xHCGH-PACU-Group PRN,Null,6407550000,Null,Y,HCGH Group PRN
+xHCGH-Pastoral-All Groups,Null,6406141000,Null,Y,Null
+xHCGH-PEDS-Group A,Null,6407310000,Null,Y,HCGH Group A
+xHCGH-PEDS-Group B,Null,6407310000,Null,Y, HCGH Group B# HCGH Group C
+xHCGH-PEDS-Group PRN,Null,6407310000,Null,Y,HCGH Group PRN
+xHCGH-Pharmacy-Group A,Null,6408710000,Null,Y,HCGH Group A
+xHCGH-Pharmacy-Group B,Null,6408710000,Null,Y,HCGH Group B
+xHCGH-Pharmacy-Group C,Null,6408710000,Null,Y,HCGH Group C
+xHCGH-Pharmacy-Group PRN,Null,6408710000,Null,Y,HCGH Group PRN
+xHCGH-RN Floats-All Groups,Null,6407040000,Null,Y,Null
+xHCGH-RT-All Groups,Null,6408210000,Null,Y,HCGH Group A# HCGH Group B# HCGH Group C# HCGH Group D# HCGH Group E
+xHCGH-RT-Group PRN,Null,6408210000,Null,Y,HCGH Group PRN
+xHCGH-SCU-Group A,Null,6407230000,Null,Y,HCGH Group A
+xHCGH-SCU-Group B,Null,6407230000,Null,Y,HCGH Group B
+xHCGH-SCU-Group C,Null,6407230000,Null,Y,HCGH Group C
+xHCGH-SCU-Group PCA,Null,6407230000,Null,Y,HCGH Group PCA
+xHCGH-SCU-Group PRN,Null,6407230000,Null,Y,HCGH Group PRN
+xHCGH-TCAS Doc Central-All,Null,4617515000,Null,Y,Null
+xHCGH-TCAS PACU-Group A,Null,4617555000,Null,Y,HCGH Group A
+xHCGH-TCAS PACU-Group B,Null,4617555000,Null,Y,HCGH Group B
+xHCGH-TCAS PACU-Group C,Null,4617555000,Null,Y,HCGH Group C
+xHCGH-TCAS PACU-Group PRN,Null,4617555000,Null,Y,HCGH Group PRN
+xHCGH-Transport Group A B C,Null,6408340000,Null,Y,Null
+xHCGH-Transport Group PRN,Null,6408340000,Null,Y,HCGH Group PRN
+xHCGH-Ultra-Group A,Null,6408490000,Null,Y,HCGH Group A
+xHCGH-Ultra-Group B,Null,6408490000,Null,Y,HCGH Group B
+xHCGH-Ultra-Group C,Null,6408490000,Null,Y,HCGH Group C
+xHCGH-Ultra-Group PRN,Null,6408490000,Null,Y,HCGH Group PRN
+xHCGH-Ultra Peri-Group A,Null,6408493000,Null,Y,HCGH Group A
+xHCGH-Ultra Peri-Group B,Null,6408493000,Null,Y,HCGH Group B
+xHCGH-Ultra Peri-Group C,Null,6408493000,Null,Y,HCGH Group C
+xHCGH-Ultra Peri-Group PRN,Null,6408493000,Null,Y,HCGH Group PRN
+xHCGH-Vascular-Group A,Null,6408495000,Null,Y,HCGH Group A
+xHCGH-Vascular-Group B,Null,6408495000,Null,Y,HCGH Group B
+xHCGH-Vascular-Group C,Null,6408495000,Null,Y,HCGH Group C
+xHCGH-Vascular-Group PRN,Null,6408495000,Null,Y,HCGH Group PRN
+xSH-Acute Med-Group A,Null,6001116021,Null,Y,SH Group A
+xSH-Acute Med-Group B,Null,6001116021,Null,Y,SH Group B
+xSH-Acute Med-Group C,Null,6001116021,Null,Y,SH Group C
+xSH-Adult Medical-Group A,Null,6001116020,Null,Y,SH Group A
+xSH-Adult Medical-Group B,Null,6001116020,Null,Y,SH Group B
+xSH-Adult Medical-Group C,Null,6001116020,Null,Y,SH Group C
+xSH-Adult Surgical-Group A,Null,6001116015,Null,Y,SH Group A
+xSH-Adult Surgical-Group B,Null,6001116015,Null,Y,SH Group B
+xSH-Adult Surgical-Group C,Null,6001116015,Null,Y,SH Group C
+xSH-ATC Montrose-Group A,Null,6001608675,Null,Y,SH Group A
+xSH-ATC Montrose-Group B,Null,6001608675,Null,Y,SH Group B
+xSH-ATC Montrose-Group C,Null,6001608675,Null,Y,SH Group C
+xSH-Behav Health-Group A,Null,6001156343,Null,Y,SH Group A
+xSH-Behav Health-Group B,Null,6001156343,Null,Y,SH Group B
+xSH-Behav Health-Group C,Null,6001156343,Null,Y,SH Group C
+xSH-Cardiac Rehab-Group A,Null,6002407414,Null,Y,SH Group A
+xSH-Cardiac Rehab-Group B,Null,6002407414,Null,Y,SH Group B
+xSH-Cardiac Rehab-Group C,Null,6002407414,Null,Y,SH Group C
+xSH-Care Coord-Group A,Null,6001508350,Null,Y,SH Group A
+xSH-Care Coord-Group B,Null,6001508350,Null,Y,SH Group B
+xSH-Care Coord-Group C,Null,6001508350,Null,Y,SH Group C
+xSH-Cath Lab-Group A,Null,6002407456,Null,Y,SH Group A
+xSH-Cath Lab-Group B,Null,6002407456,Null,Y,SH Group B
+xSH-Cath Lab-Group C,Null,6002407456,Null,Y,SH Group C
+xSH-CDU-Group A,Null,6001206377,Null,Y,SH Group A
+xSH-CDU-Group B,Null,6001206377,Null,Y,SH Group B
+xSH-CDU-Group C,Null,6001206377,Null,Y,SH Group C
+xSH-Clinic Supp Svc-Group A,Null,6002508752,Null,Y,SH Group A
+xSH-Clinic Supp Svc-Group B,Null,6002508752,Null,Y,SH Group B
+xSH-Clinic Supp Svc-Group C,Null,6002508752,Null,Y,SH Group C
+xSH-Clinical Docum-Group A,Null,6005408712,Null,Y,SH Group A
+xSH-Clinical Docum-Group B,Null,6005408712,Null,Y,SH Group B
+xSH-Clinical Docum-Group C,Null,6005408712,Null,Y,SH Group C
+xSH-Crisis Intervent-Group A,Null,6001606346,Null,Y,SH Group A
+xSH-Crisis Intervent-Group B,Null,6001606346,Null,Y,SH Group B
+xSH-Crisis Intervent-Group C,Null,6001606346,Null,Y,SH Group C
+xSH-CT Scan-Group A,Null,6002207422,Null,Y,SH Group A
+xSH-CT Scan-Group B,Null,6002207422,Null,Y,SH Group B
+xSH-CT Scan-Group C,Null,6002207422,Null,Y,SH Group C
+xSH-CV Short Stay-Group A,Null,6002407450,Null,Y,SH Group A
+xSH-CV Short Stay-Group B,Null,6002407450,Null,Y,SH Group B
+xSH-CV Short Stay-Group C,Null,6002407450,Null,Y,SH Group C
+xSH-CVOR-Group A,Null,6001316363,Null,Y,SH Group A
+xSH-CVOR-Group B,Null,6001316363,Null,Y,SH Group B
+xSH-CVOR-Group C,Null,6001316363,Null,Y,SH Group C
+xSH-Day Treatment-Group A,Null,6001606345,Null,Y,SH Group A
+xSH-Day Treatment-Group B,Null,6001606345,Null,Y,SH Group B
+xSH-Day Treatment-Group C,Null,6001606345,Null,Y,SH Group C
+xSH-Div-Perioperat-Group A,Null,6001338100,Null,Y,SH Group A
+xSH-Div-Perioperat-Group B,Null,6001338100,Null,Y,SH Group B
+xSH-Div-Perioperat-Group C,Null,6001338100,Null,Y,SH Group C
+xSH-ED and Peds-Group C,Null,Null,Null,Y, SH Group C
+xSH-ED Trauma-Group A,Null,Null,Null,Y, SH Group A
+xSH-Ed Trauma-Group B,Null,Null,Null,Y, SH Group B
+xSH-ED Trauma-Group C,Null,Null,Null,Y, SH Group C
+xSH-EEG-Group A,Null,6002407416,Null,Y,SH Group A
+xSH-EEG-Group B,Null,6002407416,Null,Y,SH Group B
+xSH-EEG-Group C,Null,6002407416,Null,Y,SH Group C
+xSH-EKG-Group A,Null,6002407415,Null,Y,SH Group A
+xSH-EKG-Group B,Null,6002407415,Null,Y,SH Group B
+xSH-EKG-Group C,Null,6002407415,Null,Y,SH Group C
+xSH-Floats-Home-Group A,Null,6001406022,Null,Y,SH Group A
+xSH-Floats-Home-Group B,Null,6001406022,Null,Y,SH Group B
+xSH-Floats-Home-Group C,Null,6001406022,Null,Y,SH Group C
+xSH-Housekeeping-Group A,Null,6004008450,Null,Y,SH Group A
+xSH-Housekeeping-Group B,Null,6004008450,Null,Y,SH Group B
+xSH-Housekeeping-Group C,Null,6004008450,Null,Y,SH Group C
+xSH-ICU-Group A,Null,6001126340,Null,Y,SH Group A
+xSH-ICU-Group B,Null,6001126340,Null,Y,SH Group B
+xSH-ICU-Group C,Null,6001126340,Null,Y,SH Group C
+xSH-ICU-Group D,Null,6001126340,Null,Y,SH Group D
+xSH-ICU-Group E,Null,6001126340,Null,Y,SH Group E
+xSH-Intervent Angio-Group A,Null,6002207426,Null,Y,SH Group A
+xSH-Intervent Angio-Group B,Null,6002207426,Null,Y,SH Group B
+xSH-Intervent Angio-Group C,Null,6002207426,Null,Y,SH Group C
+xSH-MRI-Group A,Null,6002207428,Null,Y,SH Group A
+xSH-MRI-Group B,Null,6002207428,Null,Y,SH Group B
+xSH-MRI-Group C,Null,6002207428,Null,Y,SH Group C
+xSH-MRI/NIH-Group A,Null,6003107449,Null,Y,SH Group A
+xSH-MRI/NIH-Group B,Null,6003107449,Null,Y,SH Group B
+xSH-MRI/NIH-Group C,Null,6003107449,Null,Y,SH Group C
+xSH-NIH OH Research-Group A,Null,6003107457,Null,Y,SH Group A
+xSH-NIH OH Research-Group B,Null,6003107457,Null,Y,SH Group B
+xSH-NIH OH Research-Group C,Null,6003107457,Null,Y,SH Group C
+xSH-NIH Stroke-Group A,Null,6003107477,Null,Y,SH Group A
+xSH-NIH Stroke-Group B,Null,6003107477,Null,Y,SH Group B
+xSH-NIH Stroke-Group C,Null,6003107477,Null,Y,SH Group C
+xSH-Nuclear Med-Group A,Null,6002207424,Null,Y,SH Group A
+xSH-Nuclear Med-Group B,Null,6002207424,Null,Y,SH Group B
+xSH-Nuclear Med-Group C,Null,6002207424,Null,Y,SH Group C
+xSH-Nursing Admin-Group A,Null,6001408750,Null,Y,SH Group A
+xSH-Nursing Admin-Group B,Null,6001408750,Null,Y,SH Group B
+xSH-Nursing Admin-Group C,Null,6001408750,Null,Y,SH Group C
+xSH-Nursing Educat-Group A,Null,6001408751,Null,Y,SH Group A
+xSH-Nursing Educat-Group B,Null,6001408751,Null,Y,SH Group B
+xSH-Nursing Educat-Group C,Null,6001408751,Null,Y,SH Group C
+xSH-Occ Therapy-Group A,Null,6002307438,Null,Y,SH Group A
+xSH-Occ Therapy-Group B,Null,6002307438,Null,Y,SH Group B
+xSH-Occ Therapy-Group C,Null,6002307438,Null,Y,SH Group C
+xSH-Oncology-Group A,Null,6001116018,Null,Y,SH Group A
+xSH-Oncology-Group B,Null,6001116018,Null,Y,SH Group B
+xSH-Oncology-Group C,Null,6001116018,Null,Y,SH Group C
+xSH-Oncology-Group D,Null,6001116018,Null,Y,SH Group D
+xSH-OR Admin-Group A,Null,6001316360,Null,Y,SH Group A
+xSH-OR Admin-Group B,Null,6001316360,Null,Y,SH Group B
+xSH-OR Admin-Group C,Null,6001316360,Null,Y,SH Group C
+xSH-OR Minor-Group A,Null,6001326362,Null,Y,SH Group A
+xSH-OR Minor-Group B,Null,6001326362,Null,Y,SH Group B
+xSH-OR Minor-Group C,Null,6001326362,Null,Y,SH Group C
+xSH-Ortho Services-Group A,Null,6002307439,Null,Y,SH Group A
+xSH-Ortho Services-Group B,Null,6002307439,Null,Y,SH Group B
+xSH-Ortho Services-Group C,Null,6002307439,Null,Y,SH Group C
+xSH-Ortho Svc Line-Group A,Null,6002506349,Null,Y,SH Group A
+xSH-Ortho Svc Line-Group B,Null,6002506349,Null,Y,SH Group B
+xSH-Ortho Svc Line-Group C,Null,6002506349,Null,Y,SH Group C
+xSH-Ortho-Neuro-Group A,Null,6001116016,Null,Y,SH Group A
+xSH-Ortho-Neuro-Group B,Null,6001116016,Null,Y,SH Group B
+xSH-Ortho-Neuro-Group C,Null,6001116016,Null,Y,SH Group C
+xSH-PACU-Group A,Null,6001336365,Null,Y,SH Group A
+xSH-PACU-Group B,Null,6001336365,Null,Y,SH Group B
+xSH-PACU-Group C,Null,6001336365,Null,Y,SH Group C
+xSH-Patient Access-Group A,Null,6005108525,Null,Y,SH Group A
+xSH-Patient Access-Group B,Null,6005108525,Null,Y,SH Group B
+xSH-Patient Access-Group C,Null,6005108525,Null,Y,SH Group C
+xSH-PCU-Group A,Null,6001146280,Null,Y,SH Group A
+xSH-PCU-Group B,Null,6001146280,Null,Y,SH Group B
+xSH-PCU-Group C,Null,6001146280,Null,Y,SH Group C
+xSH-Pediatrics-Group A,Null,6001136381,Null,Y,SH Group A
+xSH-Pediatrics-Group B,Null,6001136381,Null,Y,SH Group B
+xSH-Pediatrics-Group C,Null,6001136381,Null,Y,SH Group C
+xSH-Pharmacy-Group A,Null,6002508470,Null,Y,SH Group A
+xSH-Pharmacy-Group B,Null,6002508470,Null,Y,SH Group B
+xSH-Pharmacy-Group C,Null,6002508470,Null,Y,SH Group C
+xSH-Physical Medicin-Group A,Null,6002508101,Null,Y,SH Group A
+xSH-Physical Medicin-Group B,Null,6002508101,Null,Y,SH Group B
+xSH-Physical Medicin-Group C,Null,6002508101,Null,Y,SH Group C
+xSH-Physical Therapy-Group A,Null,6002307437,Null,Y,SH Group A
+xSH-Physical Therapy-Group B,Null,6002307437,Null,Y,SH Group B
+xSH-Physical Therapy-Group C,Null,6002307437,Null,Y,SH Group C
+xSH-Presurgical Tst-Group A,Null,6001336361,Null,Y,SH Group A
+xSH-Presurgical Tst-Group B,Null,6001336361,Null,Y,SH Group B
+xSH-Presurgical Tst-Group C,Null,6001336361,Null,Y,SH Group C
+xSH-Radiology-Group A,Null,6002207421,Null,Y,SH Group A
+xSH-Radiology-Group B,Null,6002207421,Null,Y,SH Group B
+xSH-Radiology-Group C,Null,6002207421,Null,Y,SH Group C
+xSH-Radiology Admin-Group A,Null,6002207420,Null,Y,SH Group A
+xSH-Radiology Admin-Group B,Null,6002207420,Null,Y,SH Group B
+xSH-Radiology Admin-Group C,Null,6002207420,Null,Y,SH Group C
+xSH-Rapid Response-Group A,Null,6001606347,Null,Y,SH Group A
+xSH-Rapid Response-Group B,Null,6001606347,Null,Y,SH Group B
+xSH-Rapid Response-Group C,Null,6001606347,Null,Y,SH Group C
+xSH-Respiratory Ther-Group A,Null,6001607436,Null,Y,SH Group A
+xSH-Respiratory Ther-Group B,Null,6001607436,Null,Y,SH Group B
+xSH-Respiratory Ther-Group C,Null,6001607436,Null,Y,SH Group C
+xSH-RN First Assist-Group A,Null,6001338718,Null,Y,SH Group A
+xSH-RN First Assist-Group B,Null,6001338718,Null,Y,SH Group B
+xSH-RN First Assist-Group C,Null,6001338718,Null,Y,SH Group C
+xSH-Security-Group A,Null,6004008541,Null,Y,SH Group A
+xSH-Security-Group B,Null,6004008541,Null,Y,SH Group B
+xSH-Security-Group C,Null,6004008541,Null,Y,SH Group C
+xSH-Speech Therapy-Group A,Null,6002307442,Null,Y,SH Group A
+xSH-Speech Therapy-Group B,Null,6002307442,Null,Y,SH Group B
+xSH-Speech Therapy-Group C,Null,6002307442,Null,Y,SH Group C
+xSH-Sterile Process-Group A,Null,6001338465,Null,Y,SH Group A
+xSH-Sterile Process-Group B,Null,6001338465,Null,Y,SH Group B
+xSH-Sterile Process-Group C,Null,6001338465,Null,Y,SH Group C
+xSH-Transportation-Group A,Null,6004008543,Null,Y,SH Group A
+xSH-Transportation-Group B,Null,6004008543,Null,Y,SH Group B
+xSH-Transportation-Group C,Null,6004008543,Null,Y,SH Group C
+xSH-Ultrasound-Group A,Null,6002207430,Null,Y,SH Group A
+xSH-Ultrasound-Group B,Null,6002207430,Null,Y,SH Group B
+xSH-Ultrasound-Group C,Null,6002207430,Null,Y,SH Group C

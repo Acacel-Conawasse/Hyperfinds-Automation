@@ -1,0 +1,39 @@
+2024-03-14 11:34:58 - Entered text: BMCN-BICU
+2024-03-14 11:35:00 - Entered text: BMCN-BICU-10002372
+2024-03-14 11:35:38 - Entered text: BMCN-BICU
+2024-03-14 11:38:39 - Entered text: BMCN-BICU
+2024-03-14 11:38:41 - Entered text: BMCN-BICU-10002372
+2024-03-14 11:38:51 - Entered text: 10002372
+2024-03-14 11:43:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-03-14 11:43:24 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-03-14 11:43:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-03-14 11:43:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-03-14 11:43:26 - Entered text: BMCN-BICU
+2024-03-14 11:43:26 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-03-14 11:43:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-03-14 11:43:27 - Entered text: BMCN-BICU-10002372
+2024-03-14 11:43:27 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-03-14 11:43:31 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-03-14 11:43:51 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-03-14 11:43:52 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-03-14 11:43:52 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-03-14 11:43:53 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-03-14 11:43:53 - Entered text: BMCN-BICU
+2024-03-14 11:43:54 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-03-14 11:43:54 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-03-14 11:43:54 - Entered text: BMCN-BICU-10002372
+2024-03-14 11:43:54 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-03-14 11:43:59 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-03-14 11:44:03 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-03-14 11:44:03 - Mouse moved and clicked at (1764, 283), with a 0.20 second interval
+2024-03-14 11:44:03 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-03-14 11:44:04 - Entered text: 10002372
+2024-03-14 11:44:04 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-03-14 11:44:04 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-03-14 11:44:05 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-03-14 11:44:05 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-03-14 11:44:06 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-03-14 11:44:07 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-03-14 11:44:08 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-03-14 11:44:11 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-03-14 11:44:15 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval

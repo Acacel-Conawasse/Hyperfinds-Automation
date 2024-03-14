@@ -2,6 +2,19 @@ import pyautogui
 import time
 import logging
 
+"""
+Read Me: 
+
+Book Mark Bar needs to be allowed in firefox 
+PC screen resolution in display settings needs to be set to 100% 
+FireFox screen size needs to be set to 100%
+Finally your input file path ** All the way at the bottom should be / as to \
+Use your laptop only no docks 
+VS code to the left
+Firefox to the right <evenly split screen>
+"""
+
+
 # Setup logging to keep track of actions
 logging.basicConfig(filename="log.txt", level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 pyautogui.FAILSAFE = True  # Enable failsafe by moving the mouse to the upper left corner

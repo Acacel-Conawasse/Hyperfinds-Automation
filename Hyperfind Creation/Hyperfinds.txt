@@ -1,3 +1,2 @@
 Hyperfind Name,Description ,Cost Center,Org Unit,Employment Status ,Schedule Group 
-Test 1,Test 1 - testOU,Null,testOU#test2OU,Y,ASC GS - Group A 
-Test 2,Test 2 - test2OU,Null,test2OU,Y,Null
+xBMCN-Global PERM,xBMCN-Global PERM- BMCN PERM,Null,Null,Y, BMCN PERM

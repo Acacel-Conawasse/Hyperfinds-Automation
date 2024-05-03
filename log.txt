@@ -37,3 +37,681 @@
 2024-03-14 11:44:08 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
 2024-03-14 11:44:11 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
 2024-03-14 11:44:15 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-04-26 20:47:35 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 20:47:36 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:47:37 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:47:37 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 20:47:38 - Entered text: xBMCN-Global PERM
+2024-04-26 20:47:38 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 20:47:38 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 20:47:39 - Entered text: xBMCN-Global PERM- BMCN PERM
+2024-04-26 20:47:39 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 20:47:43 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-26 20:47:47 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:47:48 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-26 20:47:49 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:47:49 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:47:50 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-26 20:47:51 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-26 20:47:52 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-26 20:47:52 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-26 20:47:53 - Entered text:  BMCN PERM
+2024-04-26 20:47:54 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-26 20:47:55 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-26 20:47:55 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-26 20:47:56 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:52:50 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 20:52:50 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:52:51 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:52:52 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 20:52:52 - Entered text: xBMCN-Global PERM
+2024-04-26 20:52:53 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 20:52:53 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 20:52:53 - Entered text: xBMCN-Global PERM- BMCN PERM
+2024-04-26 20:52:54 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 20:52:58 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-26 20:53:02 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-26 20:53:02 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:53:03 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-26 20:53:04 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:53:05 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:53:05 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-26 20:53:06 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-26 20:53:07 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-26 20:53:08 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-26 20:53:08 - Entered text:  BMCN PERM
+2024-04-26 20:53:09 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-26 20:53:10 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-26 20:53:11 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-26 20:53:11 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:53:15 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-04-26 20:53:19 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-04-26 20:54:07 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 20:54:08 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:54:09 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 20:54:09 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 20:54:10 - Entered text: xHCGH-1N Group A
+2024-04-26 20:54:10 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 20:54:10 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 20:54:11 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-26 20:54:11 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 20:54:15 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-26 20:54:20 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-26 20:54:20 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-04-26 20:54:20 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-04-26 20:54:21 - Entered text: 6407210000
+2024-04-26 20:54:21 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-04-26 20:54:21 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-04-26 20:54:22 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:54:22 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:54:23 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-26 20:54:24 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 20:54:25 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 20:54:26 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-26 20:54:26 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-26 21:00:26 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 21:00:27 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:00:27 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:00:28 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 21:00:29 - Entered text: xHCGH-1N Group A
+2024-04-26 21:00:29 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 21:00:29 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 21:00:30 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-26 21:00:30 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 21:00:34 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-26 21:00:38 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-26 21:00:39 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-04-26 21:00:39 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-04-26 21:00:40 - Entered text: 6407210000
+2024-04-26 21:00:40 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-04-26 21:00:40 - Mouse moved and clicked at (1584, 485), with a 0.20 second interval
+2024-04-26 21:00:41 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:00:41 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 21:00:42 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-26 21:00:43 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 21:00:44 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:00:44 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-26 21:00:45 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-26 21:00:46 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-26 21:00:47 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-26 21:00:47 - Entered text: HCGH Group A
+2024-04-26 21:00:48 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-26 21:00:49 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-26 21:00:50 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-26 21:00:50 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:00:54 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-04-26 21:02:08 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 21:02:09 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:02:09 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:02:10 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 21:02:10 - Entered text: xHCGH-1N Group A
+2024-04-26 21:02:11 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 21:02:11 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 21:02:12 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-26 21:02:12 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 21:05:58 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-26 21:05:59 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:06:00 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-26 21:06:00 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-26 21:06:01 - Entered text: xHCGH-1N Group A
+2024-04-26 21:06:01 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-26 21:06:01 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-26 21:06:02 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-26 21:06:02 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-26 21:06:06 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-26 21:06:11 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-26 21:06:11 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-04-26 21:06:11 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-04-26 21:06:12 - Entered text: 6407210000
+2024-04-26 21:06:12 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-04-26 21:06:12 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-04-26 21:06:13 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:06:13 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 21:06:14 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-26 21:06:15 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-26 21:06:16 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:06:16 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-26 21:06:17 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-26 21:06:18 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-26 21:06:18 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-26 21:06:19 - Entered text: HCGH Group A
+2024-04-26 21:06:20 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-26 21:06:21 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-26 21:06:21 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-26 21:06:22 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-26 21:06:26 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
+2024-04-26 21:06:29 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
+2024-04-27 14:52:03 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-27 14:52:03 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-27 14:52:04 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-27 14:52:05 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-27 14:52:05 - Entered text: xHCGH-1N Group A
+2024-04-27 14:52:05 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-27 14:52:06 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-27 14:52:06 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-27 14:52:07 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-27 14:52:46 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-27 14:52:47 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-27 14:52:47 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
+2024-04-27 14:54:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-27 14:54:25 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:54:25 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:54:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-27 14:54:26 - Entered text: xHCGH-1N Group A
+2024-04-27 14:54:26 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-27 14:54:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-27 14:54:27 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-27 14:54:27 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
+2024-04-27 14:54:32 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-27 14:54:36 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-27 14:54:36 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-04-27 14:54:37 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-04-27 14:54:37 - Entered text: 6407210000
+2024-04-27 14:54:37 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-04-27 14:54:38 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-04-27 14:54:38 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 14:54:39 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-27 14:54:39 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-27 14:54:40 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-27 14:54:41 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 14:54:42 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-27 14:54:42 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-27 14:54:43 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-27 14:54:44 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-27 14:54:44 - Entered text: HCGH Group A
+2024-04-27 14:54:45 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-27 14:54:46 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-27 14:54:47 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-27 14:54:47 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 14:56:10 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-27 14:56:11 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:56:11 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:56:12 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-27 14:56:12 - Entered text: xHCGH-1N Group A
+2024-04-27 14:56:13 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-27 14:56:13 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-27 14:56:13 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-27 14:56:14 - Mouse moved and clicked at (1412, 543), with a 0.20 second interval
+2024-04-27 14:57:01 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
+2024-04-27 14:57:01 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:57:02 - Mouse moved and clicked at (1342, 267), with a 0.20 second interval
+2024-04-27 14:57:03 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
+2024-04-27 14:57:03 - Entered text: xHCGH-1N Group A
+2024-04-27 14:57:03 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
+2024-04-27 14:57:03 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
+2024-04-27 14:57:04 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-27 14:57:04 - Mouse moved and clicked at (1412, 543), with a 0.20 second interval
+2024-04-27 14:57:08 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
+2024-04-27 14:57:13 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
+2024-04-27 14:57:13 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
+2024-04-27 14:57:13 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
+2024-04-27 14:57:14 - Entered text: 6407210000
+2024-04-27 14:57:14 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
+2024-04-27 14:57:14 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
+2024-04-27 14:57:26 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 14:57:38 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-27 14:57:39 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
+2024-04-27 14:57:39 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
+2024-04-27 14:57:40 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 14:57:41 - Mouse moved and clicked at (1061, 457), with a 0.20 second interval
+2024-04-27 14:57:42 - Mouse moved and clicked at (1027, 506), with a 0.20 second interval
+2024-04-27 14:57:42 - Mouse moved and clicked at (1052, 461), with a 0.20 second interval
+2024-04-27 14:57:43 - Mouse moved and clicked at (1309, 339), with a 0.20 second interval
+2024-04-27 14:57:44 - Entered text: HCGH Group A
+2024-04-27 14:57:45 - Mouse moved and clicked at (1524, 344), with a 0.20 second interval
+2024-04-27 14:57:45 - Mouse moved and clicked at (1335, 366), with a 0.20 second interval
+2024-04-27 14:57:46 - Mouse moved and clicked at (1591, 381), with a 0.20 second interval
+2024-04-27 14:57:47 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
+2024-04-27 15:43:52 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:43:53 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:43:53 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:43:54 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:43:54 - Entered text: xHCGH-1N Group A
+2024-04-27 15:43:54 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:43:55 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:43:55 - Entered text: xHCGH-1N Group A-6407210000 HCGH Group A
+2024-04-27 15:43:55 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:44:00 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:44:04 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:44:04 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:44:04 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:44:05 - Entered text: 6407210000
+2024-04-27 15:44:05 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:44:06 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:44:06 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:44:07 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:44:07 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:44:08 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:44:09 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:44:09 - Mouse moved and clicked at (1031, 453), with a 0.20 second interval
+2024-04-27 15:44:10 - Mouse moved and clicked at (1050, 494), with a 0.20 second interval
+2024-04-27 15:44:11 - Mouse moved and clicked at (1031, 453), with a 0.20 second interval
+2024-04-27 15:44:12 - Mouse moved and clicked at (1332, 346), with a 0.20 second interval
+2024-04-27 15:44:12 - Entered text: HCGH Group A
+2024-04-27 15:44:13 - Mouse moved and clicked at (1511, 344), with a 0.20 second interval
+2024-04-27 15:44:14 - Mouse moved and clicked at (1364, 380), with a 0.20 second interval
+2024-04-27 15:44:15 - Mouse moved and clicked at (1592, 386), with a 0.20 second interval
+2024-04-27 15:44:15 - Mouse moved and clicked at (1455, 772), with a 0.20 second interval
+2024-04-27 15:57:13 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:57:13 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:57:14 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:57:15 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:57:15 - Entered text: xHCGH-Social Work ALL
+2024-04-27 15:57:15 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:57:15 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:57:16 - Entered text: xHCGH-Social Work ALL-6406122000
+2024-04-27 15:57:16 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:57:20 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:57:25 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:57:25 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:57:25 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:57:26 - Entered text: 6406122000
+2024-04-27 15:57:26 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:57:26 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:57:27 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:57:27 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:57:28 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:57:29 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:57:29 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:57:33 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:57:37 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:57:40 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:57:41 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:57:41 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:57:42 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:57:42 - Entered text: xHCGH-Cardio Diag-All Groups
+2024-04-27 15:57:42 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:57:43 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:57:43 - Entered text: xHCGH-Cardio Diag-All Groups-6408240000
+2024-04-27 15:57:44 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:57:48 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:57:52 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:57:52 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:57:53 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:57:53 - Entered text: 6408240000
+2024-04-27 15:57:53 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:57:54 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:57:54 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:57:55 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:57:55 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:57:56 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:57:57 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:58:01 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:58:04 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:58:07 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:58:08 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:58:08 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:58:09 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:58:10 - Entered text: xHCGH-Case Mgmt-All Groups
+2024-04-27 15:58:10 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:58:10 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:58:11 - Entered text: xHCGH-Case Mgmt-All Groups-6406120000
+2024-04-27 15:58:11 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:58:15 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:58:19 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:58:20 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:58:20 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:58:21 - Entered text: 6406120000
+2024-04-27 15:58:21 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:58:21 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:58:22 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:58:22 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:58:23 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:58:24 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:58:24 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:58:28 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:58:31 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:58:35 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:58:35 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:58:36 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:58:37 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:58:37 - Entered text: xHCGH-Case Mgmt-Group B + C
+2024-04-27 15:58:37 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:58:38 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:58:38 - Entered text: xHCGH-Case Mgmt-Group B + C-6406120000
+2024-04-27 15:58:38 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:58:43 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:58:47 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:58:47 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:58:47 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:58:48 - Entered text: 6406120000
+2024-04-27 15:58:48 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:58:49 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:58:49 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:58:50 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:58:50 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:58:51 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:58:52 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:58:55 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:58:59 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:59:02 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:59:03 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:03 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:04 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:59:04 - Entered text: xHCGH-CMRC-All Groups
+2024-04-27 15:59:05 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:59:05 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:59:05 - Entered text: xHCGH-CMRC-All Groups-6405800000
+2024-04-27 15:59:06 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:59:10 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:59:14 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:59:14 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:59:15 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:59:15 - Entered text: 6405800000
+2024-04-27 15:59:16 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:59:16 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:59:17 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:59:17 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:59:18 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:59:18 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:59:19 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:59:23 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:59:26 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:59:29 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:59:30 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:31 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:31 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:59:32 - Entered text: xHCGH-ECHO-All Groups
+2024-04-27 15:59:32 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:59:32 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:59:33 - Entered text: xHCGH-ECHO-All Groups-6408235000
+2024-04-27 15:59:33 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 15:59:37 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 15:59:41 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 15:59:42 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 15:59:42 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 15:59:43 - Entered text: 6408235000
+2024-04-27 15:59:43 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 15:59:43 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 15:59:44 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:59:44 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 15:59:45 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 15:59:46 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 15:59:46 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 15:59:50 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 15:59:53 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 15:59:57 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 15:59:57 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:58 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 15:59:59 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 15:59:59 - Entered text: xHCGH-ED-All Groups
+2024-04-27 15:59:59 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 15:59:59 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:00:00 - Entered text: xHCGH-ED-All Groups-6407410000
+2024-04-27 16:00:00 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:00:04 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:00:09 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:00:09 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:00:09 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:00:10 - Entered text: 6407410000
+2024-04-27 16:00:10 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:00:10 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:00:11 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:00:11 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:00:12 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:00:13 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:00:13 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:00:17 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:00:21 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:00:24 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:00:25 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:00:25 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:00:26 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:00:26 - Entered text: xHCGH-Imaging Administration
+2024-04-27 16:00:26 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:00:27 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:00:27 - Entered text: xHCGH-Imaging Administration-6408400000
+2024-04-27 16:00:28 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:00:32 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:00:36 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:00:36 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:00:37 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:00:37 - Entered text: 6408400000
+2024-04-27 16:00:37 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:00:38 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:00:38 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:00:39 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:00:39 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:00:40 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:00:41 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:00:45 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:00:48 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:00:51 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:00:52 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:00:52 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:00:53 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:00:54 - Entered text: xHCGH-MRI-All Groups
+2024-04-27 16:00:54 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:00:54 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:00:55 - Entered text: xHCGH-MRI-All Groups-6408450000
+2024-04-27 16:00:55 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:00:59 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:01:03 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:01:04 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:01:04 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:01:04 - Entered text: 6408450000
+2024-04-27 16:01:05 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:01:05 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:01:06 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:01:06 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:01:07 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:01:07 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:01:08 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:01:12 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:01:15 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:01:19 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:01:19 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:01:20 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:01:20 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:01:21 - Entered text: xHCGH-NICU-All Groups
+2024-04-27 16:01:21 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:01:21 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:01:22 - Entered text: xHCGH-NICU-All Groups-6407340000
+2024-04-27 16:01:22 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:01:26 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:01:30 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:01:31 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:01:31 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:01:32 - Entered text: 6407340000
+2024-04-27 16:01:32 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:01:32 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:01:33 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:01:33 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:01:34 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:01:35 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:01:35 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:01:39 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:01:43 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:01:46 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:01:47 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:01:47 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:01:48 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:01:48 - Entered text: xHCGH-Nuc Med-All Groups
+2024-04-27 16:01:48 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:01:49 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:01:49 - Entered text: xHCGH-Nuc Med-All Groups-6408430000
+2024-04-27 16:01:49 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:01:54 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:01:58 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:01:58 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:01:59 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:01:59 - Entered text: 6408430000
+2024-04-27 16:01:59 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:02:00 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:02:00 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:02:01 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:02:01 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:02:02 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:02:03 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:02:06 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:02:10 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:02:13 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:02:14 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:02:14 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:02:15 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:02:15 - Entered text: xHCGH-Pastoral-All Groups
+2024-04-27 16:02:16 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:02:16 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:02:16 - Entered text: xHCGH-Pastoral-All Groups-6406141000
+2024-04-27 16:02:17 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:02:21 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:02:25 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:02:25 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:02:26 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:02:26 - Entered text: 6406141000
+2024-04-27 16:02:27 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:02:27 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:02:28 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:02:28 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:02:29 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:02:29 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:02:30 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:02:34 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:02:37 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:02:40 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:02:41 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:02:42 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:02:42 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:02:43 - Entered text: xHCGH-RN Floats-All Groups
+2024-04-27 16:02:43 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:02:43 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:02:44 - Entered text: xHCGH-RN Floats-All Groups-6407040000
+2024-04-27 16:02:44 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:02:48 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:02:53 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:02:53 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:02:53 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:02:54 - Entered text: 6407040000
+2024-04-27 16:02:54 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:02:54 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:02:55 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:02:55 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:02:56 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:02:57 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:02:57 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:03:01 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:03:05 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:03:08 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:03:09 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:03:09 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:03:10 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:03:10 - Entered text: xHCGH-TCAS Doc Central-All
+2024-04-27 16:03:10 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:03:11 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:03:11 - Entered text: xHCGH-TCAS Doc Central-All-4617515000
+2024-04-27 16:03:11 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:03:16 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:03:20 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:03:20 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:03:21 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:03:21 - Entered text: 4617515000
+2024-04-27 16:03:21 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:03:22 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:03:22 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:03:23 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:03:23 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:03:24 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:03:25 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:03:29 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:03:32 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:03:35 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:03:36 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:03:36 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:03:37 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:03:38 - Entered text: xHCGH-Transport Group A B C
+2024-04-27 16:03:38 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:03:38 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:03:39 - Entered text: xHCGH-Transport Group A B C-6408340000
+2024-04-27 16:03:39 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:03:43 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:03:47 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:03:48 - Mouse moved and clicked at (1318, 321), with a 0.20 second interval
+2024-04-27 16:03:48 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:03:49 - Entered text: 6408340000
+2024-04-27 16:03:49 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:03:49 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:03:50 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:03:50 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:03:51 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:03:52 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:03:52 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:03:56 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:03:59 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:04:03 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:04:03 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:04 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:05 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:04:05 - Entered text: BMCN-BICU
+2024-04-27 16:04:05 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:04:05 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:04:06 - Entered text: BMCN-BICU-10002372
+2024-04-27 16:04:06 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:04:10 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:04:14 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:04:15 - Mouse moved and clicked at (1798, 287), with a 0.20 second interval
+2024-04-27 16:04:15 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:04:16 - Entered text: 10002372
+2024-04-27 16:04:16 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:04:16 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:04:17 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:04:17 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:04:18 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:04:18 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:04:19 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:04:23 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:04:26 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:04:30 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:04:30 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:31 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:31 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:04:32 - Entered text: BMCN-BWU
+2024-04-27 16:04:32 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:04:32 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:04:33 - Entered text: BMCN-BWU-10003898
+2024-04-27 16:04:33 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:04:37 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:04:41 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:04:42 - Mouse moved and clicked at (1798, 287), with a 0.20 second interval
+2024-04-27 16:04:42 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:04:42 - Entered text: 10003898
+2024-04-27 16:04:43 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:04:43 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:04:44 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:04:44 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:04:45 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:04:45 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:04:46 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:04:50 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:04:53 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:04:57 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:04:57 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:58 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:04:58 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:04:59 - Entered text: BMCN-CAROL BALL MED UNIT
+2024-04-27 16:04:59 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:04:59 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:05:00 - Entered text: BMCN-CAROL BALL MED UNIT-60001880
+2024-04-27 16:05:00 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval
+2024-04-27 16:05:04 - Mouse moved and clicked at (1077, 411), with a 0.20 second interval
+2024-04-27 16:05:09 - Mouse moved and clicked at (1012, 252), with a 0.20 second interval
+2024-04-27 16:05:09 - Mouse moved and clicked at (1798, 287), with a 0.20 second interval
+2024-04-27 16:05:09 - Mouse moved and clicked at (1310, 453), with a 0.20 second interval
+2024-04-27 16:05:10 - Entered text: 60001880
+2024-04-27 16:05:10 - Mouse moved and clicked at (1343, 482), with a 0.20 second interval
+2024-04-27 16:05:10 - Mouse moved and clicked at (1589, 493), with a 0.20 second interval
+2024-04-27 16:05:11 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:05:11 - Mouse moved and clicked at (1010, 296), with a 0.20 second interval
+2024-04-27 16:05:12 - Mouse moved and clicked at (1057, 374), with a 0.20 second interval
+2024-04-27 16:05:13 - Mouse moved and clicked at (1010, 293), with a 0.20 second interval
+2024-04-27 16:05:13 - Mouse moved and clicked at (1445, 772), with a 0.20 second interval
+2024-04-27 16:05:17 - Mouse moved and clicked at (1864, 988), with a 0.20 second interval
+2024-04-27 16:05:21 - Mouse moved and clicked at (1786, 994), with a 0.20 second interval
+2024-04-27 16:05:24 - Mouse moved and clicked at (1007, 240), with a 0.20 second interval
+2024-04-27 16:05:25 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:05:25 - Mouse moved and clicked at (1338, 263), with a 0.20 second interval
+2024-04-27 16:05:26 - Mouse moved and clicked at (1065, 220), with a 0.20 second interval
+2024-04-27 16:05:26 - Entered text: BMCN-CDU-Outpatient
+2024-04-27 16:05:26 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:05:27 - Mouse moved and clicked at (1044, 254), with a 0.20 second interval
+2024-04-27 16:05:27 - Entered text: BMCN-CDU-Outpatient-10002396
+2024-04-27 16:05:27 - Mouse moved and clicked at (1420, 511), with a 0.20 second interval

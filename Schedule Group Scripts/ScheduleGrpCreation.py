@@ -24,7 +24,7 @@ def automate_actions(text):
     time.sleep(1)  # Wait for a second
 
 # Path to the file
-file_path = 'ScheduleGroupContent.txt'
+file_path = 'C:/Users/omalomo3/Desktop/Hyperfinds Automation/Schedule Group Scripts/ScheduleGroupContent.txt'
 
 # Reading each line from the file and performing the actions
 with open(file_path, 'r') as file:

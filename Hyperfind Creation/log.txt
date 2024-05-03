@@ -1,492 +1,123 @@
-2024-03-05 12:46:54 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:46:54 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:46:55 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:46:56 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:46:56 - Entered text: AdmReg-60012051-Rev Cycle I JHH
-2024-03-05 12:46:56 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:46:57 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:46:57 - Entered text: Org Unit 60012051
-2024-03-05 12:46:57 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:47:02 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:48:02 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:48:02 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:03 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:04 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:48:04 - Entered text: Rev Cycle Mgmt Site
-2024-03-05 12:48:04 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:48:05 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:48:05 - Entered text: 4500030179-REV CYCLE MGMT SITE
-2024-03-05 12:48:05 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:48:10 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:48:14 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:48:14 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:48:15 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:48:15 - Entered text: 4500030179
-2024-03-05 12:48:15 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:48:16 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:48:16 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:48:17 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:48:17 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:48:18 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:48:19 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:48:23 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:48:26 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:48:29 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:48:30 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:31 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:31 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:48:32 - Entered text: Public Cafeteria
-2024-03-05 12:48:32 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:48:32 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:48:33 - Entered text: 4800610301-PUBLIC CAFETERIA
-2024-03-05 12:48:33 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:48:37 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:48:41 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:48:42 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:48:42 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:48:43 - Entered text: 4800610301
-2024-03-05 12:48:43 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:48:43 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:48:44 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:48:44 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:48:45 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:48:46 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:48:46 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:48:50 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:48:53 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:48:57 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:48:57 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:58 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:48:59 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:48:59 - Entered text: Banquet Services
-2024-03-05 12:48:59 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:49:00 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:49:00 - Entered text: 4800610302-BANQUET SERVICES
-2024-03-05 12:49:00 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:49:05 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:49:09 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:49:09 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:49:10 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:49:10 - Entered text: 4800610302
-2024-03-05 12:49:10 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:49:11 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:49:11 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:49:12 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:49:12 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:49:13 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:49:14 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:49:17 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:49:21 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:49:24 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:49:25 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:49:26 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:49:26 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:49:27 - Entered text: Salad Vida
-2024-03-05 12:49:27 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:49:27 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:49:27 - Entered text: 4800610303-SALAD VIDA
-2024-03-05 12:49:28 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:49:32 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:49:36 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:49:36 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:49:37 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:49:37 - Entered text: 4800610303
-2024-03-05 12:49:38 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:49:38 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:49:39 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:49:39 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:49:40 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:49:40 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:49:41 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:49:45 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:49:48 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:49:51 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:49:52 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:49:53 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:49:54 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:49:54 - Entered text: Grille 601
-2024-03-05 12:49:54 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:49:54 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:49:55 - Entered text: 4800610305-GRILLE 601
-2024-03-05 12:49:55 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:49:59 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:50:03 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:50:04 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:50:04 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:50:05 - Entered text: 4800610305
-2024-03-05 12:50:05 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:50:05 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:50:06 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:50:06 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:50:07 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:50:08 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:50:08 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:50:12 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:50:15 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:50:19 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:50:19 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:50:20 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:50:21 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:50:21 - Entered text: Einstein Bros
-2024-03-05 12:50:21 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:50:22 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:50:22 - Entered text: 4800610308-EINSTEIN BROS
-2024-03-05 12:50:22 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:51:17 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:51:18 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:51:18 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:51:19 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:51:19 - Entered text: Grille 601
-2024-03-05 12:51:19 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:51:20 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:51:20 - Entered text: 4800610305-GRILLE 601
-2024-03-05 12:51:20 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:51:25 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:51:29 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:51:29 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:51:29 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:51:30 - Entered text: 4800610305
-2024-03-05 12:51:30 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:51:30 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:51:31 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:51:31 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:51:32 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:51:33 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:51:34 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:51:37 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:51:41 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:51:44 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:51:45 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:51:46 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:51:46 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:51:47 - Entered text: Einstein Bros
-2024-03-05 12:51:47 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:51:47 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:51:47 - Entered text: 4800610308-EINSTEIN BROS
-2024-03-05 12:51:48 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:51:52 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:51:56 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:51:56 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:51:57 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:51:57 - Entered text: 4800610308
-2024-03-05 12:51:58 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:51:58 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:51:59 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:51:59 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:00 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:52:00 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:01 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:52:05 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:52:08 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:52:11 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:52:12 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:52:13 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:52:14 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:52:14 - Entered text: Flamersg
-2024-03-05 12:52:14 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:52:14 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:52:15 - Entered text: 4800610311-FLAMERSG
-2024-03-05 12:52:15 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:52:19 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:52:23 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:52:24 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:52:24 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:52:25 - Entered text: 4800610311
-2024-03-05 12:52:25 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:52:25 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:52:26 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:52:26 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:27 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:52:28 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:28 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:52:32 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:52:35 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:52:39 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:52:39 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:52:40 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:52:41 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:52:41 - Entered text: Blimpies
-2024-03-05 12:52:41 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:52:42 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:52:42 - Entered text: 4800610313-BLIMPIES
-2024-03-05 12:52:42 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:52:46 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:52:51 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:52:51 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:52:51 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:52:52 - Entered text: 4800610313
-2024-03-05 12:52:52 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:52:52 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:52:53 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:52:53 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:54 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:52:55 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:52:55 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:52:59 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:53:03 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:53:06 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:53:07 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:53:07 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:53:08 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:53:08 - Entered text: Noble Romansg
-2024-03-05 12:53:09 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:53:09 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:53:09 - Entered text: 4800610314-NOBLE ROMANSG
-2024-03-05 12:53:09 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:53:14 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:53:18 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:53:18 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:53:19 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:53:19 - Entered text: 4800610314
-2024-03-05 12:53:19 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:53:20 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:53:20 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:53:21 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:53:21 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:53:22 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:53:23 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:53:27 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:53:30 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:53:33 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:53:34 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:53:35 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:53:35 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:53:36 - Entered text: JHH Commissary
-2024-03-05 12:53:36 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:53:36 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:53:37 - Entered text: 4800610400-JHH COMMISSARY
-2024-03-05 12:53:37 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:53:41 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:53:45 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:53:46 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:53:46 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:53:47 - Entered text: 4800610400
-2024-03-05 12:53:47 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:53:47 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:53:48 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:53:48 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:53:49 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:53:49 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:53:50 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:54:25 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:54:26 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:54:26 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:54:27 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:54:27 - Entered text: JHH Commissary
-2024-03-05 12:54:28 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:54:28 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:54:28 - Entered text: 4800610400-JHH COMMISSARY
-2024-03-05 12:54:28 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:54:33 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:54:37 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:54:37 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:54:38 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:54:38 - Entered text: 4800610400
-2024-03-05 12:54:38 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:54:39 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:54:39 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:54:40 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:54:40 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:54:41 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:54:42 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:54:46 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:54:49 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:54:52 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:54:53 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:54:54 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:54:54 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:54:55 - Entered text: Weinberg Cafe
-2024-03-05 12:54:55 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:54:55 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:54:56 - Entered text: 4800610401-WEINBERG CAFE
-2024-03-05 12:54:56 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:55:00 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:55:04 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:55:05 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:55:05 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:55:06 - Entered text: 4800610401
-2024-03-05 12:55:06 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:55:06 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:55:07 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:55:07 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:55:08 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:55:08 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:55:09 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:55:13 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:55:16 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:55:20 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:55:20 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:55:21 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:55:22 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:55:22 - Entered text: CMSC Facility
-2024-03-05 12:55:22 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:55:23 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:55:23 - Entered text: 4800610403-CMSC FACILITY
-2024-03-05 12:55:23 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:55:27 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:55:32 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:55:32 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:55:32 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:55:33 - Entered text: 4800610403
-2024-03-05 12:55:33 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:55:33 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:55:34 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:55:34 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:55:35 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:55:36 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:55:37 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:55:40 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:55:44 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:55:47 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:55:48 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:55:48 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:55:49 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:55:50 - Entered text: Patient Service Asst
-2024-03-05 12:55:50 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:55:50 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:55:51 - Entered text: 4800610404-PATIENT SERVICE ASST
-2024-03-05 12:55:51 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:55:55 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:55:59 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:55:59 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:56:00 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:56:00 - Entered text: 4800610404
-2024-03-05 12:56:01 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:56:01 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:56:02 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:56:02 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:03 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:56:03 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:04 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:56:08 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:56:11 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:56:15 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:56:15 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:56:16 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:56:17 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:56:17 - Entered text: OSK Facility
-2024-03-05 12:56:17 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:56:17 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:56:18 - Entered text: 4800610405-OSK FACILITY
-2024-03-05 12:56:18 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:56:22 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:56:27 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:56:27 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:56:27 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:56:28 - Entered text: 4800610405
-2024-03-05 12:56:28 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:56:28 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:56:29 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:56:29 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:30 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:56:31 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:31 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:56:35 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:56:39 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:56:42 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:56:43 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:56:43 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:56:44 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:56:44 - Entered text: Clinl Nutr IP Adult
-2024-03-05 12:56:45 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:56:45 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:56:45 - Entered text: 4800610407-CLINL NUTR IP ADULT
-2024-03-05 12:56:46 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:56:50 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:56:54 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:56:54 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:56:55 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:56:55 - Entered text: 4800610407
-2024-03-05 12:56:56 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:56:56 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:56:57 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:56:57 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:58 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:56:58 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:56:59 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:57:03 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:57:06 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:57:09 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:57:10 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:57:11 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:57:12 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:57:12 - Entered text: Clinl Nutr OP Adult
-2024-03-05 12:57:12 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:57:12 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:57:13 - Entered text: 4800610408-CLIN NUTR OP ADULT
-2024-03-05 12:57:13 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:57:17 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:57:22 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:57:22 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:57:22 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:57:23 - Entered text: 4800610408
-2024-03-05 12:57:23 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:57:23 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:57:24 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:57:24 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:57:25 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:57:26 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:57:26 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:57:30 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:57:34 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 12:57:37 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 12:57:38 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:57:38 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 12:57:39 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 12:57:39 - Entered text: Hats Clinic Services
-2024-03-05 12:57:40 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-05 12:57:40 - Mouse moved and clicked at (1040, 253), with a 0.20 second interval
-2024-03-05 12:57:40 - Entered text: 4803317933-HATS CLINIC SERVICES
-2024-03-05 12:57:41 - Mouse moved and clicked at (1442, 503), with a 0.20 second interval
-2024-03-05 12:57:45 - Mouse moved and clicked at (1095, 408), with a 0.20 second interval
-2024-03-05 12:57:49 - Mouse moved and clicked at (1007, 254), with a 0.20 second interval
-2024-03-05 12:57:49 - Mouse moved and clicked at (1322, 316), with a 0.20 second interval
-2024-03-05 12:57:50 - Mouse moved and clicked at (1427, 446), with a 0.20 second interval
-2024-03-05 12:57:50 - Entered text: 4803317933
-2024-03-05 12:57:51 - Mouse moved and clicked at (1456, 475), with a 0.20 second interval
-2024-03-05 12:57:51 - Mouse moved and clicked at (1584, 478), with a 0.20 second interval
-2024-03-05 12:57:52 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:57:52 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:57:53 - Mouse moved and clicked at (1056, 376), with a 0.20 second interval
-2024-03-05 12:57:53 - Mouse moved and clicked at (1047, 299), with a 0.20 second interval
-2024-03-05 12:57:54 - Mouse moved and clicked at (1424, 779), with a 0.20 second interval
-2024-03-05 12:57:58 - Mouse moved and clicked at (1856, 996), with a 0.20 second interval
-2024-03-05 12:58:01 - Mouse moved and clicked at (1796, 994), with a 0.20 second interval
-2024-03-05 13:02:02 - Mouse moved and clicked at (1009, 263), with a 0.20 second interval
-2024-03-05 13:02:03 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 13:02:03 - Mouse moved and clicked at (1334, 258), with a 0.20 second interval
-2024-03-05 13:02:04 - Mouse moved and clicked at (1100, 221), with a 0.20 second interval
-2024-03-05 13:02:05 - Entered text: Rev Cycle Mgmt Site
-2024-03-05 13:02:05 - Mouse moved and clicked at (1039, 252), with a 0.20 second interval
-2024-03-06 21:05:59 - Entered text: Rev Cycle Mgmt Site
-2024-03-06 21:06:00 - Entered text: 4500030179-REV CYCLE MGMT SITE
-2024-03-06 21:37:35 - Entered text: Test 1
-2024-03-06 21:37:35 - Entered text: Test 1 - testOU
-2024-03-06 21:39:44 - Entered text: Test 1
-2024-03-06 21:39:44 - Entered text: Test 1 - testOU
-2024-03-06 21:40:55 - Entered text: Test 1
-2024-03-06 21:40:56 - Entered text: Test 1 - testOU
-2024-03-06 21:43:40 - Entered text: Test 1
-2024-03-06 21:43:41 - Entered text: Test 1 - testOU
-2024-03-06 21:47:37 - Entered text: Test 1
-2024-03-06 21:47:38 - Entered text: Test 1 - testOU
-2024-03-06 21:51:04 - Entered text: Test 1
-2024-03-06 21:51:06 - Entered text: Test 1 - testOU
-2024-03-06 21:51:53 - Entered text: Test 1
-2024-03-06 21:51:55 - Entered text: Test 1 - testOU
-2024-03-06 21:52:05 - Entered text: testOU
-2024-03-06 21:52:54 - Entered text: Test 1
-2024-03-06 21:52:56 - Entered text: Test 1 - testOU
-2024-03-06 21:53:06 - Entered text: testOU
-2024-03-06 21:53:07 - Entered text: test2OU
-2024-03-06 22:02:46 - Entered text: Test 1
-2024-03-06 22:02:47 - Entered text: Test 1 - testOU
-2024-03-06 22:02:58 - Entered text: testOU
-2024-03-06 22:02:59 - Entered text: test2OU
-2024-03-06 22:03:08 - Entered text: ASC GS - Group A
-2024-03-06 22:06:39 - Entered text: Test 1
-2024-03-06 22:06:41 - Entered text: Test 1 - testOU
-2024-03-06 22:06:51 - Entered text: testOU
-2024-03-06 22:06:52 - Entered text: test2OU
-2024-03-06 22:07:02 - Entered text: ASC GS - Group A
-2024-03-06 22:07:13 - Entered text: Test 2
+Processed Hyperfind: SH-6006106351-ENT
+Processed Hyperfind: SH-6006106353-UROLOGY
+SH-6006106351-ENT: Processed Successfully.
+SH-6006106351-ENT: Processed Successfully.
+SH-6021337900-PA PHYSI ASSIST: Processed Successfully.
+SH-6021337900-PA PHYSI ASSIST: Processed Successfully.
+SH-6021337910-PA PHYS ASST CV: Processed Successfully.
+SH-6111336800-SC OUTPAT SURG: Processed Successfully.
+SHHS-BHU Excluded: Processed Successfully.
+SHHS-BHU/OR Excluded: Processed Successfully.
+SHHS-Non-Scheduling Users: Processed Successfully.
+SHHS-OR: Processed Successfully.
+SHP VU Burton 1: Processed Successfully.
+SHP Wound Team: Processed Successfully.
+Sibley Grand Oaks: Processed Successfully.
+SMH-6301010203-Senior Assoc: Processed Successfully.
+SMH-6301020131-OperatingRoom: Processed Successfully.
+SMH-6301020132-PACU: Processed Successfully.
+SMH-6301020133-SterileProcessing: Processed Successfully.
+SMH-6301020134-SibleyAmbSurgCtr: Processed Successfully.
+SMH-6301020135-2APrePostSurg: Processed Successfully.
+SMH-6301020138-Surg Posting: Processed Successfully.
+SMH-6301020140-PreSurgTestingCtr: Processed Successfully.
+SMH-6301020144-Endoscopy: Processed Successfully.
+SMH-6301020145-Endo Recovery: Processed Successfully.
+SMH-6301020149-Anesthesia: Processed Successfully.
+SMH-6301020221-5B: Processed Successfully.
+SMH-6301020224-Emergency Medicine: Processed Successfully.
+SMH-6301020227-Transport: Processed Successfully.
+SMH-6301020242-Resp Ther: Processed Successfully.
+SMH-6301020271-Hem Onc: Processed Successfully.
+SMH-6301020271-Hematology Oncology: Processed Successfully.
+SMH-6301020351-6B: Processed Successfully.
+SMH-6301020355-7B: Processed Successfully.
+SMH-6301020412-FamilyCtrdCare: Processed Successfully.
+SMH-6301020413-SpecCareNursery: Processed Successfully.
+SMH-6301020415-ChildbirthEdu: Processed Successfully.
+SMH-6301020428-MaternalFetalMed: Processed Successfully.
+SMH-6301020503-PCC: Processed Successfully.
+SMH-6301020504-Safety Sitter: Processed Successfully.
+SMH-6301020507-Nursing PRN Pool: Processed Successfully.
+SMH-6301020601-Onc Svc Line Admin: Processed Successfully.
+SMH-6301020605-Rad Therapy: Processed Successfully.
+SMH-6301020606-Unity Health: Processed Successfully.
+SMH-6301020641-Med Onc Clinic: Processed Successfully.
+SMH-6301020642-Med Onc: Processed Successfully.
+SMH-6301020643-Proton Therapy: Processed Successfully.
+SMH-6301020961-Renaissance: Processed Successfully.
+SMH-6301030483-Case Cor: Processed Successfully.
+SMH-6301040113-JHUSOM Thor Surg: Processed Successfully.
+SMH-6301040125-JHUSOM Dr Smith: Processed Successfully.
+SMH-6301060147-GI Sib JHU Prac: Processed Successfully.
+SMH-6301060204-Diag Fluoro: Processed Successfully.
+SMH-6301060206-IRCV: Processed Successfully.
+SMH-6301060206-SpecialProc: Processed Successfully.
+SMH-6301060207-Ultrasound: Processed Successfully.
+SMH-6301060208-BreastCenter: Processed Successfully.
+SMH-6301060209-MRI: Processed Successfully.
+SMH-6301060210-Nuclear Med: Processed Successfully.
+SMH-6301060211-Xray Admin: Processed Successfully.
+SMH-6301060213-PACS RIS: Processed Successfully.
+SMH-6301060214-CT Imaging: Processed Successfully.
+SMH-6301060215-MOB Rad Gen Diag: Processed Successfully.
+SMH-6301060216-MOB Rad Ultrasound: Processed Successfully.
+SMH-6301060217-MOB Rad Ct: Processed Successfully.
+SMH-6301060219-MOB Rad Admin: Processed Successfully.
+SMH-6301060262-Cardio Non Inv: Processed Successfully.
+SMH-6301060263-Sleep Center: Processed Successfully.
+SMH-6301060263-Sleep Ctr: Processed Successfully.
+SMH-6301060267-Electroneurodiag: Processed Successfully.
+SMH-6301080178-InfoTechnology: Processed Successfully.
+SMH-6301090109-Volunteers: Processed Successfully.
+SMH-6301090212-Chap Svcs: Processed Successfully.
+SMH-6301090370-Pharmacy: Processed Successfully.
+SMH-6301090371-Pharm Residents: Processed Successfully.
+SMH-6301090372-Infusion Med Drugs: Processed Successfully.
+SMH-6301090374-Pharm Research: Processed Successfully.
+SMH-6301090421-Lab Admin: Processed Successfully.
+SMH-6301090422-GO-Core Lab: Processed Successfully.
+SMH-6301090423-Blood Bank: Processed Successfully.
+SMH-6301090426-Anatomic Path: Processed Successfully.
+SMH-6301090724-EVS-Laundry and Linen: Processed Successfully.
+SMH-6301091239-EVS-EVS: Processed Successfully.
+SMH-6301100106-Safety and Security: Processed Successfully.
+SMH-6301100109-Parking: Processed Successfully.
+SMH-6301100215-Telecommunications: Processed Successfully.
+SMH-6301100409-OccHealth: Processed Successfully.
+SMH-6301111106-Med Staff Spt: Processed Successfully.
+SMH-6301112034-Mammography Phys: Processed Successfully.
+SMH-6301112544-Pri Care Phys: Processed Successfully.
+SMH-6301113257-Tho Surg: Processed Successfully.
+SMH-6304050443-EVS-MB EVS: Processed Successfully.
+SMH-6306050101-GO-Ops Admin: Processed Successfully.
+SMH-6306050104-GO-Plant Ops: Processed Successfully.
+SMH-6306050105-GO-Sales and Marketing: Processed Successfully.
+SMH-6306050107-GO-Nutrition Services: Processed Successfully.
+SMH-6306050108-GO-Environmental Services: Processed Successfully.
+SMH-6306050109-GO-Senior Activities: Processed Successfully.
+SMH-6306050110-GO-SafeSec: Processed Successfully.
+SMH-6306050111-GO-Nursing: Processed Successfully.
+SMH-6306050112-GO-Oasis: Processed Successfully.
+SMH-6306050113-GO-Assisted Living: Processed Successfully.
+SMH-All Pharmacy Cost Centers: Processed Successfully.
+SMH-L and D-Blue Group: Processed Successfully.
+SMH-L and D-PRN Group: Processed Successfully.
+SMH-WISFloatPool PRN: Processed Successfully.
+SMH-WISFloatPool RN: Processed Successfully.
+Suburban Behav Health: Processed Successfully.
+Suburban Hospital-Global: Processed Successfully.
+Temporary Labor-Suburban: Processed Successfully.
+unit float RNS: Processed Successfully.
+xBCC  loat-PERM 1: Processed Successfully.
+xHCGH-Cardio Diag-All Groups: Processed Successfully.
+.....BMCN-BICU: Processed Successfully.
+****BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.
+^^^Test^^^^BMCN-BICU: Processed Successfully.

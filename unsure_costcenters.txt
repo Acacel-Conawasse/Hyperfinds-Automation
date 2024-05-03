@@ -1,4 +1,6 @@
 
-Unmatched items found. First element: 10002372
-*****BMCN-BICU not created
+Unmatched items found.
+Copied numbers: 10002372,10002000
+Expected numbers: 10002372,100020
+*11-BMCN-BICU not created
 -----------------------------------------------------------------

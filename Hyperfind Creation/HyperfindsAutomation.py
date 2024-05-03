@@ -140,32 +140,6 @@ def schedule_group_steps(schedule_group_text):
         time.sleep(0.5)
         
 
-#def final_validation_step(hyperfind_name, orgunit,cost_centers):
-#    # Click to focus and select the item, and copy it to the clipboard
-#    pyautogui.click(1194, 318)
-#    time.sleep(0.1)
-#    pyautogui.click(1194, 318)
-#    time.sleep(0.1)
-#    pyautogui.click(1194, 318)
-#    pyautogui.hotkey('ctrl', 'c')
-#    time.sleep(0.1)  # Wait a bit for the clipboard to update
-#
-#    # Retrieve and process the copied text
-#    copied_text = pyperclip.paste()
-#    copied_numbers = set(''.join(filter(str.isdigit, copied_text)).split(','))
-#    plc_numbers = set(''.join(filter(str.isdigit, orgunit or cost_centers)).split('#'))
-#
-#    # Compare the two sets of numbers
-#    if copied_numbers == plc_numbers:
-#        return "All items match."
-#    else:
-#        # Log the unmatched items
-#        with open("unsure_costcenters.txt", "a") as file:
-#            file.write("Unmatched items found. First element: {}\n".format(next(iter(copied_numbers))))
-#            file.write(hyperfind_name +"not created"+ "\n")
-#        print(hyperfind_name +"not created")
-#        pyautogui.click(1711, 993)  # click cancel
-
 def finalize_hyperfind_creation(hyperfind_name, orgunit, cost_centers):
     """Finalizes and saves the Hyperfind."""
     #move_and_click(1417, 777)
@@ -241,6 +215,7 @@ def check_hyperfind():
     Checks if the selected text matches 'HYPERFIND'.
     Returns True if it matches, False otherwise.
     """
+    time.sleep(0.5)
     pyautogui.click(1021, 187)
     time.sleep(0.25)
     pyautogui.click(1021, 187)

@@ -1,6 +1,379 @@
 
+
 Unmatched items found.
-Copied numbers: 10002372,10002000
-Expected numbers: 10002372,100020
-*11-BMCN-BICU not created
+Copied numbers: 
+Expected numbers: 10002378
+BMCN-MICU not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 4801310007
+Expected numbers: 4801310007,4500150305
+BMCN-Nursing Admin Mgmt not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617515000
+HCGH-4617517000-Docum. Central not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617525000
+HCGH-4617525000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617555000
+HCGH-4617555000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6406110000
+HCGH-6406110000-Public Relatio not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6406270000
+HCGH-6406270000-Regulatory Com not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6407041000
+HCGH-6407041000-Med Surg Float Pool not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 5032024
+Expected numbers: 6407071000
+HCGH-6407071000-Constant Observer not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6407071000
+HCGH-6407071000-Constant Observers not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 6407410000
+Expected numbers: 6407420000
+HCGH-6407420000-Pediatric Emer not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6407540000
+HCGH-6407540000-Endoscopy Hosp not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408200000
+HCGH-6408200000-Outpatient Adm not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408230000
+HCGH-6408230000-EECP not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408255200
+HCGH-6408255200-Outpatient OT not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408470000
+HCGH-6408470000-Breast Health not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408930000
+HCGH-6408930000-Catering not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6408940000
+HCGH-6408940000-Vending not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001116019
+SH-6001116019-6400-MS2 not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001116021
+SH-6001116021-ACUTE MED SURG not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001126341
+SH-6001126341-STEPDOWN not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001206375
+SH-6001206375-TRAUMA not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001316357
+SH-6001316357-OR-OPHTH not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001326372
+SH-6001326372-IVF not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001337435
+SH-6001337435-ANESTHESIA not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001406373
+SH-6001406373-NOT USED not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6001608674
+SH-6001608674-ATC CO YOUNG AD not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6002107404
+SH-6002107404-MICROBIOLOGY not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6002107503
+SH-6002107503-LAB OPMC not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6002207421
+SH-6002207421-RADIOLOGY not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6002307442
+SH-6002307442-SPEECH THERAPY not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6002506026
+SH-6002506026-STROKE not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6003507484
+SH-6003507484-ODYSSEY not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6003507486
+SH-6003507486-AMGEN RES not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6003507489
+SH-6003507489-PUMA not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6003507493
+SH-6003507493-CSA-AKI not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6003507494
+SH-6003507494-EVARREST not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6004008311
+SH-6004008311-CAFETER-PANTRY not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6004008331
+SH-6004008331-LINEN not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6005308621
+SH-6005308621-DATA PROC not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6005408612
+SH-6005408612-COMMUNICATIONS not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6005408678
+SH-6005408678-HEARTWELL not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 40364400
+SH-WEA Misc Hours Audit not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6008100000
+SH-6008100000-NON DEPT not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6008108999
+SH-6008108999-NON DEPT not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6301090109
+SMH-6301090109-Volunteers not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6301090426
+SMH-6301090426-Anatomic Path not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6301100109
+SMH-6301100109-Parking not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6306050101
+SMH-6306050101-GO-Ops Admin not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6306050107
+SMH-6306050107-GO-Nutrition Services not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4104657000
+xBCC  laza-PERM 1 not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 10002378
+BMCN-MICU not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 4801310007
+Expected numbers: 4801310007,4500150305
+BMCN-Nursing Admin Mgmt not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617515000
+HCGH-4617517000-Docum. Central not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617525000
+HCGH-4617525000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617555000
+HCGH-4617555000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 4801310007
+Expected numbers: 4801310007,4500150305
+BMCN-Nursing Admin Mgmt not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617515000
+HCGH-4617517000-Docum. Central not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617525000
+HCGH-4617525000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 4617555000
+HCGH-4617555000-Tcas not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6406110000
+HCGH-6406110000-Public Relatio not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6406270000
+HCGH-6406270000-Regulatory Com not created
+-----------------------------------------------------------------
+
+Unmatched items found.
+Copied numbers: 
+Expected numbers: 6407071000
+HCGH-6407071000-Constant Observer not created
 -----------------------------------------------------------------

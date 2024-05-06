@@ -41,7 +41,7 @@ def start_hyperfind_creation():
     move_and_click(1338, 263)
     time.sleep(0.2)
     move_and_click(1338, 263)
-    time.sleep(0.5)
+    time.sleep(1)
 
 def enter_hyperfind_details(hyperfind_name, description):
     """Enters Hyperfind name and description."""
@@ -56,7 +56,7 @@ def enter_hyperfind_details(hyperfind_name, description):
 def add_hyperfind_condition():
     """Navigates to add a new condition for the Hyperfind."""
     move_and_click(1420, 511)
-    time.sleep(2)
+    time.sleep(4)
 
 def select_primary_labor_category():
     """Selects the primary labor category."""
@@ -146,17 +146,18 @@ def format_numbers(numbers, delimiter, group_size):
 
 def finalize_hyperfind_creation(hyperfind_name, orgunit, cost_centers):
     """Finalizes and saves the Hyperfind."""
-    #move_and_click(1417, 777)
+    # Move and click actions
     time.sleep(2.5)
     move_and_click(1864, 988)
     time.sleep(2)
-    """iuhu"""
+    
     # Click to focus and select the item, and copy it to the clipboard
     pyautogui.click(1194, 318)
     time.sleep(0.1)
     pyautogui.click(1194, 318)
     time.sleep(0.1)
     pyautogui.click(1194, 318)
+    time.sleep(0.1)
     pyautogui.hotkey('ctrl', 'c')
     time.sleep(0.1)  # Wait a bit for the clipboard to update
 
@@ -166,41 +167,49 @@ def finalize_hyperfind_creation(hyperfind_name, orgunit, cost_centers):
     
     group_size = 8  # Default group size for orgunit
     if cost_centers != "Null":
-        group_size = 10  # Group size for cost_centers
+        group_size = 10  # Group size for cost centers
     
     formatted_copied_numbers = format_numbers(copied_numbers, ',', group_size)
 
-    expetedConditions = ""
+    expected_conditions = ""
     if cost_centers != "Null":
-        expeted_conditions = ''.join(filter(str.isdigit, cost_centers))
-        formatted_expected_conditions = format_numbers(expeted_conditions, ',', 10)
+        expected_conditions = ''.join(filter(str.isdigit, cost_centers))
     elif orgunit != "Null":
-        expeted_conditions = ''.join(filter(str.isdigit, orgunit))
-        formatted_expected_conditions = format_numbers(expeted_conditions, ',', 8)
+        expected_conditions = ''.join(filter(str.isdigit, orgunit))
 
-    # Compare the two sets of numbers
-    if formatted_copied_numbers == formatted_expected_conditions:
+    if expected_conditions:
+        formatted_expected_conditions = format_numbers(expected_conditions, ',', group_size)
+
+        # Compare the two sets of numbers
+        if formatted_copied_numbers == formatted_expected_conditions:
+            move_and_click(1786, 994)
+            time.sleep(2.5)
+            print("All items match.")
+        else:
+            log_unmatched_items(hyperfind_name, formatted_copied_numbers, formatted_expected_conditions)
+    else:
+        # Handle the case where there are no numbers in both parameters
+        print("Schedule Group created successfully")
         move_and_click(1786, 994)
         time.sleep(2.5)
-        print("All items match.")
-    else:
-        # Log the unmatched items
-        with open("unsure_costcenters.txt", "a") as file:
-            file.write("\nUnmatched items found.\n")
-            file.write("Copied numbers: {}\n".format(formatted_copied_numbers))
-            file.write("Expected numbers: {}\n".format(formatted_expected_conditions))
-            file.write(hyperfind_name + " not created\n")
-            file.write("-----------------------------------------------------------------\n")
 
-        print(hyperfind_name + " not created")
-        print("Copied numbers | Expected numbers")
-        print("----------------|-----------------")
-        print("{} | {}".format(formatted_copied_numbers, formatted_expected_conditions))
-        pyautogui.click(1711, 993)  # click cancel
-        time.sleep(1)
-        pyautogui.press('tab', presses=2, interval=0.09)
-        pyautogui.press('enter')
-        time.sleep(.5)
+def log_unmatched_items(hyperfind_name, copied, expected):
+    with open("unsure_costcenters.txt", "a") as file:
+        file.write("\nUnmatched items found.\n")
+        file.write("Copied numbers: {}\n".format(copied))
+        file.write("Expected numbers: {}\n".format(expected))
+        file.write(hyperfind_name + " not created\n")
+        file.write("-----------------------------------------------------------------\n")
+
+    print(hyperfind_name + " not created")
+    print("Copied numbers | Expected numbers")
+    print("----------------|-----------------")
+    print("{} | {}".format(copied, expected))
+    pyautogui.click(1711, 993)  # Click cancel
+    time.sleep(1)
+    pyautogui.press('tab', presses=2, interval=0.09)
+    pyautogui.press('enter')
+    time.sleep(.5)
 
 
 
